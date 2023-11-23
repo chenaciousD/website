@@ -4,30 +4,21 @@ date: 2020-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 ---
 
-![Alt text for the image](Toyota-1.jpg)
-
-### The Ask
-In 2016, a leading Japanese automaker engaged frog to envision an AI concept car of the future by reconceptualizing the relationship between car and driver and leveraging emerging technologies such as AI, autonomous driving and new digital interfaces.
-
-### The Process
-The frog team was comprised of interaction designers, visual designers, film/motion animators, mechanical engineers, strategists and industrial designers. My role on the team included:
-- Millennial consumer research
-- Signature moment and concept development
-- Car-driver narrative and AI personality definition
-- Interaction and relationship model concept development
-- Facilitation of key client workshops and activities
-
 ### The Outcome
 frog delivered a differentiated concept, signature experiences, and a radical interaction model designed to evolve and grow.
 
-![Alt text for the image](Toyota-2.jpg)
+![Alt text for the image](ImageClassifier.png)
 
-#### Relationship Learning Model
-Core to the concept was a relationship model based on primary research with millennials who stated that discovery and well-being were key motivators for meaning in the 21st century.
+### Training my own Neural Network 
+I used Google Colab and Jupiter Notebook and used a dataset from Archdaily to train a neural network to predict a building type based on an image. 
+I used fast.AI’s library to create datablocks. 
+Part of this was to take the categorical data and transform it into numericals - and then associate it with an image. 
+I then split the dataset into a training dataset and a validation data set. 
+I used Resnet50 which is a convolutional neural network.
 
-![Alt text for the image](Toyota-3.jpg)
 
-#### A Multi-modal, Decentralized Interaction Model
-We developed a radically different interaction model that was able to move across the car in a “fairy” like fashion to “portals” within the interior and exterior of the vehicle.
+### Building a Reinforcement Learning Algorithm 
+A news reading experience that learns your preferred level of summarization based on content category and context, using Q-learning. 
+This Flask web application is a sophisticated news content aggregator and distributor, integrating OpenAI's GPT-3 and NewsAPI for dynamic content handling. It fetches, processes, and serves news articles, optimizing its actions based on user feedback and reinforcement learning. The core mechanism involves fetching news from various categories, extracting content, and storing it with a 'served' status. An 'Agent' then selects actions, like generating headlines or summaries, based on the current state, which considers time, category, and user interactions. This Agent uses an epsilon-greedy policy for decision-making, striking a balance between exploring new actions and exploiting known successful ones. User feedback plays a crucial role in refining the system's learning, as it updates Q-values to enhance future content relevance and effectiveness. This design allows the app to adapt over time, offering a responsive and evolving experience in news content delivery.
 
-Several partners were involved in bringing this concept to life which eventually launched publicly in 2017. In 2017, our client launched the concept at CES where it was also given a prestigious Best of CES award. The concept will be a showcase piece for our client at the Tokyo Olympics in 2020.
+
