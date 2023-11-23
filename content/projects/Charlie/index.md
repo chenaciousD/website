@@ -4,7 +4,7 @@ date: 2017-04-01T02:01:58+05:30
 description: "Imbuing a penguin financial assistant with a distinctive personality"
 ---
 
-![Alt text for the image](Charlie-1.gif)
+{{< figure src="Charlie-1.gif" title="Charlie Homepage" >}} 
 
 ### The Ask
 Charlie Finance (since acquired by Chime), a fintech startup approached frog to help integrate product, brand, and marketing for a financial assistant chatbot that users interacted exclusively over text.
@@ -21,7 +21,7 @@ The frog team was comprised of interaction designers, visual designers, and copy
 ### Integrating Product, Brand & Marketing for a Cohesive Experience
 During our brand/character discovery phase, the team looked to several areas of inspiration - from animals to robots to abstract chat bubbles:
 
-![Alt text for the image](Charlie-2.jpg)
+{{< figure src="Charlie-2.jpg" title="AI Brand Explorations" >}} 
 
 #### Outcome 
 We selected a robotic penguin mascot because of its innate friendly demeanor, its loyalty, and intelligence. Through many rounds of iteration, we tailored the penguin to visually demonstrate intelligence with details such as its delightful antennae and dot matrix belly. We also conducted quantitative A/B tests to assess the penguin’s performance relative to other identity/brand strategic directions.

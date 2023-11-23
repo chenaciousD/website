@@ -9,7 +9,7 @@ DRAFT COMING
 ### Why I did this experiments
 Bacon ipsum dolor amet pork chop pancetta ball tip, turkey bresaola landjaeger flank sausage. Prosciutto beef ribs pork belly, hamburger ham hock brisket bacon boudin.
 
-![Alt text for the image](ImageClassifier.png)
+{{< figure src="ImageClassifier.png" title="Sample images with one-hot encoding" >}}
 
 ### Training my own Neural Network 
 I used Google Colab and Jupiter Notebook and used a dataset from Archdaily to train a neural network to predict a building type based on an image. 
@@ -18,7 +18,12 @@ Part of this was to take the categorical data and transform it into numericals -
 I then split the dataset into a training dataset and a validation data set. 
 I used Resnet50 which is a convolutional neural network.
 
-{{< highlight go >}} A bunch of code here {{< /highlight >}}
+{{< highlight python >}}
+def train_model():
+learn = cnn_learner(train_dls, resnet50, metrics=accuracy)
+learn.lr_find()
+learn.fit_one_cycle(10, lr_max=1e-3)
+{{< /highlight >}}
 
 
 ### Building a Reinforcement Learning Algorithm 

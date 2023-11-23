@@ -4,7 +4,7 @@ date: 2019-04-01T02:01:58+05:30
 description: "Transforming Australia's largest energy utility through design"
 ---
 
-![Alt text for the image](Energy-1.jpg)
+{{< figure src="Energy-1.jpg" title="Design Language System" >}}
 
 ### The Ask
 In 2017 one of Australia’s leading energy utilities approached frog to partner on a major digital transformation. With a clear mandate to improve customer experience and retention, frog’s engagement included in-depth customer research, concepting, business case validation, foundational design, and a clear roadmap and process for implementation.
@@ -22,14 +22,14 @@ Frog facilitated several workshops with our client’s internal team to gain ali
 ### The Outcome
 Frog delivered a toolkit of design, strategy, and product assets that our client could leverage during implementation.
 
-![Alt text for the image](Energy-2.jpg)
+{{< figure src="Energy-2.jpg" title="Framework for each customer domain" >}}
 
 #### A Roadmap & Framework Oriented around Customer Needs
 A key piece of the roadmap was aligning on a customer-driven framework to galvanize the client-side product team.
 
 We aligned on a set of 40 major Customer Initiatives gathered from customer research and internal workshops. For each Customer Initiative, we created a Market Requirements Document that described the initiative at a high level. Implementation teams would then further break down the technical requirements to deliver on the Initiative’s goals.
 
-![Alt text for the image](Energy-3.jpg)
+{{< figure src="Energy-3.jpg" title="Signature moment for understanding your energy usage" >}}
 
 #### Signature Customer Experiences
 Across all Customer Events, frog generated differentiated signature moments that addressed distinct customer needs synthesized from primary research. Below is one example of a signature moment that addressed the need for understanding energy usage.

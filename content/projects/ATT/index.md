@@ -5,7 +5,6 @@ description: "Rebuilding trust with customers"
 ---
 
 ![Image description](ATT-1.gif)
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
 
 ### The Ask
 A leading US telco asked frog to envision the company’s future end to end customer experience. The telco had recently acquired new media/content assets that increased its competitive advantage, enabling it to offer a richer suite of products and content to customers.

@@ -4,7 +4,7 @@ date: 2018-04-01T02:01:58+05:30
 description: "Enabling customers to control a hamburger making robot"
 ---
 
-![Alt text for the image](Creator-1.jpg)
+{{< figure src="Creator-1.jpg" title="Mobile burger customization and ordering experience" >}}
 
 ### The Ask
 Creator, an SF-based startup attempting to disrupt the industrialized food system, asked frog to design a mobile ordering and burger customization app that showcased its revolutionary machine. (Note: The machine itself was designed by noted automotive designer, Per Selvaag).

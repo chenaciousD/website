@@ -4,7 +4,7 @@ date: 2015-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 ---
 
-![Alt text for the image](Toyota-1.jpg)
+{{< figure src="Toyota-1.jpg" title="Movie Poster Inspiration for Car-Driver Relationship" >}} 
 
 ### The Ask
 In 2016, a leading Japanese automaker engaged frog to envision an AI concept car of the future by reconceptualizing the relationship between car and driver and leveraging emerging technologies such as AI, autonomous driving and new digital interfaces.
@@ -20,12 +20,12 @@ The frog team was comprised of interaction designers, visual designers, film/mot
 ### The Outcome
 frog delivered a differentiated concept, signature experiences, and a radical interaction model designed to evolve and grow.
 
-![Alt text for the image](Toyota-2.jpg)
+{{< figure src="Toyota-2.jpg" title="Toyota Yui Relationship Model" >}} 
 
 #### Relationship Learning Model
 Core to the concept was a relationship model based on primary research with millennials who stated that discovery and well-being were key motivators for meaning in the 21st century.
 
-![Alt text for the image](Toyota-3.jpg)
+{{< figure src="Toyota-3.jpg" title="Example Signature Moment" >}} 
 
 #### A Multi-modal, Decentralized Interaction Model
 We developed a radically different interaction model that was able to move across the car in a “fairy” like fashion to “portals” within the interior and exterior of the vehicle.
