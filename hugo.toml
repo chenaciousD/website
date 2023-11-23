@@ -22,19 +22,14 @@ paginate=3 # articles per page
 # Social Tags
 
 [[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/athul/archie"
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/chenaciousd/"
 
 [[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/athulcajay/"
-
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/chenaciousd/"
 
 # Main menu Items
 
