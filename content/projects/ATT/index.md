@@ -1,6 +1,6 @@
 ---
 title: "Customer Experience Design for AT&T"
-date: 2020-04-01T02:01:58+05:30
+date: 2016-04-01T02:01:58+05:30
 description: "Rebuilding trust with customers"
 ---
 

@@ -1,8 +1,10 @@
 ---
 title: "Four ways to use LLMs"
-date: 2020-04-01T02:01:58+05:30
+date: 2023-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 ---
+
+{{< youtube SEkGLj0bwAU>}}
 
 ### Retrieval Augmentation Generation 
 A system for users to query a document (named 'SB9.txt') and receive summarized answers about its content, leveraging both embeddings and GPT-3. Initially, the document is read, preprocessed, and split into sections. Embeddings for each section are generated using OpenAI's API and stored in Pinecone, a vector database. When a user queries the system, the closest section embeddings to the query are retrieved, and a combined response from these sections is generated. This response is then sent to GPT-3, which provides a conversational summary. Lastly, a Gradio interface allows users to interact with this system in a user-friendly manner.

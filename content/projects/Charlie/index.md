@@ -1,6 +1,6 @@
 ---
 title: "Brand and Personality Design for an AI Financial Chatbot"
-date: 2020-04-01T02:01:58+05:30
+date: 2017-04-01T02:01:58+05:30
 description: "Imbuing a penguin financial assistant with a distinctive personality"
 ---
 

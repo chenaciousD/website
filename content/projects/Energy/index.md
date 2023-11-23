@@ -1,6 +1,6 @@
 ---
 title: "Digital Transformation for a Major Energy Utility"
-date: 2020-04-01T02:01:58+05:30
+date: 2019-04-01T02:01:58+05:30
 description: "Transforming Australia's largest energy utility through design"
 ---
 
