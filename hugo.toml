@@ -1,6 +1,6 @@
 baseURL = 'https://chenaciousd.github.io/website/'
 languageCode = "en-us"
-title = "Daniel Chen is going crazy"
+title = "Daniel Chen"
 theme="archie"
 copyright = "© Athul"
 # Code Highlight
