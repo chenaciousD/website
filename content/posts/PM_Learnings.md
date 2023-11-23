@@ -5,8 +5,25 @@ draft = false
 description = "Blah blah blah"
 +++
 
-Getting on and off the tradeoff treadmill 2023
-Managing Product is Managing People 2023
-MBRs are a secret weapon 2023
-The importance of bringing people into your tent 2023
-The Whatifs 2023
+DRAFT COMING!
+
+## Getting on and off the tradeoff treadmill 2023
+
+Bacon ipsum dolor amet pork chop pancetta ball tip, turkey bresaola landjaeger flank sausage. Prosciutto beef ribs pork belly, hamburger ham hock brisket bacon boudin.
+
+
+## Managing Product is Managing People 2023
+
+Bacon ipsum dolor amet pork chop pancetta ball tip, turkey bresaola landjaeger flank sausage. Prosciutto beef ribs pork belly, hamburger ham hock brisket bacon boudin.
+
+## MBRs are a secret weapon 2023
+
+Bacon ipsum dolor amet pork chop pancetta ball tip, turkey bresaola landjaeger flank sausage. Prosciutto beef ribs pork belly, hamburger ham hock brisket bacon boudin.
+
+## The importance of bringing people into your tent 2023
+
+Bacon ipsum dolor amet pork chop pancetta ball tip, turkey bresaola landjaeger flank sausage. Prosciutto beef ribs pork belly, hamburger ham hock brisket bacon boudin.
+
+## The Whatifs 2023
+
+Bacon ipsum dolor amet pork chop pancetta ball tip, turkey bresaola landjaeger flank sausage. Prosciutto beef ribs pork belly, hamburger ham hock brisket bacon boudin.

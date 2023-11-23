@@ -17,7 +17,7 @@ frog is global design, technology and strategy consultancy. I collaborated with 
 
 # **Associate** - [ADIA](https://www.adia.ae/) (2010 - 2012)
 
-Abu Dhabi Investment Authority is one of the largest soverign wealth funds in the world. I was one of the first expatriate associates to help make direct investments in the Americas. I was involved in executing $5 bil worth of JVs, acquisitions, dispositions and other asset management activities. Managed key relationships with Blackstone, Hines, PCCP and Tishman Speyer.
+Abu Dhabi Investment Authority is one of the largest soverign wealth funds in the world. As part of an initial cohort of expatriate associates based in Abu Dhabi to help make direct investments in the Americas, I was involved in executing $5 bil worth of JVs, acquisitions, dispositions and other asset management activities. I managed key relationships with Blackstone, Hines, PCCP and Tishman Speyer.
 
 # **Analyst** - [MSREF](https://www.morganstanley.com/im/en-us/individual-investor/about-us/investment-teams/real-assets/private-real-estate-investing-team.html) (2008 - 2010)
 

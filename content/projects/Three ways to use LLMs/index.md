@@ -4,6 +4,8 @@ date: 2023-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 ---
 
+DRAFT COMING!
+
 {{< youtube SEkGLj0bwAU>}}
 
 ### Retrieval Augmentation Generation 
@@ -15,6 +17,7 @@ This Flask application acts as a virtual executive assistant for users, diligent
 ### Recommendation
 Uses Google places API provides recommendations by comparing context with the returned search results 
 Had issues with a consistent json output; had to really be specific in prompting 
+Bacon ipsum dolor amet pork chop pancetta ball tip, turkey bresaola landjaeger flank sausage. Prosciutto beef ribs pork belly, hamburger ham hock brisket bacon boudin.
 
 ### Function Calling 
 The script integrates OpenAI's GPT-3 model with the OpenWeatherMap API to provide weather-based conversational responses. The get_current_weather function fetches the current weather for specified coordinates. In the run_conversation function, an initial conversation with the GPT-3 model is initiated about the weather in Hong Kong. GPT-3 is expected to return the coordinates for Hong Kong, which are then used to fetch the weather data. The weather data, along with the model's response, is passed back to GPT-3 for a final conversational message. When the script runs, it initiates this conversation flow and prints the resulting conversation.

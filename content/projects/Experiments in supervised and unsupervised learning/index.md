@@ -4,8 +4,10 @@ date: 2023-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 ---
 
+DRAFT COMING
+
 ### Why I did this experiments
-I've been really interested in X.
+Bacon ipsum dolor amet pork chop pancetta ball tip, turkey bresaola landjaeger flank sausage. Prosciutto beef ribs pork belly, hamburger ham hock brisket bacon boudin.
 
 ![Alt text for the image](ImageClassifier.png)
 
