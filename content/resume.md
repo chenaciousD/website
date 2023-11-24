@@ -23,6 +23,8 @@ Abu Dhabi Investment Authority is one of the largest soverign wealth funds in th
 
 Morgan Stanley Real Estate Fund is Morgan Stanley's flagship real estate private equity fund. I was a mergers & acquisitions analyst based in New York. Notable projects included CalPERS advisory, FDIC loss-sharing, several equity offerings and recapitalizations (after all, this was during the Global Financial Crisis)
 
+**Other experiences** - [Bjarke Ingels Group](https://big.dk/) | [Herman Miller](https://www.hermanmiller.com/solutions/future-of-work/) 
+
 ## Education
 
 **MBA** - [Stanford GSB](https://www.gsb.stanford.edu/)
