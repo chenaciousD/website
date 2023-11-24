@@ -30,4 +30,27 @@ learn.fit_one_cycle(10, lr_max=1e-3)
 A news reading experience that learns your preferred level of summarization based on content category and context, using Q-learning. 
 This Flask web application is a sophisticated news content aggregator and distributor, integrating OpenAI's GPT-3 and NewsAPI for dynamic content handling. It fetches, processes, and serves news articles, optimizing its actions based on user feedback and reinforcement learning. The core mechanism involves fetching news from various categories, extracting content, and storing it with a 'served' status. An 'Agent' then selects actions, like generating headlines or summaries, based on the current state, which considers time, category, and user interactions. This Agent uses an epsilon-greedy policy for decision-making, striking a balance between exploring new actions and exploiting known successful ones. User feedback plays a crucial role in refining the system's learning, as it updates Q-values to enhance future content relevance and effectiveness. This design allows the app to adapt over time, offering a responsive and evolving experience in news content delivery.
 
-{{< highlight go >}} A bunch of code here {{< /highlight >}}
+{{< highlight python >}}
+def process_feedback_and_update_q_value(self, content_id, state_id):
+      # Fetch the latest engagement for the given content
+      latest_engagement = UserEngagement.query.filter_by(content_id=content_id).order_by(UserEngagement.timestamp.desc()).first()
+    
+      # Calculate the reward based on user feedback
+      reward = latest_engagement.calculate_reward()
+    
+      # Find the corresponding StateAction ID
+      state_action = StateAction.query.filter_by(state_id=state_id, action_id=latest_engagement.action_id).first()
+    
+      # Update the Q-value for the corresponding state-action pair
+      q_value_record = QValue.query.filter_by(state_action_id=state_action.id).first()
+      
+      if q_value_record:
+        # Basic Q-value update
+        alpha = 0.5  # Learning rate, adjust as needed
+        reward = latest_engagement.calculate_reward()
+    
+        q_value_record.value += alpha * (reward - q_value_record.value)
+        db.session.commit()
+      else:
+        print(f"No QValue found for StateAction ID: {state_action.id}")
+{{< /highlight >}}
