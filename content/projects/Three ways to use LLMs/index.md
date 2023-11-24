@@ -4,9 +4,9 @@ date: 2023-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 ---
 
-Over a period of a few weeks, I play with OpenAI's APIs to prototype various applications. Here are a few examples of what I created. Each of these applications were built with the assistance of GPT. Note I have no engineering expertise. See my other post.
+Over a period of a few weeks, I played with OpenAI's APIs to prototype various applications. Here are a few examples of what I created. Each of these applications were built with the assistance of GPT. Note I have no engineering expertise. See my other post: [All you need is curiosity]({{< relref "/content/posts/GenAIPerspective.md" >}}), which summarizes my overall experience using GPT to build prototypes.
 
-### Learn that Law: An Example of Retrieval Augmentation Generation 
+## Learn that Law: An Example of Retrieval Augmentation Generation 
 My first project was to build a simple [RAG](https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current/) which is the basis of many LLM use cases that promise users to be able to query an external data source with natural language. At the time, OpenAI did not have the ability to store "knowledge" as it does now with custom GPTs, so if the text could not fit within OpenAI's context window, one had to use its embeddings API to store in a vector database. The external data source I was interested in querying was the law [SB9](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB9), a recently introduced law that was not present in the training dataset of GPT (at the time)
 
 Here what my extremely simple app does: 
@@ -18,7 +18,7 @@ Here what my extremely simple app does:
 
 {{< figure src="SB9Law.png" title="Example query using Gradio interface" >}}
 
-### To Do or Not to Do: Experimenting with Classification
+## To Do or Not to Do: Experimenting with Classification
 Often when I'm away from my computer - in a social setting, a thought or a task may come to me that I want to capture and come back to at the end of the day. However, each thought or task might need to be handled in a different way based on priority, objective etc. So the concept here was to create a virtual assistant, sifting through messages sent over text and employing GPT to understand, categorize, appropriately respond and then one day (take action) the message. Here's how it works:
 
 - User Submits a Message: A user sends a message, which is stored in the Airtable 'Messages' table. 
@@ -30,7 +30,7 @@ Often when I'm away from my computer - in a social setting, a thought or a task 
 
 {{< figure src="Intern.png" title="A request categorized as research and the 'Intern's generated response" >}}
 
-### ...Block Away: An Example of Contextualized Recommendation
+## ...Block Away: An Example of Contextualized Recommendation
 This experiment was inspired by a friend of mine who constantly would text me for recommendations based on very specific locations - real-time. So the concept was what if you could share your location with an agent to help you find places to go to and discover - real time. 
 
 How could LLMs  be used to provide personalized recommendations based on very limited user input? Most recommendation engines use what's known as collaborative filtering or content-based filtering to determine recommendations. However, they alot of data from the user in the form of explicit user preferences. In this experiment, I took a shortcut and use GPT to provide meaningful recommendations by allowing the user to enter a snippet of useful context to help it rank the results returned from the Google Search API. This is how it works: 
@@ -43,5 +43,8 @@ How could LLMs  be used to provide personalized recommendations based on very li
 
 {{< figure src="Place-recommender.jpeg" title="Sample Natural Language Conversations" >}}
 
-### Function Calling 
+## Function Calling 
+
+**MORE TO COME**
+
 The script integrates OpenAI's GPT-3 model with the OpenWeatherMap API to provide weather-based conversational responses. The get_current_weather function fetches the current weather for specified coordinates. In the run_conversation function, an initial conversation with the GPT-3 model is initiated about the weather in Hong Kong. GPT-3 is expected to return the coordinates for Hong Kong, which are then used to fetch the weather data. The weather data, along with the model's response, is passed back to GPT-3 for a final conversational message. When the script runs, it initiates this conversation flow and prints the resulting conversation.
