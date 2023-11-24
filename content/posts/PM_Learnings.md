@@ -1,5 +1,5 @@
 +++
-title = "It's not product manager - it's Product MMM-AAA-NNN-AAA-GGG-EEE-RRR"
+title = "It's not product manager - it's product MMM-AAA-NNN-AAA-GGG-EEE-RRR"
 date = 2023-11-22T18:54:38-08:00
 draft = false
 description = "Blah blah blah"
@@ -7,7 +7,7 @@ description = "Blah blah blah"
 
 DRAFT COMING!
 
-A observations that I've had during my time in product. This post is not about the craft of product. But rather the craft of being a product manager in a scaling organization. 
+A observations that I've had during my time in product. This post is not about the craft of product. The actual product work is just a portion of the product management role - especially in a scaling organizations. 
 
 ## Getting on and off the tradeoff treadmill 
 
