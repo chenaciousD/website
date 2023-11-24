@@ -4,7 +4,7 @@ date: 2021-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 ---
 
-{{< figure src="CLK-Bed.jpg" title="Loft view" >}}
+{{< figure src="CLK-Front.jpg" title="Loft view" >}}
 
 ### Context
 The Clocktower Building, located in the South Beach neighbourhood of San Francisco, is one of the city's iconic landmarks. Originally a factory and office, the building was converted into live-work lofts in the 1990s by the American architect David Baker. The transformation was ahead of its time, and the Clocktower Building stands as a pioneering example of live-work lofts in San Francisco, signifying a lifestyle that became synonymous with the start-up culture that would define the Bay Area in the years to come. Three decades on, amidst the backdrop of technological shifts and the Pandemic, Hesselbrand, was commissioned to offer a European perspective on the American loft in an attempt to rethink the balance between living and working, together and apart.
@@ -32,4 +32,4 @@ In essence, the Clocktower's design paints a picture of intertwined spaces, fost
 
 All together the design generates a landscape of interlocking and nested spaces that provides practical functionality, privacy while also inviting constant and unprescribed movement throughout the home. Privacy and social life can exist and be mediated without compartmentalising the space and light. 
 
-
+{{< figure src="CLK-Bed.jpg" title="Loft view" >}}
