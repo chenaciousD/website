@@ -1,5 +1,5 @@
 +++
-title = 'All you need is curiosity: Living with GenAI for a month'
+title = 'All you need is curiosity - how GenAI will transform learning'
 date = 2023-11-22T18:54:38-08:00
 draft = false
 description = "Blah blah blah"

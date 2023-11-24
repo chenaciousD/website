@@ -9,11 +9,11 @@ layout: "resume"
 
 **Group Product Manager** - [Juniper Square](https://www.junipersquare.com/) (2020 - 2023)
 
-Juniper Square is a Series B fintech startup with $100 mil+ in funding. It combines a CRM, investor portal and investor reporting features into a unified platform experience for fund managers. I was responsible for the investor relations product during a period of rapid scaling (5x revenue and 5x in employees). Initiatives that I led include our expansion into private equity and venture capital, our overall enterprise strategy and roadmap and also our integrations and APIs.
+Juniper Square is a Series B fintech startup with $100 mil+ in funding. It combines a CRM, investor portal and investor reporting into a unified platform for fund managers. I was responsible for the investor relations product during a period of rapid scaling (5x revenue and 5x in employees). Initiatives that I led include our expansion into private equity and venture capital, our overall enterprise strategy and roadmap and finally our integrations and APIs.
   
 **Principal** - [frog design](https://www.frog.co/) (2014 - 2019)
 
-frog is global design, technology and strategy consultancy. I collaborated with designers and technologists on digital and physical projects for Global Fortune 500 corporations such as Toyota, Google, AT&T, Citrix, Freescale and Ikea. I mastered skills in user research, design thinking, storytelling, customer journey mapping, quantitative research and other product and business frameworks across the product design lifecycle. I also helped found frog's Venture Design practice which invested design services in exchange for equity in early stage startups.
+frog is global design, technology and strategy consultancy. I collaborated with designers and technologists on digital and physical engagements for Fortune 500 corporations such as Toyota, Google, AT&T, Citrix, Freescale and Ikea. I honed skills in user research, design thinking, storytelling, customer journey mapping, quantitative research and other product/business frameworks across the product design lifecycle. 
 
 **Associate** - [ADIA](https://www.adia.ae/) (2010 - 2012)
 

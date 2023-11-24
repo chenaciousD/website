@@ -1,10 +1,10 @@
 ---
-title: "Four ways to use LLMs"
-date: 2023-04-01T02:01:58+05:30
+title: "Four ways I played with OpenAI's APIs"
+date: 2023-11-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 ---
 
-Over a period of a few weeks, I played with OpenAI's APIs to prototype various applications. Here are a few examples of what I created. Each of these applications were built with the assistance of GPT. Note I have no engineering expertise. See my other post: [All you need is curiosity]({{< relref "/content/posts/GenAIPerspective.md" >}}), which summarizes my overall experience using GPT to build prototypes.
+Over a period of a few weeks, I played with OpenAI's APIs to prototype various LLM use cases. Here are a few examples of what I created. Each of these applications was built with the assistance of GPT or Github Co-Pilot. See my other post: [All you need is curiosity]({{< relref "/content/posts/GenAIPerspective.md" >}}), which summarizes my overall experience using AI to build prototypes.
 
 ## Learn that Law: An Example of Retrieval Augmentation Generation 
 My first project was to build a simple [RAG](https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current/) which is the basis of many LLM use cases that promise users to be able to query an external data source with natural language. At the time, OpenAI did not have the ability to store "knowledge" as it does now with custom GPTs, so if the text could not fit within OpenAI's context window, one had to use its embeddings API to store in a vector database. The external data source I was interested in querying was the law [SB9](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB9), a recently introduced law that was not present in the training dataset of GPT (at the time)
