@@ -9,6 +9,12 @@ DRAFT COMING
 
 Augmentation in the near-term. 
 
+From All you need is attention to All you need is curiosity. 
+
+AI as superpower
+
+Reference user-generated software and kevin Kelly 
+
 Framework:
 Knowledge 
 Creativity 

@@ -4,29 +4,45 @@ date: 2023-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 ---
 
-DRAFT COMING
+# Why I did this experiments
+After reading the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and taking a deep learning class from [fast.ai](https://course.fast.ai/). I was inspired to get some exposure to some of the various methods of supervised learning and reinforcement learning. 
 
-### Why I did this experiments
-Bacon ipsum dolor amet pork chop pancetta ball tip, turkey bresaola landjaeger flank sausage. Prosciutto beef ribs pork belly, hamburger ham hock brisket bacon boudin.
+## Training my own Neural Net 
 
-{{< figure src="ImageClassifier.png" title="Sample images with one-hot encoding" >}}
+The goal for me was to see an end-to-end machine learning workflow. I used the FastAI library for its ease of use. I found a dataset available from [Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IGNELZ). The Annotated Image Database of Architecture is comprised of about 15,000 images that are pre-labeled across various categories including building type and location. The images were sourced originally from [Archdaily](https://www.archdaily.com/), an architecture blog.
 
-### Training my own Neural Network 
-I used Google Colab and Jupiter Notebook and used a dataset from Archdaily to train a neural network to predict a building type based on an image. 
-I used fast.AI’s library to create datablocks. 
-Part of this was to take the categorical data and transform it into numericals - and then associate it with an image. 
-I then split the dataset into a training dataset and a validation data set. 
-I used Resnet50 which is a convolutional neural network.
+- The workflow started with loading and processing image filenames and labels for training, validation, and testing. 
+- I created pandas DataFrames to organize the datasets. For model training and evaluation, it sets up DataLoaders with the necessary image transformations. 
+- I used a a convolutional neural network model, using the ResNet50 architecture, is then initialized and trained, with the learning rate optimized through FastAI's utilities. 
+- After training the model, I evaluated the performance on the validation datasets. 
 
-{{< highlight python >}}
-def train_model():
-learn = cnn_learner(train_dls, resnet50, metrics=accuracy)
-learn.lr_find()
-learn.fit_one_cycle(10, lr_max=1e-3)
-{{< /highlight >}}
+{{< figure src="ImageClassifier.png" title="Sample images with respective categories in numerical form" >}}
 
+I test the resulting model with some of my own images to see how well it performed, anecdotally. 
 
-### Building a Reinforcement Learning Algorithm 
+| Image | Predicted Class | Model Performance |
+|-------|-----------------|----------|
+| david_baker_apt.png | Apartments | Correct |
+| SFO.png | Mixed Use Architecture | Correct |
+| sightglass.png | Restaurants & Bars | Correct |
+| sfmoma.png | Apartments | Incorrect |
+| seagrambuilding.png | Office buildings | Correct |
+| levisstadium.png | Institutional buildings | Incorrect |
+| bar_agricole.png | Office buildings | Incorrect|
+| Danish_kindergarten.png | Apartments | Incorrect |
+| tennis_stadium.png | Schools | Incorrect|
+| Art_Gallery.png | Churches | Incorrect|
+| Asplund_library.png | Library | Correct |
+| Opera_house.png | Cultural Architecture | Correct |
+| whiskybar.png | Restaurants & Bars | Correct |
+| SFO_interior.png | Schools | Incorrect |
+| columbia_school_of_business.png | Office buildings | Incorrect|
+| everlane_sf.png | Store | Correct |
+| lumina_sf.png | Housing | Correct |
+| sfo with plane.png | Public Architecture & Space | Incorrect|
+| office interior.png | Offices | Correct |
+
+## Building a Reinforcement Learning Algorithm 
 A news reading experience that learns your preferred level of summarization based on content category and context, using Q-learning. 
 This Flask web application is a sophisticated news content aggregator and distributor, integrating OpenAI's GPT-3 and NewsAPI for dynamic content handling. It fetches, processes, and serves news articles, optimizing its actions based on user feedback and reinforcement learning. The core mechanism involves fetching news from various categories, extracting content, and storing it with a 'served' status. An 'Agent' then selects actions, like generating headlines or summaries, based on the current state, which considers time, category, and user interactions. This Agent uses an epsilon-greedy policy for decision-making, striking a balance between exploring new actions and exploiting known successful ones. User feedback plays a crucial role in refining the system's learning, as it updates Q-values to enhance future content relevance and effectiveness. This design allows the app to adapt over time, offering a responsive and evolving experience in news content delivery.
 
