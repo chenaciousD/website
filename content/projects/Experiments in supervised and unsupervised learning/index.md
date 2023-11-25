@@ -4,7 +4,7 @@ date: 2023-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 ---
 
-# Why I did this experiments
+## My motivation behind these experiments
 After reading the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and taking a deep learning class from [fast.ai](https://course.fast.ai/). I was interested in learning how some of the learning methods worked in practice. 
 
 ## Training my own Neural Net 
@@ -54,17 +54,17 @@ Reinforcemnet learning is a type of machine learning where the system learns to 
 - `rewards` the feedback that the system might receive from taking action in a state 
 -`policy` how the system decides which action to take in a given state
 
-A news reading experience that learns your preferred level of summarization based on content category and context, using Q-learning. This Flask web application is a sophisticated news content aggregator and distributor, integrating OpenAI's GPT-3 and NewsAPI for dynamic content handling. It fetches, processes, and serves news articles, optimizing its actions based on user feedback and reinforcement learning. The core mechanism involves fetching news from various categories, extracting content, and storing it with a 'served' status. An 'Agent' then selects actions, like generating headlines or summaries, based on the current state, which considers time, category, and user interactions. This Agent uses an epsilon-greedy policy for decision-making, striking a balance between exploring new actions and exploiting known successful ones. User feedback plays a crucial role in refining the system's learning, as it updates Q-values to enhance future content relevance and effectiveness. This design allows the app to adapt over time, offering a responsive and evolving experience in news content delivery.
+I decided to apply these concepts to create an adaptive news summarization experience. My belief was that based on time of day and topic, one might want to have different kinds of news reading experiences. In the morning, you might want summarized blurbs vs in the evening you might be open to more long form articles. You might prefer more summarized content for certain topics vs having more detail for other topics that you are currently interested in researching. My "agent" in this system basically decided based on various states (time of day, day of week and topic) what level of news detail to serve and the user can simply provide positive, negative of neutral feedback. I use this feedback as input into a reward function which my agent uses to update its knowledge of the user's preferences so that it can take the best action the next time it encounters the same state. I use [q-learning](https://en.wikipedia.org/wiki/Q-learning) as the RL algorithm.
 
 **Here's how it works:**
-- It automatically fetches news articles from predefined categories, scrapes their content, and stores them in the database.
-- User Alice requests to see news content via a web interface.
-- The app selects the latest unserved article and processes it with an AI agent to possibly generate a summary.
-- Alice receives the article with AI-generated insights.
-- The app marks the article as served in the database.
-- Alice provides feedback on the content, which is stored in the database.
-- The AI agent uses this feedback to refine its decision-making and content selection for future interactions.
-
+- The backend periodically fetches new articles from [NewsAPI](https://newsapi.org/docs/endpoints/top-headlines).
+- The user requests to read an article via a react front end by hitting my backend's `/get_content` endpoint
+- I capture the state (i.e., time of day, day of week, and then also the topic of the next article available for serving)
+- The Agent processes the state to determine the best possible summarization action to take on the article (this is done through a q-lookup table)
+- Based on the decision, it takes the summarization action on the article 
+- THe user receives the article in the front end. The backend marks the article as served in the database to ensure that they don't get served the same article more than once
+- The user provides feedback on served content (i.e., was it a good level of detail?) through the `/give_feedback` end point
+- The AI agent updates the q-values in the q-table for that particular state for future reference as seen below:
 
 {{< highlight python >}}
 def process_feedback_and_update_q_value(self, content_id, state_id):
@@ -90,3 +90,8 @@ def process_feedback_and_update_q_value(self, content_id, state_id):
       else:
         print(f"No QValue found for StateAction ID: {state_action.id}")
 {{< /highlight >}}
+
+The overall process was quite interesting for me. As part of the definition of the learning algorithm there were a few key inputs that could have significant impact on how the algorithm behaves:
+1. `The Learning Rate` represents to what degree should the agent incorporate user feedback into the learning model. This can have significnat impact on the user experience. It balances the weight of new information compared to historical knowledge from prior interactions for a particular state-action pair. 
+2. `The Exploration Policy` represents how much "exploration" should agent do particularly in the beginning when there is limited user data. The tradeoff between exploration (trying our new random actions just to see the user's interaction) vs exploitation (choosing the action with known rewards due to prior feedback interactions) can have significant imapact on the user experience especially during the initial learning period.
+3. `The Discount Rate` - MORE TO COME
