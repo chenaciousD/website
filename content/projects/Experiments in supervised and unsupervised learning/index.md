@@ -5,7 +5,7 @@ description: "An AI car designed to build a relationship between car and driver"
 ---
 
 # Why I did this experiments
-After reading the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and taking a deep learning class from [fast.ai](https://course.fast.ai/). I was inspired to get some exposure to some of the various methods of supervised learning and reinforcement learning. 
+After reading the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and taking a deep learning class from [fast.ai](https://course.fast.ai/). I was interested in learning how some of the learning methods worked in practice. 
 
 ## Training my own Neural Net 
 
@@ -13,7 +13,7 @@ My goal was to see an end-to-end machine learning workflow. I used the FastAI li
 
 - The workflow started with loading and processing image filenames and labels for training, validation, and testing. 
 - I created pandas DataFrames to organize the datasets. For model training and evaluation, it sets up DataLoaders with the necessary image transformations. 
-- I used a a convolutional neural network model, using the ResNet50 architecture, is then initialized and trained, with the learning rate optimized through FastAI's utilities. 
+- I used a convolutional neural network model, using the ResNet50 architecture, which is then trained, with the learning rate optimized through FastAI's utilities. 
 - After training the model, I evaluated the performance on the validation datasets. 
 
 {{< figure src="ImageClassifier.png" title="Sample images with respective categories in numerical form" >}}
@@ -45,7 +45,15 @@ I tested the resulting model with some of my own images to see how well it perfo
 As you can see in the above table, my model didn't have the greatest accuracy. I wasn't able to achieve more than 50% accuracy based on the validation dataset. A significant takeaway from this exercise was the importance of the quality of training data. MORE TO COME.
 
 ## Building a Reinforcement Learning with Human Feedback Algorithm 
-**MORE TO COME**
+
+Reinforcemnet learning is a type of machine learning where the system learns to make decisions by taking actions and receiving feedback from the user in various situations. The core concepts are:
+- `agent/system` the decision maker
+- `environment` the interaction space of total possible states that the agent can face
+- `actions` the things that the agent can do
+- `states` the specific configurations of the environment 
+- `rewards` the feedback that the system might receive from taking action in a state 
+-`policy` how the system decides which action to take in a given state
+
 A news reading experience that learns your preferred level of summarization based on content category and context, using Q-learning. This Flask web application is a sophisticated news content aggregator and distributor, integrating OpenAI's GPT-3 and NewsAPI for dynamic content handling. It fetches, processes, and serves news articles, optimizing its actions based on user feedback and reinforcement learning. The core mechanism involves fetching news from various categories, extracting content, and storing it with a 'served' status. An 'Agent' then selects actions, like generating headlines or summaries, based on the current state, which considers time, category, and user interactions. This Agent uses an epsilon-greedy policy for decision-making, striking a balance between exploring new actions and exploiting known successful ones. User feedback plays a crucial role in refining the system's learning, as it updates Q-values to enhance future content relevance and effectiveness. This design allows the app to adapt over time, offering a responsive and evolving experience in news content delivery.
 
 **Here's how it works:**
