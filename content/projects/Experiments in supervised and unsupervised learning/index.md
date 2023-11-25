@@ -9,7 +9,7 @@ After reading the [Alignment Problem](https://brianchristian.org/the-alignment-p
 
 ## Training my own Neural Net 
 
-The goal for me was to see an end-to-end machine learning workflow. I used the FastAI library for its ease of use. I found a dataset available from [Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IGNELZ). The Annotated Image Database of Architecture is comprised of about 15,000 images that are pre-labeled across various categories including building type and location. The images were sourced originally from [Archdaily](https://www.archdaily.com/), an architecture blog.
+My goal was to see an end-to-end machine learning workflow. I used the FastAI library for its ease of use. I found a dataset available from [Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IGNELZ). The Annotated Image Database of Architecture is comprised of about 15,000 images that are pre-labeled across various categories including building type and location. The images were sourced originally from [Archdaily](https://www.archdaily.com/), an architecture blog.
 
 - The workflow started with loading and processing image filenames and labels for training, validation, and testing. 
 - I created pandas DataFrames to organize the datasets. For model training and evaluation, it sets up DataLoaders with the necessary image transformations. 
@@ -18,7 +18,7 @@ The goal for me was to see an end-to-end machine learning workflow. I used the F
 
 {{< figure src="ImageClassifier.png" title="Sample images with respective categories in numerical form" >}}
 
-I test the resulting model with some of my own images to see how well it performed, anecdotally. 
+I tested the resulting model with some of my own images to see how well it performed, anecdotally. 
 
 | Image | Predicted Class | Model Performance |
 |-------|-----------------|----------|
@@ -42,10 +42,21 @@ I test the resulting model with some of my own images to see how well it perform
 | sfo with plane.png | Public Architecture & Space | Incorrect|
 | office interior.png | Offices | Correct |
 
-## Building a Reinforcement Learning Algorithm 
-MORE TO COME - DRAFT CONTENT
+As you can see in the above table, my model didn't have the greatest accuracy. I wasn't able to achieve more than 50% accuracy based on the validation dataset. A significant takeaway from this exercise was the importance of the quality of training data. MORE TO COME.
 
+## Building a Reinforcement Learning with Human Feedback Algorithm 
+**MORE TO COME**
 A news reading experience that learns your preferred level of summarization based on content category and context, using Q-learning. This Flask web application is a sophisticated news content aggregator and distributor, integrating OpenAI's GPT-3 and NewsAPI for dynamic content handling. It fetches, processes, and serves news articles, optimizing its actions based on user feedback and reinforcement learning. The core mechanism involves fetching news from various categories, extracting content, and storing it with a 'served' status. An 'Agent' then selects actions, like generating headlines or summaries, based on the current state, which considers time, category, and user interactions. This Agent uses an epsilon-greedy policy for decision-making, striking a balance between exploring new actions and exploiting known successful ones. User feedback plays a crucial role in refining the system's learning, as it updates Q-values to enhance future content relevance and effectiveness. This design allows the app to adapt over time, offering a responsive and evolving experience in news content delivery.
+
+**Here's how it works:**
+- It automatically fetches news articles from predefined categories, scrapes their content, and stores them in the database.
+- User Alice requests to see news content via a web interface.
+- The app selects the latest unserved article and processes it with an AI agent to possibly generate a summary.
+- Alice receives the article with AI-generated insights.
+- The app marks the article as served in the database.
+- Alice provides feedback on the content, which is stored in the database.
+- The AI agent uses this feedback to refine its decision-making and content selection for future interactions.
+
 
 {{< highlight python >}}
 def process_feedback_and_update_q_value(self, content_id, state_id):
