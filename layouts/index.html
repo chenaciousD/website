@@ -7,20 +7,43 @@
             
             <main class="list">
                 <section class="list-item">
-					<h1> Hej, I'm Daniel.</h1>
-						
-					</p> I'm a product manager - former consultant & excel monkey.<p>
+                    <h1> Hey, I'm Daniel.</h1>
                     
-                    </p> I'm curious about people, technology and economics.<p>
-				
-					</p> Based in SF. Previously, Copenhagen 🇩🇰, Abu Dhabi 🇦🇪, New York 🗽, and Hong Kong 🇭🇰. <p>
-					
-					</p> Connect with me at chenaciousD at gmail dot com</p>
+                </p> I'm a product manager and <span id="typed"></span></p>
+                    
+                </p> I'm curious about people, technology and economics.</p>
+                
+                </p> Based in SF. Previously, Copenhagen 🇩🇰, Abu Dhabi 🇦🇪, New York 🗽, and Hong Kong 🇭🇰. </p>
+                    
+                </p> Connect with me at chenaciousD at gmail dot com</p>
                 </section>
             </main>
             {{ partial "footer.html" . }}
         </div>
         
+        <style>
+            .typed-fade-out {
+                animation: fadeOut 1s linear forwards;
+            }
+
+            @keyframes fadeOut {
+                from { opacity: 1; }
+                to { opacity: 0; }
+            }
+        </style>
+
+        <!-- Include the Typed.js library -->
+        <script src="https://cdn.jsdelivr.net/gh/mattboldt/typed.js@2.0.11/lib/typed.min.js"></script>
+        <script>
+            var typed = new Typed('#typed', {
+                strings: ["management consultant.", "excel monkey.", "financial analyst.", "PowerPoint puppet.", "aspiring architect.", "brand strategist."],
+                typeSpeed: 70,
+                backSpeed: 0,
+                loop: true,
+                fadeOut: true,
+                fadeOutClass: 'typed-fade-out',
+                fadeOutDelay: 900 // fade out delay in milliseconds
+            });
+        </script>
     </body>
 </html>
-
