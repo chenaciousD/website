@@ -9,7 +9,7 @@ layout: "resume"
 
 **Group Product Manager** - [Juniper Square](https://www.junipersquare.com/) (2020 - 2023)
 
-Juniper Square is a Series B fintech startup with $100 mil+ in funding. It combines a CRM, investor portal and investor reporting into a unified platform for fund managers. I was responsible for the investor relations product during a period of rapid scaling (5x revenue and 5x in employees). Initiatives that I led include our expansion into private equity and venture capital, our overall enterprise strategy and roadmap and finally our integrations and APIs.
+Juniper Square is a Series C fintech startup with $100 mil+ in funding. It combines a CRM, investor portal and investor reporting into a unified platform for fund managers. I was responsible for the IR reporting product during a period of rapid scaling (5x revenue and 5x in employees). Initiatives that I led include our expansion into private equity and venture capital, our overall enterprise strategy and roadmap and our approach to integrations and APIs.
   
 **Principal** - [frog design](https://www.frog.co/) (2014 - 2019)
 
@@ -21,7 +21,7 @@ Abu Dhabi Investment Authority is one of the largest soverign wealth funds in th
 
 **Analyst** - [MSREF](https://www.morganstanley.com/im/en-us/individual-investor/about-us/investment-teams/real-assets/private-real-estate-investing-team.html) (2008 - 2010)
 
-Morgan Stanley Real Estate Fund is Morgan Stanley's flagship real estate private equity fund. I was a mergers & acquisitions analyst based in New York. Notable projects included CalPERS advisory, FDIC loss-sharing, several equity offerings and recapitalizations (after all, this was during the Global Financial Crisis)
+Morgan Stanley Real Estate Fund is Morgan Stanley's flagship real estate private equity fund. I was a mergers & acquisitions analyst based in New York. Notable projects included CalPERS advisory and several equity offerings and recapitalizations during the Global Financial Crisis.
 
 **Other experiences** - [Bjarke Ingels Group](https://big.dk/) | [Herman Miller](https://www.hermanmiller.com/solutions/future-of-work/) 
 

@@ -1,5 +1,5 @@
 +++
-title = 'Curiosity is all you need: How AI will transform learning and creativity'
+title = 'Curiosity is all you need: How GenAI will transform creativity'
 date = 2023-10-22T18:54:38-08:00
 draft = false
 description = "Blah blah blah"
@@ -7,17 +7,19 @@ description = "Blah blah blah"
 
 DRAFT COMING
 
-Augmentation in the near-term. 
 
-Reference to [Attention is all you need](https://arxiv.org/abs/1706.03762)
+Sections:
 
-AI as superpower
+`Introduction: The landscape of GenAI` (knowledge, efficiency, reasoning, chatbots, automation etc)
 
-Reference user-generated software and kevin Kelly 
+`A Vision of Boundless Creativity` (discuss GenAI's impact on creativity - enabling end users to envision and create themselves)
+- Reference user-generated software and kevin Kelly 
+  
+`All you need is curiosity` (the essential human characteristic)
+- Reference to [Attention is all you need](https://arxiv.org/abs/1706.03762)
 
-Framework:
-Knowledge 
-Creativity 
-Efficiency 
-Reasoning 
-Interaction 
+`Prompting a Process` (brainstorming, definition, specification, implementation)
+
+`What will win?` (The primary factor influencing widespread job displacement will be the competition between human curiosity and the capitalist drive to automate.)
+
+ 
