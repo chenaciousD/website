@@ -91,7 +91,7 @@ def process_feedback_and_update_q_value(self, content_id, state_id):
         print(f"No QValue found for StateAction ID: {state_action.id}")
 {{< /highlight >}}
 
-The overall process was quite interesting for me. As part of the definition of the learning algorithm there were a few key inputs that could have significant impact on how the algorithm behaves:
+The overall process was quite interesting. As part of the definition of the learning algorithm there were a few key inputs that could have significant impact on how the algorithm behaves:
 1. `The Learning Rate` represents to what degree should the agent incorporate user feedback into the learning model. This can have significnat impact on the user experience. It balances the weight of new information compared to historical knowledge from prior interactions for a particular state-action pair. 
 2. `The Exploration Policy` represents how much "exploration" should agent do particularly in the beginning when there is limited user data. The tradeoff between exploration (trying our new random actions just to see the user's interaction) vs exploitation (choosing the action with known rewards due to prior feedback interactions) can have significant imapact on the user experience especially during the initial learning period.
 g

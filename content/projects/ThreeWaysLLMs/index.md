@@ -24,16 +24,16 @@ I got the system to work reasonably well but I discovered that the way the docum
 ## To Do or Not to Do: Experimenting with Classification
 My second project was inspired by note taking and task lists. Often when I'm away from my computer in a social setting, a thought or a task may come to me that I want to capture and come back to at the end of the day. However, each thought or task might need to be handled in a different way based on priority, objective, topics. My concept was to create a virtual assistant that sifts through messages sent over text and employs GPT to understand, categorize, appropriately respond and take action on the message. Here's how it works:
 
-- A user sends a message, which is stored in the Airtable 'Messages' table. 
+- A user sends a message, which is stored in an Airtable table. 
 - At regular intervals, the application's scheduler triggers the check_for_new_messages function. 
 - When a new message is found, the application uses the OpenAI GPT-4 model to classify the message into categories such as PriorityType, TopicType, and ActionType.
-- After classifying the message, the application uses GPT-4 again to generate a relevant response based on the user's original message and the classification type
+- After classifying the message, the application uses GPT-4 again to generate a relevant response based on the user's original message and respective classification type
 - The application then formats an email, incorporating the original message, its classification, and the generated response. 
-- The application compiles and send an individual digest of messages and responses to each userThe user receives this formatted email via SendGrid, a cloud-based email delivery service. The email contains the classification details and the AI-generated response.
+- The application compiles and sends an individual digest of messages and responses to each user. The user receives this formatted email via SendGrid, a cloud-based email delivery service. The email contains the classification details and the AI-generated response.
 
 {{< figure src="Intern.png" title="A request categorized as research and the 'Intern's generated response" >}}
 
-## ... A block away: An Example of Contextualized Recommendation & Function Calling
+## ... A block away: An Example of Personalization, Prompting and Function Calling 
 This experiment was inspired by a friend of mine who constantly would text me for recommendations based on very specific locations - real-time. So the concept here was what if you could share your location with an agent to help you find places to discover - real time with natural language.
 
 Most recommendation engines use what's known as collaborative filtering or content-based filtering to determine recommendations. However, they require a lot of data from the user in the form of explicit user preferences. In this experiment, I took a shortcut and used GPT to provide meaningful recommendations by allowing the user to enter a snippet of useful context to help it rank the results returned from the Google Search API. This is how it works: 
@@ -43,8 +43,7 @@ Most recommendation engines use what's known as collaborative filtering or conte
 - The app processes the user SMSs with GPT-3 by leveraging GPT to extract entities. For example, it interprets natural language input like "I want a coffee shop a few blocks away" to identify the type of place the user is interested in (like a restaurant, cafe, etc.) and the preferred search radius (from "walking distance" to a specific number of meters). 
 - OpenAI's function calling is used to generate a json from the above (PlaceType and Radius) to intelligently call Google Places Nearby search API
 - The backend fetches results from Google Places API to retrieve nearby locations based on the query
-- Sends return SMS to user asking for more context: To help provide context to GPT, the user can enter anything they think might be useful in helping refine the search results (i.e., "I'm with my family; I'm an architect" etc)
-- Ranks Recommendations: Employs OpenAI's GPT-3 for personalizing recommendations based on user profiles.
-- Manages User States: Tracks and updates the progression of user interactions.
+- The app sends a return SMS to the user asking for more context to help it provide context to GPT, the user can enter anything they think might be useful in helping refine the search results (i.e., "I'm with my family; I'm an architect" etc)
+- The backend employs OpenAI's GPT-3 for personalizing recommendations based on user context and sends the generated response with rationale back to the user via SMS.
 
 {{< figure src="Place-recommender.jpeg" title="Sample Natural Language Conversations" >}}
