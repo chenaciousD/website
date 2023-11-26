@@ -31,11 +31,11 @@ Monthly Business Reviews are a huge pain. They are tedious to produce and can fe
 
 ## Create the spectre of Mutually Assured Inspiration 💡
 
-Everyone in R&D must have enough context about the business, the customer and the technology for what I call Mutually Assured Inspiration. A silo'd team where engineers only know the tech, the designer knows the customer and the product person knows the business will result in bad outcomes, bad collaboration and bad morale. Here's why:
-- `Shared context breeds better ideas` - MORE TO COME 
-- `Product development is more fun when it's inclusive` - MORE TO COME 
-- `Respect for each other's disciplines creates better morale` - MORE TO COME 
-- `Better long-term tech and business strategy decisions` - MORE TO COME 
+Everyone in R&D must have enough context about the business, the customer and the technology for what I call Mutually Assured Inspiration. A moderatley silo'd team where engineers only know the tech, the designer knows the customer and the product person knows the business will result in bad outcomes, bad collaboration and bad morale. Here's why:
+- `Shared context breeds better ideas and greater efficiency` - When there is a baseline understanding and curiosity of thebusiness, systems, and customers shared across the team, less documentation is required, and faster decisions can be made. It does take some dedication for everyone to ramp up - this is especially challenging in niche B2B businesses - but the return far outweighs the effort.
+- `Product development is more fun when it's inclusive` - When there is shared context, more of the team can participate in the produt development process (rather than a more waterfall top down approach). More participation means greater feeling of ownership and control
+- `Respect for each other's disciplines creates better morale` - The time required to understanding each others relative disciplines results in mutual respect. This should not be underestimated. More respect translates to better morale and team dynamics. 
+- `Better long-term tech and business strategy decisions` - Mutually Assured Inspiration increases the likelihood that implementation is right-sized for the business. It also ensures that different disciplines can advocate for each other's respective agendas.
 
 I believe it's a critical role for the PM to model and promote behavior that creates the conditions for Mutually Assured Inspiration. 
 
