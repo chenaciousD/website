@@ -28,11 +28,11 @@ Contrast that experience to this website which I built using Hugo - which took m
 
 Over the past six weeks, I've developed eight prototypes, starting with basic scripts and culminating in a full-stack news summarization app that utilized reinforcement learning with human feedback, a React frontend, a Python backend, an SQL database, and integrations with several external APIs, including NewsAPI and OpenAI. See my posts [Three ways I played with OpenAI's APIs]({{< relref "/projects/ThreeWaysLLMs/index.md" >}}) and [Experiments in Supervised and Reinforcement Learning]({{< relref "/projects/LearningExperiments/index.md" >}}). 
 
-My only tools were 1. `curiosity`, 2. `patience` and 3. `healthy skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for. The healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does make mistakes and can lead you astray.
+My tools were `curiosity`, `patience` and `healthy skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for. The healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does make mistakes and can lead you astray.
 
 # Prompting a Process
 
-This is how I started my conversations with GPT for my website and each of my projects. Each of these steps builds critical context for it to help you move forward into the next step.
+For each of my projects, I took a similar process. Each of these steps builds critical context for it to help you move forward into the next step.
 
 - Step 1: Prompt GPT to brainstorm with you. In all of my projects, I would start with a vague idea ("I want to build a X"). During this phase, I will prompt GPT to ask me follow up questions, one at a time to help me flesh out my goals and ideas. Through this process, you are building context for it to provide more recommendations later in the dialogue. 
 - Step 2: Create a product spec (or a requirements document) with the help of GPT that articulates the features of the project. GPT can help you brainstorm what are the most important aspects based on the context that is set from Step 1. I often will prompt GPT to help me distill or prioritize which are the most important requirements by giving it more context (like is this a project for personal learning or not etc)
