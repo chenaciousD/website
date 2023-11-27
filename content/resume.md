@@ -13,7 +13,7 @@ Juniper Square is a Series C fintech startup with $100 mil+ in funding. It combi
   
 **Principal** - [frog design](https://www.frog.co/) (2014 - 2019)
 
-frog is global design, technology and strategy consultancy. I collaborated with designers and technologists on digital and physical engagements for Fortune 500 corporations such as Toyota, Google, AT&T, Citrix, Freescale and Ikea. I honed skills in user research, design thinking, storytelling, customer journey mapping, quantitative research and other product/business frameworks across the product design lifecycle. 
+frog is global design, technology and strategy consultancy. I collaborated with designers and technologists on digital and physical projects for Fortune 500 corporations such as Ikea, Google, AT&T, Freescale and Toyota. I honed skills in user research, design thinking, storytelling, customer journey mapping, quantitative research and other product/business frameworks across the product design lifecycle. 
 
 **Associate** - [ADIA](https://www.adia.ae/) (2010 - 2012)
 

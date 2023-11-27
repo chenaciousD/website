@@ -1,6 +1,6 @@
 +++
 title = 'Curiosity is all you need: How GenAI will transform creativity'
-date = 2023-10-22T18:54:38-08:00
+date = 2023-11-22T18:54:38-08:00
 draft = false
 description = "Blah blah blah"
 +++
