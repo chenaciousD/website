@@ -13,16 +13,15 @@ description = "Blah blah blah"
   
 # Curiosity is all you need
 
-It starts with curiosity. 
-
 For me, GPT has sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through.
 
 In high school, I was given a science award for being the most inquisitive. I would often annoy teachers with my questions - some of which were dumb, sometimes repetitive, and perhaps distracting - but they were an essential part of the way I learned. My questions were my brain trying to form and validate my mental model of a concept. GPT is a teacher with no boundaries. It doesn't judge, it comes along with you on your learning journey and it never tires. Here are a few ways I have prompted GPT to help me understand an idea: 
-1. Give me an example. (a simple tactic that can you can easily continue to modify to simpler and simpler examples)
-2. Give me an analogy (GPT helped me understand the difference between policy driven and reward driven reinforcement learning algorithms through the lens of cooking)
-3. Tell me the space in which this concept exists. (a tactic that I use frequently when I'm trying to situate and determine the level of the concept)
-4. Ask it to validate a hypothesis (a tactic that I use when the picture is beginning to clear but I need better language to articulate it)
+1. Provide an example(s) (a simple tactic that can you can easily continue to modify to simpler and simpler examples)
+2. Provide analogies or metaphors (GPT helped me understand the difference between policy driven and reward driven reinforcement learning algorithms through the lens of cooking)
+3. Provide the space or framework in which this concept exists. (a tactic that I use frequently when I'm trying to situate and determine the level of the concept)
+4. Validate a hypothesis (a tactic that I use when the picture is beginning to clear but I need better language to articulate it)
 5. Give more context about yourself (this is an obvious one - which is tell it more about the reason why you're trying to learn and anything relevant about yourself so that it can tailor its response)
+6. Complete this sentence (a tactic that I might use sometimes is to create a partially formed sentence and leave an ellipsis for GPT to fill in)
 
 # From three weeks to three days
 
@@ -40,16 +39,12 @@ My only tools were 1. `curiosity`, 2. `patience` and 3. `healthy skepticism`. I'
 
 This is how I used GPT
 - Step 1: Prompt it to brainstorm and ask follow up questions. In all of my projects, I would start with a vague idea with some aspect of AI technology that I wanted to learn (for exmaple: " ")
-  - GPT is extraodinarily good at coming up with thought provoking ideas.
 - Step 2: Partner with GPT to help make your idea more concrete. This usually was an iterative process. You want to get to a place where GPT understands the goal of the project so that you can basically create a product spec.
 - Step 3: Create a product spec with the help of GPT that articulates the features of the project. GPT can help you brainstorm what are the most important aspects based on Step 2.
 - Step 4: Prompt GPT to help you create a tech / architecture spec. As part fo this process, you will need to give it some more context about your technical know-how, time commitment and also whether this app is a proof of concept. 
 - Step 5: Iterate on the tech spec to ensure that it meets your level. Give it context about yourself so that it can tailor the best way to implment. 
 - Step 6: Start implementation but ask GPT to help you decide where to start. 
-MORE TO COME.
 
-If you need more guidance tell it. 
-GPT can tailor its response to the way you want to learn.
 
 
  

@@ -20,7 +20,7 @@ The frog team was comprised of interaction designers, visual designers, film/mot
 ### The Outcome
 frog delivered a differentiated concept, signature experiences, and a radical interaction model designed to evolve and grow.
 
-{{< figure src="Toyota-2.jpg" title="Toyota Yui Relationship Model" >}} 
+{{< figure src="Toyota-2.jpg" title="Yui Relationship Model" >}} 
 
 #### Relationship Learning Model
 Core to the concept was a relationship model based on primary research with millennials who stated that discovery and well-being were key motivators for meaning in the 21st century.
@@ -30,4 +30,4 @@ Core to the concept was a relationship model based on primary research with mill
 #### A Multi-modal, Decentralized Interaction Model
 We developed a radically different interaction model that was able to move across the car in a “fairy” like fashion to “portals” within the interior and exterior of the vehicle.
 
-Several partners were involved in bringing this concept to life which eventually launched publicly in 2017. In 2017, our client launched the concept at CES where it was also given a prestigious Best of CES award. The concept will be a showcase piece for our client at the Tokyo Olympics in 2020.
+Several partners were involved in bringing this concept to life which eventually launched publicly in 2017. In 2017, our client launched the concept at CES where it was also given a prestigious Best of CES award. The [concept](https://www.businessinsider.com/toyota-has-created-a-concept-car-with-ai-called-yui-2019-10) was a showcase piece for our client at the Tokyo Olympics in 2020.
