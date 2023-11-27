@@ -14,11 +14,11 @@ description = "Blah blah blah"
 For me, GPT has sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through. Although I specifically used GPT to help me build software, I also believe that this trend will permeate other industries too.
 
 In high school, I was given a science award for being the most inquisitive. I would often annoy teachers with my questions - some of which were dumb, sometimes repetitive, and perhaps distracting - but they were an essential part of the way I learned. My questions were my brain trying to form and validate my mental model of a concept. GPT is a teacher with limitless energy. It doesn't judge, it comes along with you on your learning journey and it never tires. Here are a few ways I have prompted GPT to help me understand an idea: 
-1. Provide an example(s) (a simple tactic that can you can easily continue to modify to simpler and simpler examples)
-2. Provide analogies or metaphors (GPT helped me understand the difference between policy driven and reward driven reinforcement learning algorithms through the lens of cooking)
-3. Provide the space or framework in which this concept exists. (a tactic that I use frequently when I'm trying to situate and determine the level of the concept)
-4. Validate or build on a partially-formed hypothesis (a tactic that I use when the picture is beginning to clear but I need better language to articulate it; sometimes I use the tactic "complete this sentence" where I leave an ellipsis for GPT to fill in)
-5. Give more context about yourself (this one's self-explanatory—tell GPT more about why you're learning and any relevant information about yourself, so it can tailor its response).
+1. Ask it to provide an example(s) (a simple tactic that can you can easily continue to modify to simpler and simpler examples)
+2. Ask it to create an analogy or metaphor (GPT helped me understand the difference between policy driven and reward driven reinforcement learning algorithms through the lens of cooking)
+3. Ask it to explain the context or framework in which this concept is situated. (a strategy I often use when I'm trying to assess the scope and depth of the concept)
+4. Ask it to validate or build on a partially-formed hypothesis (a tactic that I use when the picture is beginning to clear but I need better language to articulate it; sometimes I use the tactic "complete this sentence" where I leave an ellipsis for GPT to fill in)
+5. Give more context about yourself (this one's self-explanatory — tell GPT more about why you're learning and any relevant information about yourself, so it can tailor its response).
 
 # From three weeks to three days
 
