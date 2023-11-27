@@ -24,13 +24,13 @@ In high school, I was given a science award for being the most inquisitive. I wo
 
 # From three weeks to three days
 
-As an example of how different it is for a non-technical person to build something now versus in pre-GenAI. In 2019, I built my personal website using Gatsby by following a step-by-step tutorial and scrolling through stackoverflow with great frustration. To get to a reasonable stopping point where I felt it was presentable, it probably took me three weeks in total (including content creation etc).
+As an example of how different it is for a non-technical person to build something now versus during pre-GenAI era. In 2019, I built my personal website using Gatsby by following a step-by-step tutorial and scrolling through stackoverflow to great frustration. To get to a reasonable stopping point where I felt it was presentable, it probably took me three weeks in total (including content creation etc).
 
 Contrast that experience to this website which I built using Hugo - which took me three days with no tutorial, no instructions, just Github Copilot. I was able to customize an existing [theme](https://themes.gohugo.io/themes/archie/), streamline the deployment process with with Github actions and also add fun little elements like the [Typed.JS](https://mattboldt.com/demos/typed-js/) animation on the homepage. 
 
 Over the last six weeks, I've built eight prototypes starting with basic scripts and culminating in a full stack news summarization app that used reinforcement learning with human feedback, a React front end, python backend, a SQL database and integrations with several external APIs including NewsAPI and OpenAI. See my posts [Three ways I played with OpenAI's APIs]({{< relref "/projects/ThreeWaysLLMs/index.md" >}}) and [Experiments in Supervised and Reinforcement Learning]({{< relref "/projects/LearningExperiments/index.md" >}}). 
 
-My only tools were 1. `curiosity`, 2. `patience` and 3. `healthy skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for. This process is actually quite fun compared to mindlessly scrolling through stackoverflow forums. The healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does indeed make mistakes and will lead you down deep rabbit holes.
+My only tools were 1. `curiosity`, 2. `patience` and 3. `healthy skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for. The healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does make mistakes and can lead you astray.
 
 # Treat Prompting like a Game 
 
@@ -46,7 +46,7 @@ Initially I used Replit (and copy/pasted between GPT for help writing and debugg
 
 **A few additional observations**
 - GPT rarely gets it right the first time. There is still a significant amount of debugging - but GPT guides you through this process.
-- GPT will hallucinate. For example, it once hallucinated about an API endpoint that didn't exist. I didn't realize this until lots of troubleshooting and then finally reading the official documentation.
+- GPT will hallucinate. For example, it once hallucinated about an API endpoint that didn't exist. I didn't realize this until lots of troubleshooting and then finally reading the official documentation. Increasingly, I will paste in documentation from external websites to make sure it provides me valid answers.
 - GPT has to be constantly reminded of its context. As my prototypes got more complex involving multiple files and modules, I would have to remind GPT about the existence of these modules. 
 
  
