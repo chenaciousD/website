@@ -5,7 +5,16 @@ draft = false
 description = "Blah blah blah"
 +++
 
-The following are some reflections and principles that I have taken away from my time being a product manager at a scaling startup. They are high level principles that are less about the nuts and bolts of designing and building products and more about the importance of the management aspects of the role.
+The following are some reflections and principles that I have taken away from my time being a product manager at a scaling startup. 
+
+## Create the spectre of Mutually Assured Inspiration 💡
+
+Everyone in R&D must have enough context about the business, the customer and the technology. It's the Context Triad necessary to create Mutually Assured Inspiration. A silo'd team where engineers only know the tech, the designer knows the customer and the product person knows the business is not only bad for the business, it's not a fun way to collaborate. Here's why:
+- `Shared context breeds better ideas and greater efficiency` - A strong foundational understanding and curiosity for the Triad across the team results in better brainstorming, less documentation and faster decisions. It does take some dedication for everyone to ramp up - this is especially challenging in niche B2B businesses - but the return far outweighs the effort.
+- `Product development is more fun when it's inclusive` - When there is shared context, more of the team can participate in the product development process (rather than a more waterfall top down approach). More participation means greater feeling of ownership and control. More cross functional understanding also results in mutual respect. More respect translates to better morale and team dynamics. 
+- `Better long-term tech and business strategy decisions` - Mutually Assured Inspiration increases the likelihood that implementation is right-sized for the business. It also ensures that different disciplines can advocate for each other's respective agendas. Everyone on the team should be able to confidently rationalize and explain in reasonable detail the business value of a project.
+
+I believe it's a critical role for the PM to model and promote behavior that creates the conditions for Mutually Assured Inspiration. 
 
 ## Adopt a "big tent" strategy 🎪
 
@@ -16,41 +25,17 @@ You can apply a "big tent" approach across the product development cycle. Here a
 - `Telegraph your voice` The PM is a very well positioned role because it by definition is networked across sales, success, support, engineering etc. Making sense of these signals is step one but evangelizing your synthesis is even more important. People need to know where you stand.
 - `Multiply your voice with missionaries` Ideas become stronger when they are not only conveyed by you but also repeated by others. Provide artifacts or create moments where you can leverage others to promulgate your ideas. 
 
+## The importanct of building trust 🔎
+
+Monthly Business Reviews are a huge pain. They are tedious to produce and can feel risky to publish because you're opening yourself up to scrutiny. However, I’ve realized good reporting is essential - not only for external stakeholders in terms of trust-building but also it actually will make you better at your job. Here’s why. 
+- `MBRs increase quality and accountability` This is obvious but it’s remarkable how effective it is. As soon as you publicize what you’re working on, everyone takes it more seriously. Showing your work to the rest of the organization elevates the quality of everyone's work.  
+- `The clearest expression of a company's priorities` As organizations scale, there is more and more noise and therefore, more and more opportunities for distraction. Good reporting creates a tangible expression of a company's development priorities and invites debate and adjustments if necessary, thereby minimizing the risk of misalignment before it's too late. People want predictability.
+- `Leverages the wider business to accelerate R&D` Reporting gives R&D teams the opportunity to raise issues and get help. It’s a way expose latent issues that are creating friction. When these issues are exposed, solutioning can occur with the help of the entire business, rather than just the R&D teams. 
+
 ## The art of What If? ⚖️    
 
 In design consulting, a common tactic to generate new ideas is called the What If technique (it's also known as ["how might we...")](https://www.frog.co/work/frogthink)). The technique is used to help expand the scope of thinking, challenge existing rules, elicit more divergent ideas by lower the stakes and offering a hypothetical. This kind of What if is fun and exploratory. This was the kind of What if that I was trained on at frog. 
 
 But there is another kind of What if - a darker side and very difficult to manage. And that What If is ultimately about managing risk. There are many kinds of risk that one might face: competitive risk, customer churn risk, adoption risk, data risk, execution risk, partner risk, technical risk, and the "unknown, unknown" risks (aka "blast radius"). I'll write another post about managing each of these risks one day, but orienting yourself on this spectrum of What Ifs in the right moments is an art. I've experienced examples of too much or too little of either.
 
-## An MBR a day keeps the doctor away 🔎
 
-Monthly Business Reviews are a huge pain. They are tedious to produce and can feel risky to publish because you're opening yourself up to scrutiny. However, I’ve realized good reporting is essential - not only for external stakeholders but also it actually will make you better at your job. Here’s why. 
-- `MBRs increase quality and accountability` This is obvious but it’s remarkable how effective it is. As soon as you publicize what you’re working on, everyone takes it more seriously. Showing your work to the rest of the organization elevates the quality of everyone's work.  
-- `The clearest expression of a company's priorities` As organizations scale, there is more and more noise and therefore, more and more opportunities for distraction. Good reporting creates a tangible expression of a company's development priorities and invites debate and adjustments if necessary, thereby minimizing the risk of misalignment before it's too late. People want predictability.
-- `Leverages the wider business to accelerate R&D` Reporting gives R&D teams the opportunity to raise issues and get help. It’s a way expose latent issues that are creating friction. When these issues are exposed, solutioning can occur with the help of the entire business, rather than just the R&D teams. 
-
-## Create the spectre of Mutually Assured Inspiration 💡
-
-Everyone in R&D must have enough context about the business, the customer and the technology. It's the Context Triad necessary to create Mutually Assured Inspiration. A silo'd team where engineers only know the tech, the designer knows the customer and the product person knows the business is not only bad for the business, it's not a fun way to collaborate. Here's why:
-- `Shared context breeds better ideas and greater efficiency` - A strong foundational understanding and curiosity for the Triad across the team results in better brainstorming, less documentation and faster decisions. It does take some dedication for everyone to ramp up - this is especially challenging in niche B2B businesses - but the return far outweighs the effort.
-- `Product development is more fun when it's inclusive` - When there is shared context, more of the team can participate in the product development process (rather than a more waterfall top down approach). More participation means greater feeling of ownership and control. 
-- `Respect for each other's disciplines creates better morale` - The time required to understanding each others relative disciplines results in mutual respect. More respect translates to better morale and team dynamics. 
-- `Better long-term tech and business strategy decisions` - Mutually Assured Inspiration increases the likelihood that implementation is right-sized for the business. It also ensures that different disciplines can advocate for each other's respective agendas. It ensures a well-balanced roadmap. Everyone on the team should be able to confidently rationalize and explain in reasonable detail why a project is on the roadmap.
-
-I believe it's a critical role for the PM to model and promote behavior that creates the conditions for Mutually Assured Inspiration. 
-
-## Getting on and off the Tradeoff Treadmill 🏃
-
-**NEEDS WORK**
-
-The tradeoff treadmill is a symptom of a weak product vision or North Star. When there is a weak North Star (or misaligned North Star), you enter the treadmill. The treadmill is a state where you're consistently shipping things but it doesn't feel like you're really going anywhere. The North Star vacuum is filled with requests from other teams or big customers. The end result is where you evaluate ROI for every request, independently and the roadmap becomes a list of projects ordered based on ROI analysis. Consequently, the company's priorities become fragmented and divergent. 
-
-In this 'mercenary' mindset, the company may prioritize immediate customer satisfaction and requests, even if doing so involves making tradeoffs that don't align with the product's long-term success or its original strategic vision. It's a tactical approach that can lead to a constant state of reactivity, where the company is driven primarily by the demands of its customers rather than a cohesive and strategic direction
-
-- Create a framework that helps you say no
-- Will talk about short-term optimizations
-- Micro ROI tradeoffs
-- Value engineering to death 
-- The impact on morale
-
- 

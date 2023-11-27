@@ -7,9 +7,7 @@ description = "Blah blah blah"
 
 **DRAFT COMING**
 
-Sections:
 
-`Introduction: The landscape of GenAI` (knowledge, efficiency, reasoning, chatbots, automation etc)
 
 `Boundless Creativity` (discuss GenAI's impact on creativity - enabling end users to envision and create themselves)
 - Reference user-generated software and kevin Kelly 
