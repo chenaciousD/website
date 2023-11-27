@@ -7,23 +7,21 @@ description = "Blah blah blah"
 
 **DRAFT COMING**
 
+`Boundless Creativity` 
 
-
-`Boundless Creativity` (discuss GenAI's impact on creativity - enabling end users to envision and create themselves)
-- Reference user-generated software and kevin Kelly 
-- With 
-
-I believe that LLMs and AI will dramatically reduce the costs to creativity. I don't mean creativity in the "be a designer" perspectve. I mean to be a creator of something. To envison and realize an idea - your own idea - indepedently. And this is exciting. 
-
-I wanted to reference a few articles around 
+GenAI will dramatically reduce the barriers to creativity. I don't mean creativity in the sense of the creative profession (i.e. designers and artists) although it will have tremendous impact there too. I mean creativity in the sense of the act of creation - the ability to envison and realize an idea - your own idea - independently. 
   
-`All you need is curiosity` (the essential human characteristic)
-- Reference to [Attention is all you need](https://arxiv.org/abs/1706.03762)
+`Curiosity is all you need` 
 
-What is amazing about an LLM is it is a limitless tutor with no bounds. You can go as deep as you want on a topic. You can ask dumb questions. When it presents you with a piece of jargon or term that you don't know, you can ask it to pause and explain it. And when it explains to to you - you can incrasingly ask it to dumb it more and more. You can ask it to give more exampples. If you're the cusp of grasping a concept, you can semi articulate in words you might not feel comfortable sharing in a more public setting, and the LLM will say yes you're on the right track or no, it's more like this. 
+And the starting point to this new potential for creation starts with a human quality - curiosity.
 
-Curiosity (depth, context and modeling)
+For me, LLMs (and in particular GPT) have sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has limitless potential if you are curious enough to see it through.
 
+In high school, I was given a science award for being the most inquisitive. I would often annoy teachers with my questions - some of which were dumb, sometimes repetitive, and perhaps distracting - but they were an essential part of the way I learned. My questions were the result of how my brain was trying to form and validate my mental model of a concept. GPT is a teacher with no boundaries. It doesn't judge, it comes along with you on your learning journey and it never tires. It provides more agency to the user in how they want to learn. Need more examples? Need analogies to help you connect the dots? GPT will tailor its explanation of concepts to your context. 
+
+Over a period of 6 weeks, I built seven apps that started with basic scripts adn culminated in a reinforcement learning news experience that had a React front end, python backend and a SQL database. I built this website using the static-site generator [Hugo](https://gohugo.io/) and to streamline the process, I implemented a CI/CD pipeline using Github actions. I did all of ths without watching a single youtube video or tutorial (the only external resource that I used was reading the documentation when necesary)
+
+ My only tool was curiosity and the patience to iterate my prompts so that GPT or co-pilot eventually understood my intent. Prompting an AI can be frustrating but its far less tedious than scrolling through stackoverflow and community boards to get help. Iterating a prompt is actually quite fun because the feedback loop is so fast - you give it an input and it provides a response - and you can see instantly whether it's "aligned to your intention." 
 
 `Prompting a Process` (brainstorming, definition, specification, implementation)
 This is how I used GPT
@@ -39,6 +37,5 @@ MORE TO COME.
 If you need more guidance tell it. 
 GPT can tailor its response to the way you want to learn.
 
-`What will win?` (The primary factor influencing widespread job displacement will be the competition between human curiosity and the capitalist drive to automate.)
 
  
