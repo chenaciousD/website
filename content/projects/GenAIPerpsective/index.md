@@ -13,37 +13,36 @@ description = "Blah blah blah"
   
 # Curiosity is all you need
 
-For me, GPT has sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through.
+For me, GPT has sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through. Although I specifically used GPT to help me build software, I also believe that this trend will permeate other industries too.
 
-In high school, I was given a science award for being the most inquisitive. I would often annoy teachers with my questions - some of which were dumb, sometimes repetitive, and perhaps distracting - but they were an essential part of the way I learned. My questions were my brain trying to form and validate my mental model of a concept. GPT is a teacher with no boundaries. It doesn't judge, it comes along with you on your learning journey and it never tires. Here are a few ways I have prompted GPT to help me understand an idea: 
+In high school, I was given a science award for being the most inquisitive. I would often annoy teachers with my questions - some of which were dumb, sometimes repetitive, and perhaps distracting - but they were an essential part of the way I learned. My questions were my brain trying to form and validate my mental model of a concept. GPT is a teacher with limitless energy. It doesn't judge, it comes along with you on your learning journey and it never tires. Here are a few ways I have prompted GPT to help me understand an idea: 
 1. Provide an example(s) (a simple tactic that can you can easily continue to modify to simpler and simpler examples)
 2. Provide analogies or metaphors (GPT helped me understand the difference between policy driven and reward driven reinforcement learning algorithms through the lens of cooking)
 3. Provide the space or framework in which this concept exists. (a tactic that I use frequently when I'm trying to situate and determine the level of the concept)
-4. Validate a hypothesis (a tactic that I use when the picture is beginning to clear but I need better language to articulate it)
+4. Validate or build on a partially-formed hypothesis (a tactic that I use when the picture is beginning to clear but I need better language to articulate it; sometimes I use the tactic "complete this sentence" where I leave an ellipsis for GPT to fill in)
 5. Give more context about yourself (this is an obvious one - which is tell it more about the reason why you're trying to learn and anything relevant about yourself so that it can tailor its response)
-6. Complete this sentence (a tactic that I might use sometimes is to create a partially formed sentence and leave an ellipsis for GPT to fill in)
 
 # From three weeks to three days
 
-As an example of how different it is for a non-technical person to build something now versus in pre-GenAI. In 2019, I built my personal website using Gatsby by following a tutorial and scrolling through stackoverflow with great frustration. To get to a reasonable stopping point where I felt it was presentable, it probably took me three weeks in total (including content creation etc).
+As an example of how different it is for a non-technical person to build something now versus in pre-GenAI. In 2019, I built my personal website using Gatsby by following a step-by-step tutorial and scrolling through stackoverflow with great frustration. To get to a reasonable stopping point where I felt it was presentable, it probably took me three weeks in total (including content creation etc).
 
-Contrast that experience to this website which I built using Hugo - which took me three days with no tutorial, no instructions, just Github Copilot. I was able to customize an existing [theme](https://themes.gohugo.io/themes/archie/), streamline the deployment process with with Github actions and also added fun little elements like the [Typed.JS](https://mattboldt.com/demos/typed-js/) animation on the homepage.
+Contrast that experience to this website which I built using Hugo - which took me three days with no tutorial, no instructions, just Github Copilot. I was able to customize an existing [theme](https://themes.gohugo.io/themes/archie/), streamline the deployment process with with Github actions and also add fun little elements like the [Typed.JS](https://mattboldt.com/demos/typed-js/) animation on the homepage. 
 
-Over the last six weeks, I've built eight prototypes starting with basic scripts and culminating in a full stack news summarization app that used reinforcement learning with human feedback, a React front end, python backend, a SQL database and integrations with several external APIs including NewsAPI and OpenAI. See my posts [Three ways I played with OpenAI's APIs]({{< relref "/projects/ThreeWaysLLMs/index.md" >}}) and [Experiments in Supervised and Reinforcement Learning]({{< relref "/projects/LearningExperiments/index.md" >}})
+Over the last six weeks, I've built eight prototypes starting with basic scripts and culminating in a full stack news summarization app that used reinforcement learning with human feedback, a React front end, python backend, a SQL database and integrations with several external APIs including NewsAPI and OpenAI. See my posts [Three ways I played with OpenAI's APIs]({{< relref "/projects/ThreeWaysLLMs/index.md" >}}) and [Experiments in Supervised and Reinforcement Learning]({{< relref "/projects/LearningExperiments/index.md" >}}). 
 
-GPT enabled me to explore and build on my own - without relying on videos or tutorials. 
-
-My only tools were 1. `curiosity`, 2. `patience` and 3. `healthy skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for. This process is actually quite fun compared to mindlessly scrolling through stackoverflow forums. The healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does indeed make mistakes.
+My only tools were 1. `curiosity`, 2. `patience` and 3. `healthy skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for. This process is actually quite fun compared to mindlessly scrolling through stackoverflow forums. The healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does indeed make mistakes and will lead you down deep rabbit holes.
 
 # Treat Prompting like a Game 
 
-This is how I used GPT
-- Step 1: Prompt it to brainstorm and ask follow up questions. In all of my projects, I would start with a vague idea with some aspect of AI technology that I wanted to learn (for exmaple: " ")
-- Step 2: Partner with GPT to help make your idea more concrete. This usually was an iterative process. You want to get to a place where GPT understands the goal of the project so that you can basically create a product spec.
-- Step 3: Create a product spec with the help of GPT that articulates the features of the project. GPT can help you brainstorm what are the most important aspects based on Step 2.
-- Step 4: Prompt GPT to help you create a tech / architecture spec. As part fo this process, you will need to give it some more context about your technical know-how, time commitment and also whether this app is a proof of concept. 
-- Step 5: Iterate on the tech spec to ensure that it meets your level. Give it context about yourself so that it can tailor the best way to implment. 
-- Step 6: Start implementation but ask GPT to help you decide where to start. 
+This is how I started my conversations with GPT for my website and each of my projects. Each of these steps builds critical context for it to help you move forward into the next step.
+
+- Step 1: Prompt GPT to brainstorm with you. In all of my projects, I would start with a vague idea ("I want to build a X"). During this phase, I will prompt GPT to ask me follow up questions, one at a time to help me flesh out my goals and ideas. Through this process, you are building context for it to provide more recommendations later in the dialogue. 
+- Step 2: Create a product spec (or a requirements document) with the help of GPT that articulates the features of the project. GPT can help you brainstorm what are the most important aspects based on the context that is set from Step 1. I often will prompt GPT to help me distill or prioritize which are the most important requirements by giving it more context (like is this a project for personal learning or not etc)
+- Step 3: Prompt GPT to help you create a tech spec. As part fo this process, you will need to give it some more context about your technical know-how, time commitment and also whether this app is a proof of concept. During this phase I would often iterate with GPT by asking it to simplify certain aspects of this recommendation by reminding it of my learning goals. Or I might ask it to give me several implemenation options and tell me the pros and cons of each to help me decide which direction. 
+- Step 4: Ask it to help you decide where to start and provide a plan of steps. With a tech spec in hand. I would then prompt GPT to help me figure out where is the best place to start. For example with the Reinforcement Learning app, it suggested that we first start learning how Q-learning (a RL algorithm) works with fake data. This was a critical first step for me because it provided a foundational understanding of the model.
+- Step 5: For each new step, I would always try to provide the context of the prior one. 
+
+Initially I used Replit (and copy/pasted between GPT for help writing and debugging code). I've since moved to using Visual Studio Code to access Github Copilot directly in the interface.
 
 
 
