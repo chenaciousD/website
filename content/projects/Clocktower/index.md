@@ -24,11 +24,15 @@ When the floor plan is subdivided into apartments, like The Clocktower Building'
 
 {{< figure src="CorridorSketch.png" title="Initial sketch of proposed glass block wall from common area" >}}
 
+{{< figure src="Lightbox.jpg" title="Let there be light!" >}}
+
 {{< figure src="CLK-glassblock.jpg" title="New glass block wall from within the unit" >}}
 
 ### Furnitecture
 Another pivotal design intervention was a large-scale piece of furniture added in the centre of the plan, challenging the traditional loft plan. Instead of pushing private spaces into the corners, the furniture divides the space up into five unique zones expressed through volume of space, material palette, light, and colour. The ground floor is clad in durable industrial surfaces like ceramic tiles and steel, while the first floor creates a more private space characterised by soft, warm, and intimate materials such as natural oak and carrara marble. This tactful design gradation ensures areas of varying intimacy and warmth.
 
+{{< figure src="TableSaw.jpg" title="Working on millwork" >}} 
+{{< figure src="CompletedRailing.jpg" title="Completed railing in the shop" >}} 
 {{< figure src="CLK-Lobby.jpg" title="Entryway" >}}
 {{< figure src="CLKmillwork.jpg" title="Millwork" >}} 
 
@@ -36,6 +40,7 @@ Another pivotal design intervention was a large-scale piece of furniture added i
 In essence, the Clocktower's design paints a picture of intertwined spaces, fostering both functional efficiency and privacy. It inspires spontaneous movement, achieving a harmonious balance between solitude and sociability without fragmenting the space and light. Whereas typical lofts often feel one-note, the renovation created the spatial variety and richness often found in a more traditional home.
 
 {{< figure src="CLK-Bathroom.jpg" title="Loft view" >}}
+{{< figure src="BlueLights.jpg" title="Glass blocks in the evening with Hue light" >}}
 
 All together the design generates a landscape of interlocking and nested spaces that provides practical functionality, privacy while also inviting constant and unprescribed movement throughout the home. Privacy and social life can exist and be mediated without compartmentalising the space and light. 
 
