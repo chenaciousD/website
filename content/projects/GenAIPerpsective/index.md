@@ -44,6 +44,9 @@ This is how I started my conversations with GPT for my website and each of my pr
 
 Initially I used Replit (and copy/pasted between GPT for help writing and debugging code). I've since moved to using Visual Studio Code to access Github Copilot directly in the interface.
 
-
+**A few additional observations**
+- GPT rarely gets it right the first time. There is still a significant amount of debugging - but GPT guides you through this process.
+- GPT will hallucinate. For example, it once hallucinated about an API endpoint that didn't exist. I didn't realize this until lots of troubleshooting and then finally reading the official documentation.
+- GPT has to be constantly reminded of its context. As my prototypes got more complex involving multiple files and modules, I would have to remind GPT about the existence of these modules. 
 
  
