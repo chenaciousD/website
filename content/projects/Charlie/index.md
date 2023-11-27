@@ -17,7 +17,6 @@ The frog team was comprised of interaction designers, visual designers, and copy
 - Facilitation of key client alignment and reviews
 - Engagement scoping, planning, contracting, and frogVentures investment documentation
 
-
 ### Integrating Product, Brand & Marketing for a Cohesive Experience
 During our brand/character discovery phase, the team looked to several areas of inspiration - from animals to robots to abstract chat bubbles:
 
@@ -28,6 +27,8 @@ We selected a robotic penguin mascot because of its innate friendly demeanor, it
 
 We designed the Charlie marketing landing page to feel like you were engaging with Charlie the instant the page loaded. As the user scrolls through the page, you see potential value prop scenarios that Charlie can help with - from helping you reduce your bills to guarding your bank account against extra charges.
 
-We also created a framework that showed how Charlie’s relationship with users could evolve and grow over time as users trusted Charlie with more sensitive financial tasks. We created criteria to quantify key events and actions that suggested the strength of the relationship. Upon reaching certain milestones, Charlie would reveal new functionality.
-
 Because Charlie’s primary product and experience interface was delivered through chat, we conceptualized a new type of product deliverable, a Character Bible. This bible included canonical dialogues, verbal/non-verbal response types, modes of behavior, and even a few jokes.
+
+{{< figure src="Charlie-3.jpg" title="Conversation Bible" >}} 
+
+{{< figure src="Charlie-4.jpg" title="Character Evolution" >}} 
