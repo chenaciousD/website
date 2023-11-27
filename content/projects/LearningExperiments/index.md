@@ -46,7 +46,7 @@ As you can see in the above table, my model didn't have the greatest accuracy. I
 
 ## Building a Reinforcement Learning with Human Feedback Algorithm 
 
-Reinforcemnet learning is a type of machine learning where the system learns to make decisions by taking actions and receiving feedback from the user in various situations. The core concepts are:
+RLHF is a type of machine learning where the system learns to make decisions by taking actions and receiving feedback from the user in various situations. The core concepts are:
 - `agent/system` the decision maker
 - `environment` the interaction space of total possible states that the agent can face
 - `actions` the things that the agent can do
@@ -54,7 +54,9 @@ Reinforcemnet learning is a type of machine learning where the system learns to 
 - `rewards` the feedback that the system might receive from taking action in a state 
 -`policy` how the system decides which action to take in a given state
 
-I decided to apply these concepts to create an adaptive news summarization experience. My belief was that based on time of day and topic, one might want to have different kinds of news reading experiences. In the morning, you might want summarized blurbs vs in the evening you might be open to more long form articles. You might prefer more summarized content for certain topics vs having more detail for other topics that you are currently interested in researching. My "agent" in this system basically decided based on various states (time of day, day of week and topic) what level of news detail to serve and the user can simply provide positive, negative of neutral feedback. I use this feedback as input into a reward function which my agent uses to update its knowledge of the user's preferences so that it can take the best action the next time it encounters the same state. I use [q-learning](https://en.wikipedia.org/wiki/Q-learning) as the RL algorithm.
+I applied these concepts to create an adaptive news summarization system. My idea was that, depending on the time of day and the topic, users might prefer different styles of news reading experiences. For instance, in the morning, users might prefer brief summaries, while in the evening, they might be more inclined to read longer articles. Preferences could also vary based on the topic, with some topics warranting concise summaries and others requiring more in-depth coverage.
+
+In this system, my "agent" determines the appropriate level of news detail to provide based on several factors, including the time of day, the day of the week, and the topic. Users can then offer feedback in the form of positive, negative, or neutral responses. I use this feedback to create a reward function, which the agent employs to update its understanding of the user's preferences. This ensures that the agent can make better decisions the next time it encounters a similar situation. I've implemented the reinforcement learning algorithm known as q-learning to drive this process.
 
 **Here's how it works:**
 - The backend periodically fetches new articles from [NewsAPI](https://newsapi.org/docs/endpoints/top-headlines).
@@ -92,6 +94,6 @@ def process_feedback_and_update_q_value(self, content_id, state_id):
 {{< /highlight >}}
 
 The overall process was quite interesting. As part of the definition of the learning algorithm there were a few key inputs that could have significant impact on how the algorithm behaves:
+
 1. `The Learning Rate` represents to what degree should the agent incorporate user feedback into the learning model. This can have significnat impact on the user experience. It balances the weight of new information compared to historical knowledge from prior interactions for a particular state-action pair. 
 2. `The Exploration Policy` represents how much "exploration" should agent do particularly in the beginning when there is limited user data. The tradeoff between exploration (trying our new random actions just to see the user's interaction) vs exploitation (choosing the action with known rewards due to prior feedback interactions) can have significant imapact on the user experience especially during the initial learning period.
-g
