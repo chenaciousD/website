@@ -19,7 +19,7 @@ Adaptive reuse, such as that of the Clocktower Building, comes with significant 
 
 {{< figure src="Perspective.jpg" title="Concept Design Rendering" >}}
 
-### Borrowing light from a community space
+### Borrowing light from a community corrider
 When the floor plan is subdivided into apartments, like The Clocktower Building's layout, it introduces another dimension of challenge. Corridors are added to allow for accessibility but when positioned against one side of the facade, they obstruct natural light, exacerbating the dilemma and compromising the potential quality of the space. In this case, with only one large wall of south-facing windows, this became the biggest design challenge of the project. To address this issue, two large glass block walls were introduced to borrow light from the public corridor into the previously dark part of the unit, transforming the space and allowing for new spatial configurations that were previously not possible. This solution provided a dual effect: directly illuminating rooms and indirectly fostering a layered, multifaceted ambiance.
 
 {{< figure src="CorridorSketch.png" title="Initial sketch of proposed glass block wall from common area" >}}
@@ -33,7 +33,7 @@ Another pivotal design intervention was a large-scale piece of furniture added i
 {{< figure src="CLKmillwork.jpg" title="Millwork" >}} 
 
 ### Bringing spatial variety to a typically monotonic form
-In essence, the Clocktower's design paints a picture of intertwined spaces, fostering both functional efficiency and privacy. IT inspires spontaneous movement, achieving a harmonious balance between solitude and sociability without fragmenting the space and light.
+In essence, the Clocktower's design paints a picture of intertwined spaces, fostering both functional efficiency and privacy. It inspires spontaneous movement, achieving a harmonious balance between solitude and sociability without fragmenting the space and light. Whereas typical lofts often feel one-note, the renovation created the spatial variety and richness often found in a more traditional home.
 
 {{< figure src="CLK-Bathroom.jpg" title="Loft view" >}}
 

@@ -29,7 +29,10 @@ name = "Instagram"
 icon = "instagram"
 url = "https://www.instagram.com/chenaciousd/"
 
-
+[[params.social]]
+name = "Email"
+url = "mailto:daniel@chenaciousD.com"
+icon = "mail"
 # Main menu Items
 
 [[menu.main]]
