@@ -25,7 +25,7 @@ You can apply a "big tent" approach across the product development cycle. Here a
 - `Telegraph your voice` The PM is a very well positioned role because it by definition is networked across sales, success, support, engineering etc. Making sense of these signals is step one but evangelizing your synthesis is even more important. People need to know where you stand.
 - `Multiply your voice with missionaries` Ideas become stronger when they are not only conveyed by you but also repeated by others. Provide artifacts or create moments where you can leverage others to promulgate your ideas. 
 
-## The importanct of building trust 🔎
+## Building trust through better reporting 🔎
 
 Monthly Business Reviews are a huge pain. They are tedious to produce and can feel risky to publish because you're opening yourself up to scrutiny. However, I’ve realized good reporting is essential - not only for external stakeholders in terms of trust-building but also it actually will make you better at your job. Here’s why. 
 - `MBRs increase quality and accountability` This is obvious but it’s remarkable how effective it is. As soon as you publicize what you’re working on, everyone takes it more seriously. Showing your work to the rest of the organization elevates the quality of everyone's work.  
