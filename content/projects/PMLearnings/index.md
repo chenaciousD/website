@@ -32,10 +32,8 @@ Monthly Business Reviews are a huge pain. They are tedious to produce and can fe
 - `The clearest expression of a company's priorities` As organizations scale, there is more and more noise and therefore, more and more opportunities for distraction. Good reporting creates a tangible expression of a company's development priorities and invites debate and adjustments if necessary, thereby minimizing the risk of misalignment before it's too late. People want predictability.
 - `Leverages the wider business to accelerate R&D` Reporting gives R&D teams the opportunity to raise issues and get help. It’s a way expose latent issues that are creating friction. When these issues are exposed, solutioning can occur with the help of the entire business, rather than just the R&D teams. 
 
-## The art of What If? ⚖️    
-
-In design consulting, a common tactic to generate new ideas is called the What If technique (it's also known as ["how might we...")](https://www.frog.co/work/frogthink)). The technique is used to help expand the scope of thinking, challenge existing rules, elicit more divergent ideas by lower the stakes and offering a hypothetical. This kind of What if is fun and exploratory. This was the kind of What if that I was trained on at frog. 
-
-But there is another kind of What if - a darker side and very difficult to manage. And that What If is ultimately about managing risk. There are many kinds of risk that one might face: competitive risk, customer churn risk, adoption risk, data risk, execution risk, partner risk, technical risk, and the "unknown, unknown" risks (aka "blast radius"). I'll write another post about managing each of these risks one day, but orienting yourself on this spectrum of What Ifs in the right moments is an art. I've experienced examples of too much or too little of either.
+## Next Topics Up
+- The Continuum of What Ifs: Managing Reward and Risk
+- The Tradeoff Treadmill: The Importance of Vision combined with ROI analysis
 
 
