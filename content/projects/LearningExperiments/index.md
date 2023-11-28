@@ -52,7 +52,7 @@ RLHF is a type of machine learning where the system learns to make decisions by 
 - `actions` the things that the agent can do
 - `states` the specific configurations of the environment 
 - `rewards` the feedback that the system might receive from taking action in a state 
--`policy` how the system decides which action to take in a given state
+- `policy` how the system decides which action to take in a given state
 
 I applied these concepts to create an adaptive news summarization system. My idea was that, depending on the time of day and the topic, users might prefer different styles of news reading experiences. For instance, in the morning, users might prefer brief summaries, while in the evening, they might be more inclined to read longer articles. Preferences could also vary based on the topic, with some topics warranting concise summaries and others requiring more in-depth coverage.
 
