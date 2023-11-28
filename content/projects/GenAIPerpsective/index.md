@@ -7,7 +7,7 @@ description = "Blah blah blah"
 
 # Anyone can create
 
-`GenAI will dramatically reduce the barriers to creativity.` I'm not referring solely to creativity within professional fields like design and art, although it will undoubtedly have a substantial impact there as well. What I mean is creativity in its broadest sense—the act of envisioning and bringing an idea to life, your own idea, independently. 
+`GenAI dramatically reduces the barriers to creativity.` I'm not referring solely to creativity within professional fields like design and art, although it will undoubtedly have a substantial impact there as well. What I mean is creativity in its broadest sense—the act of envisioning and bringing an idea to life, your own idea, independently. 
   
 # Curiosity is all you need
 

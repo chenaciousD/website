@@ -38,12 +38,10 @@ This experiment was inspired by a friend of mine who constantly would text me fo
 
 Most recommendation engines use what's known as collaborative filtering or content-based filtering to determine recommendations. However, they require a lot of data from the user in the form of explicit user preferences. In this experiment, I took a shortcut and used GPT to provide meaningful recommendations by allowing the user to enter a snippet of useful context to help it rank the results returned from the Google Search API. This is how it works: 
 
-- User sends their location (currently latitude / longitude)
-- User then sends what kind of place they are looking for and how far they are willing to go
-- The app processes the user SMSs with GPT-3 by leveraging GPT to extract entities. For example, it interprets natural language input like "I want a coffee shop a few blocks away" to identify the type of place the user is interested in (like a restaurant, cafe, etc.) and the preferred search radius (from "walking distance" to a specific number of meters). 
-- OpenAI's function calling is used to generate a json from the above (PlaceType and Radius) to intelligently call Google Places Nearby search API
-- The backend fetches results from Google Places API to retrieve nearby locations based on the query
-- The app sends a return SMS to the user asking for more context to help it provide context to GPT, the user can enter anything they think might be useful in helping refine the search results (i.e., "I'm with my family; I'm an architect" etc)
-- The backend employs OpenAI's GPT-3 for personalizing recommendations based on user context and sends the generated response with rationale back to the user via SMS.
+- When a user shares their current location (latitude and longitude), specifies the type of place they're interested in, and sets a distance limit, the app processes this information using GPT. For instance, it can understand statements like "I want to find a nearby coffee shop" and determine both the desired place type (e.g., restaurant, cafe) and the preferred search radius (from "walking distance" to a specific number of meters).
+- To streamline this information, the app utilizes OpenAI's function calling to create a JSON format containing the identified PlaceType and Radius. This JSON is then used to intelligently call the Google Places Nearby search API.
+- The app's backend interacts with the Google Places API to fetch results that match the user's query for nearby locations.
+- Subsequently, the app sends an SMS to the user, requesting additional context to refine the search. Users can provide any relevant information they think might be helpful, such as "I'm with my family" or "I'm an architect."
+- The backend employs OpenAI's GPT to personalize recommendations based on the user's context. It generates a response with a rationale and sends it back to the user via SMS.
 
 {{< figure src="Place-recommender.jpeg" title="Sample Natural Language Conversations" >}}
