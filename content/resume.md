@@ -9,19 +9,19 @@ layout: "resume"
 
 **Group Product Manager** - [Juniper Square](https://www.junipersquare.com/) (2020 - 2023)
 
-Juniper Square is a Series C fintech startup with $100 mil+ in funding. It combines a CRM, investor portal and investor reporting into a unified platform for fund managers. I was responsible for the IR reporting product during a period of rapid scaling (5x revenue and 5x in employees). Initiatives that I led include our expansion into private equity and venture capital, our overall enterprise strategy and roadmap and our approach to integrations and APIs.
+> Juniper Square is a Series C fintech startup with $100 mil+ in funding. I was responsible for the investor relations reporting product during a period of rapid scaling (5x + revenue). Initiatives that I led include our expansion into PE & VC, our overall enterprise roadmap and our approach to integrations and APIs.
   
 **Principal** - [frog design](https://www.frog.co/) (2014 - 2019)
 
-frog is global design, technology and strategy consultancy. I collaborated with designers and technologists on digital and physical projects for Fortune 500 corporations such as Ikea, Google, AT&T, Freescale and Toyota. I honed skills in user research, design thinking, storytelling, customer journey mapping, quantitative research and other product/business frameworks across the product design lifecycle. 
+> frog is global design, technology and strategy consultancy. I collaborated on multi-disciplinary teams on digital and physical design projects for Fortune 500s such as Ikea, Google, AT&T, Freescale and Toyota. I honed skills in user research, design thinking, storytelling, customer journey mapping, quantitative research and other business frameworks across the product lifecycle.
 
 **Associate** - [ADIA](https://www.adia.ae/) (2010 - 2012)
 
-Abu Dhabi Investment Authority is one of the largest soverign wealth funds in the world. As part of an initial cohort of expatriate associates to help make direct investments in the Americas, I was involved in executing $5 bil worth of JVs, acquisitions, dispositions and other asset management activities. I managed key relationships with Blackstone, Hines, PCCP and Tishman Speyer.
+> Abu Dhabi Investment Authority is one of the largest soverign wealth funds in the world. I was part of the first cohort of expatriate associates to help make direct investments in the Americas. I was involved in executing $5 bil worth of JVs, acquisitions, dispositions in partnership with Blackstone, Hines, PCCP, Tishman Speyer and Hines.
 
 **Analyst** - [MSREF](https://www.morganstanley.com/im/en-us/individual-investor/about-us/investment-teams/real-assets/private-real-estate-investing-team.html) (2008 - 2010)
 
-Morgan Stanley Real Estate Fund is Morgan Stanley's flagship real estate private equity fund. I was a mergers & acquisitions analyst based in New York. Notable projects included CalPERS advisory and several equity offerings and recapitalizations during the Global Financial Crisis.
+> Morgan Stanley Real Estate Fund is Morgan Stanley's flagship real estate private equity fund. I was an M&A analyst based in New York. Notable projects included CalPERS advisory and several equity offerings and recapitalizations during the Global Financial Crisis.
 
 **Other experiences** - [Bjarke Ingels Group](https://big.dk/) | [Herman Miller](https://www.hermanmiller.com/solutions/future-of-work/) 
 
@@ -37,9 +37,7 @@ Morgan Stanley Real Estate Fund is Morgan Stanley's flagship real estate private
 - Phi beta kappa
 
 ## My story
-My unconventional career path has taken me from private equity investing to design consulting to tech product management. These experiences give me an extremely broad toolkit of skills and languages to draw from when facing different contexts and types of people:
-
-{{< figure src="/profile.png" width="200px" >}}
+My unconventional career path has taken me from private equity investing to design consulting to tech product management. These experiences give me an extremely broad toolkit of skills and languages to draw from when facing different contexts and types of people.
 
 - `Learning Capacity` - My ability to learn and adapt has enabled me to build trust and gain expertise repeatedly across multiple industries and roles.
 - `Quantitive Approach` - My background in finance and investing naturally inclines me towards working with data, metrics, projections, and business case/ROI analyses. 

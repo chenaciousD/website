@@ -2,6 +2,7 @@
 title: "Adding more light and spatial variety to a historic loft"
 date: 2021-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
+image: "CLK-Front.jpg"
 ---
 
 {{< figure src="CLK-Front.jpg" title="Loft view" >}}
