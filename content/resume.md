@@ -37,12 +37,14 @@ Morgan Stanley Real Estate Fund is Morgan Stanley's flagship real estate private
 - Phi beta kappa
 
 ## My story
-My unconventional career path has taken me from private equity investing to design consulting to tech product management. These experiences give me an extremely broad toolkit of skills and languages to draw from when facing different contexts and stakeholders:
+My unconventional career path has taken me from private equity investing to design consulting to tech product management. These experiences give me an extremely broad toolkit of skills and languages to draw from when facing different contexts and types of people:
+
+{{< figure src="/profile.png" width="200px" >}}
 
 - `Learning Capacity` - I have consistently demonstrated an ability to achieve success by quickly learning & adapting, building trust, and gaining expertise in new fields and roles.
-- `Quantitive Approach` - My background in finance and investing has naturally inclined me towards working with metrics, projections, modeling and business case and ROI analysis. 
-- `Customer Empathy and Design Processes` - I have significant experience running user research and design procesess that have been honed repeatedly over multiple consulting engagements across the product lifecycle.
-- `Polished Storytelling` - I am recognized for my skill in crafting compelling narratives and delivering polished presentations which I developed during my projects in brand strategy, messaging, and business development at frog.
+- `Quantitive Approach` - My background in finance and investing naturally inclines me towards working with data, metrics, projections, and business case/ROI analyses. 
+- `Empathy and Design Processes` - I have significant experience running user research and design procesess that I have honed repeatedly over multiple consulting engagements across the product lifecycle.
+- `Polished Storytelling` - I am recognized for my skill in crafting compelling narratives and polished presentations, a skill I developed from projects in brand strategy, messaging, and business development at frog.
 - `Technical Curiosity` - At Juniper Square, I collaborated closely with engineers on some of the most technical aspects of our core data model. I have a passion for understanding complex systems and getting my hands dirty as exemplified by some of my recent AI prototypes.
 
 
