@@ -5,6 +5,8 @@ description: "Start by getting a small backpack (less than 20 liters) and then j
 layout: "resume"
 ---
 
+**Profile:** I'm known for my speed of learning, discerning taste, tenacious determination, and sense of humor. 
+
 ## Professional Experience
 
 **Group Product Manager** - [Juniper Square](https://www.junipersquare.com/) (2020 - 2023)
