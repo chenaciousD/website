@@ -41,10 +41,10 @@ My unconventional career path has taken me from private equity investing to desi
 
 {{< figure src="/profile.png" width="200px" >}}
 
-- `Learning Capacity` - I have consistently demonstrated an ability to achieve success by quickly learning & adapting, building trust, and gaining expertise in new fields and roles.
+- `Learning Capacity` - My ability to learn and adapt has enabled me to build trust and gain expertise repeatedly across multiple industries and roles.
 - `Quantitive Approach` - My background in finance and investing naturally inclines me towards working with data, metrics, projections, and business case/ROI analyses. 
-- `Empathy and Design Processes` - I have significant experience running user research and design procesess that I have honed repeatedly over multiple consulting engagements across the product lifecycle.
-- `Polished Storytelling` - I am recognized for my skill in crafting compelling narratives and polished presentations, a skill I developed from projects in brand strategy, messaging, and business development at frog.
+- `Empathy and Design Processes` - I have significant experience running user research and design procesess honed repeatedly over multiple consulting engagements across the product lifecycle.
+- `Polished Storytelling` - I am recognized for my skill in crafting compelling narratives and presentations, a skill I developed from my business development responsibilities at frog.
 - `Technical Curiosity` - At Juniper Square, I collaborated closely with engineers on some of the most technical aspects of our core data model. I have a passion for understanding complex systems and getting my hands dirty as exemplified by some of my recent AI prototypes.
 
 
