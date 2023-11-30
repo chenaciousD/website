@@ -17,7 +17,7 @@ layout: "resume"
 
 **Associate** - [ADIA](https://www.adia.ae/) (2010 - 2012)
 
-> Abu Dhabi Investment Authority is one of the largest soverign wealth funds in the world. I was part of the first cohort of expatriate associates to help make direct investments in the Americas. I was involved in executing $5 bil worth of JVs, acquisitions, dispositions in partnership with Blackstone, Hines, PCCP, Tishman Speyer and Hines.
+> Abu Dhabi Investment Authority is one of the largest soverign wealth funds in the world. I was part of the first cohort of expatriate associates to help make direct investments in the Americas. I was involved in executing $5 bil worth of JVs, acquisitions, dispositions in partnership with Blackstone, Hines, PCCP, and Tishman Speyer.
 
 **Analyst** - [MSREF](https://www.morganstanley.com/im/en-us/individual-investor/about-us/investment-teams/real-assets/private-real-estate-investing-team.html) (2008 - 2010)
 
