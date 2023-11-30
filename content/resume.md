@@ -29,17 +29,16 @@ layout: "resume"
 
 **MBA** - [Stanford GSB](https://www.gsb.stanford.edu/)
 
-- Coursework at d.school. Design & Manufacturing Club. 
+> Coursework at d.school. Design & Manufacturing Club. 
 
 **BA Economics** - [Harvard College](https://college.harvard.edu/)
 
-- Magna cum laude (Thesis with Ed Glaeser)
-- Phi beta kappa
+> Magna cum laude (Thesis with Ed Glaeser); *phi beta kappa*
 
-## My story
+## My Story
 My unconventional career path has taken me from private equity investing to design consulting to tech product management. These experiences give me an extremely broad toolkit of skills and languages to draw from when facing different contexts and types of people.
 
-- `Learning Capacity` - My ability to learn and adapt has enabled me to build trust and gain expertise repeatedly across multiple industries and roles.
+- `High Learning Capacity` - My ability to learn and adapt has enabled me to build trust and gain expertise repeatedly across multiple industries and roles.
 - `Quantitive Approach` - My background in finance and investing naturally inclines me towards working with data, metrics, projections, and business case/ROI analyses. 
 - `Empathy and Design Processes` - I have significant experience running user research and design procesess honed repeatedly over multiple consulting engagements across the product lifecycle.
 - `Polished Storytelling` - I am recognized for my skill in crafting compelling narratives and presentations, a skill I developed from my business development responsibilities at frog.
