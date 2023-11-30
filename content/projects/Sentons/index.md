@@ -14,7 +14,6 @@ A Series B-funded, touchscreen technology component provider asked frog to trans
 We started with two questions: how do teams collaborate? what types of collaboration are most under-served by existing solutions?
 During research, we spent time observing teams across organizations of all sizes and types and based on this research, we identified four collaboration typologies to frame our brainstorming.
 
-
 {{< figure src="UseCases.jpg" title="Collaboration Use Cases" >}}
 
 ### Three Concepts for Digital Collaboration
