@@ -6,6 +6,8 @@ description = "Blah blah blah"
 image= "MAD.jpg"
 +++
 
+{{< figure src="MAD.jpg">}}
+
 The following are some reflections and principles that I have taken away from my time being a product manager at a scaling startup. 
 
 ## Create the spectre of Mutually Assured Inspiration 💡
