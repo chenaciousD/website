@@ -12,7 +12,9 @@
             {{ if .Params.image }}
                 {{ $image := .Resources.GetMatch (.Params.image) }}
                 {{ if $image }}
-                    <img src="{{ $image.RelPermalink }}" style="width: 100%;">
+                    <a href="{{ .RelPermalink }}" class="image-link">
+                        <img src="{{ $image.RelPermalink }}" style="width: 100%;">
+                    </a>
                 {{ end }}
             {{ end }}
             <a href="{{ .RelPermalink }}" style="line-height: 1.2; margin: 0; padding: 0;">{{.Title}}</a>

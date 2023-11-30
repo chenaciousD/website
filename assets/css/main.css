@@ -52,6 +52,17 @@ a:hover {
     color: #fff;
 }
 
+a.image-link {
+  border-bottom: none !important;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+a.image-link:hover {
+  background-color: transparent !important;
+  color: inherit !important;
+}
+
 ul {
   list-style: none;
   padding-left: 2ch;
