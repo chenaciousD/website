@@ -43,7 +43,7 @@ I tested the resulting model with some of my own images to see how well it perfo
 | sfo with plane.png | Public Architecture & Space | Incorrect|
 | office interior.png | Offices | Correct |
 
-As you can see in the above table, my model didn't have the greatest accuracy. I wasn't able to achieve more than 50% accuracy based on the validation dataset. I hypothesize that utilizing CLIP as a foundational model, as opposed to ResNet50, could enhance the accuracy of the model due to CLIP's unique training set, encompassing both textual and visual data. I think the multi-modal training would enable CLIP to better grasp the nuanced context associated with buildings. For example, by processing image and associated text, CLIP can capture the contextual information that helps differentiate between similar-looking building types. For example, it might recognize office-related activities, furniture, or signage in an office building image and educational activities, classrooms, or school-related objects in an educational facility image. 
+As you can see in the above table, my model didn't have the greatest accuracy. I wasn't able to achieve more than 50% accuracy based on the validation dataset. I hypothesize that utilizing [CLIP](https://openai.com/research/clip) as a foundational model, as opposed to ResNet50, could enhance the accuracy of the model due to CLIP's unique training set, encompassing both textual and visual data. I think the multi-modal training would enable CLIP to better grasp the nuanced context associated with buildings. For example, by processing image and associated text, CLIP can capture the contextual information that helps differentiate between similar-looking building types. For example, it might recognize office-related activities, furniture, or signage in an office building image and educational activities, classrooms, or school-related objects in an educational facility image. 
 
 ## Building a Reinforcement Learning with Human Feedback Algorithm 
 
@@ -57,7 +57,7 @@ RLHF is a type of machine learning where the system learns to make decisions by 
 
 I applied these concepts to create an adaptive news summarization system. My idea was that, depending on the time of day and the topic, users might prefer different styles of news reading experiences. For instance, in the morning, users might prefer brief summaries, while in the evening, they might be more inclined to read longer articles. Preferences could also vary based on the topic, with some topics warranting concise summaries and others requiring more in-depth coverage.
 
-In this system, my "agent" determines the appropriate level of news detail to provide based on several factors, including the time of day, the day of the week, and the topic. Users can then offer feedback in the form of positive, negative, or neutral responses. I use this feedback to create a reward function, which the agent employs to update its understanding of the user's preferences. This ensures that the agent can make better decisions the next time it encounters a similar situation. I've implemented the reinforcement learning algorithm known as q-learning to drive this process.
+In this system, my "agent" determines the appropriate level of news detail to provide based on several factors, including the time of day, the day of the week, and the topic. Users can then offer feedback in the form of positive, negative, or neutral responses. I use this feedback as input into a reward function, which the agent employs to update its understanding of the user's preferences. This ensures that the agent can make better decisions the next time it encounters a similar state. I implemented the reinforcement learning algorithm known as [q-learning](https://en.wikipedia.org/wiki/Q-learning).
 
 **Here's how it works:**
 - The backend periodically fetches new articles from [NewsAPI](https://newsapi.org/docs/endpoints/top-headlines).
@@ -67,7 +67,7 @@ In this system, my "agent" determines the appropriate level of news detail to pr
 - Based on the decision, it takes the summarization action on the article 
 - THe user receives the article in the front end. The backend marks the article as served in the database to ensure that they don't get served the same article more than once
 - The user provides feedback on served content (i.e., was it a good level of detail?) through the `/give_feedback` end point
-- The AI agent updates the q-values in the q-table for that particular state for future reference as seen below:
+- Based on the reward function, the AI agent updates the q-values in the q-table for that particular state for future reference as seen below:
 
 {{< highlight python >}}
 def process_feedback_and_update_q_value(self, content_id, state_id):
