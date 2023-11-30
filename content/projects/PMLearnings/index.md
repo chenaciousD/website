@@ -1,5 +1,5 @@
 +++
-title = "Some observations and reflections on being a PM"
+title = "Mutually Assured Inspiration: Reflections on being a PM"
 date = 2022-11-22T18:54:38-08:00
 draft = false
 description = "Blah blah blah"

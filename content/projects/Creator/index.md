@@ -25,7 +25,7 @@ frog designed the core experience of the MVP mobile app that is currently being 
 
 {{< figure src="Creator-1.jpg" title="Mobile burger customization and ordering experience" >}}
 
-#### A Roadmap & Framework Oriented around Customer Needs
+### Navigation organized by user archetype
 The three tab navigation - profile, featured meal menu, and ala carte menu are designed to directly facilitate the needs of our three archetypes: the efficiency maximizer, the explorer and the burger tinkerer.
 
 For the burger tinkerers, we also created a tactile interaction “filtering” experience that visualizes, real-time, their personalized burger. For every burger element from pattie doneness to # of pickles to sauce proportion - users can tap, toggle, and slide their way to burger perfection.

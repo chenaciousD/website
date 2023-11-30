@@ -8,7 +8,7 @@ image: "CLK-Front.jpg"
 {{< figure src="CLK-Front.jpg" title="Loft view" >}}
 
 ### Collaboration 
-During COVID, I collaborated with [Hesselbrand](https://hesselbrand.com/) to renovate my loft. Because the architect was based in London and Oslo, we used several techniques including 3D scans and models to communicate the design intent. As part of the Hesselbrand team, I led the permitting and execution of this project. 
+During COVID, I collaborated with [Hesselbrand](https://hesselbrand.com/) to renovate my loft. Because the architect was based in London and Oslo, we used several techniques including 3D scans from Matterpot and Rhino models to communicate the design intent. As part of the Hesselbrand team, I led the permitting and execution of this project. All photos shot by Adam Rouse.
 
 ### Context
 The Clocktower Building, located in the South Beach neighbourhood of San Francisco, is one of the city's iconic landmarks. Originally a factory and office, the building was converted into live-work lofts in the 1990s by the American architect David Baker. The transformation was ahead of its time, and the Clocktower Building stands as a pioneering example of live-work lofts in San Francisco, signifying a lifestyle that became synonymous with the start-up culture that would define the Bay Area in the years to come. Three decades on, amidst the backdrop of technological shifts and the Pandemic, Hesselbrand, was commissioned to offer a European perspective on the American loft in an attempt to rethink the balance between living and working, together and apart.
@@ -34,15 +34,19 @@ Another pivotal design intervention was a large-scale piece of furniture added i
 
 {{< figure src="TableSaw.jpg" title="Working on millwork" >}} 
 {{< figure src="CompletedRailing.jpg" title="Completed railing in the shop" >}} 
-{{< figure src="CLK-Lobby.jpg" title="Entryway" >}}
 {{< figure src="CLKmillwork.jpg" title="Millwork" >}} 
+
+### Translucent Materials
+
+Glass block not only functions as a means to bring in light into the back of the unit. It is also used as a cohesive material to define the first floor bathroom. Three walls of the bathroom are comprised of glass block flooding the room with natural light at all times of the day. A shower room is also separated by glass block further creating a cohesive aesthetic experience.
+
+{{< figure src="CLK-Bathroom.jpg" title="First floor bathroom" >}}
+{{< figure src="BlueLights.jpg" title="First floor bathroom and shower interior illuminated with Hue Bulb" >}}
 
 ### Bringing spatial variety to a typically monotonic form
 In essence, the Clocktower's design paints a picture of intertwined spaces, fostering both functional efficiency and privacy. It inspires spontaneous movement, achieving a harmonious balance between solitude and sociability without fragmenting the space and light. Whereas typical lofts often feel one-note, the renovation created the spatial variety and richness often found in a more traditional home.
 
-{{< figure src="CLK-Bathroom.jpg" title="Loft view" >}}
-{{< figure src="BlueLights.jpg" title="Glass blocks in the evening with Hue light" >}}
-
 All together the design generates a landscape of interlocking and nested spaces that provides practical functionality, privacy while also inviting constant and unprescribed movement throughout the home. Privacy and social life can exist and be mediated without compartmentalising the space and light. 
 
+{{< figure src="CLK-Stairs.jpg" title="Entryway" >}}
 {{< figure src="CLK-Bed.jpg" title="Loft view" >}}

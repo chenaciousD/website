@@ -20,7 +20,7 @@ The frog team was comprised of interaction designers, visual designers, and stra
 Our participatory design research process included speaking with 25 customers, visiting their homes to understand their painpoints and needs. We created several activities to help surface open conversation during our interviews.
 
 ### The Outcome
-A key insight from our customer research was the lack of trust between consumers and the telco brand. Consumers felt that they had a very adversarial relationship with the brand. We delivered a framework to rebuild trust with consumers, a set of experience principles, 80+ differentiated concepts aligned to this framework.
+A key insight from our customer research was the lack of trust between consumers and the telco brand. Consumers felt that they had an adversarial relationship with the brand. We delivered a framework to rebuild trust with consumers, a set of experience principles, 80+ differentiated concepts aligned to this framework.
 
 {{< figure src="ATT-2.jpg" title="Trust Framework" >}} 
 
