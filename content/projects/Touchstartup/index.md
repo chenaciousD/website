@@ -19,9 +19,10 @@ During research, we spent time observing teams across organizations of all sizes
 ### Three Concepts for Digital Collaboration
 From there, we created three conceptual directions, Concierge, Portal and Campfire. For each concept, we created sample positioning, customer types, and key signature features.
 
-{{< figure src="Concepts.jpg" title="Three concepts" >}}
+{{< figure src="Concepts.jpg" title="Concept posters" >}}
 
-- Portal - text to come
-- Concierge - text to come
-- Campfire - text to come
+- **Portal** is a remote team collaboration solution that creates a feeling of shared space by facilitating and encouraging moments of spontaneous co-creation, serendipity, and mutual understanding across time, space and culture. 
+- **Concierge** is a high performance collaboration tool that augments your team’s brainstorming capabilities by serving as an intelligent thought partner.
+- **Campfire** is your teams’ control room, facilitating a sense of team belonging both physically and virtually. Campfire contextually updates its dashboard with real-time information, enabling your team to efficiently manage, prioritize and execute tasks.
+
 
