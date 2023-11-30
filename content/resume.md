@@ -13,7 +13,7 @@ layout: "resume"
   
 **Principal** - [frog design](https://www.frog.co/) (2014 - 2019)
 
-> frog is global design, technology and strategy consultancy. I collaborated on multi-disciplinary teams on digital and physical design projects for Fortune 500s such as Ikea, Google, AT&T, Freescale and Toyota. I honed skills in user research, design thinking, storytelling, customer journey mapping, quantitative research and other business frameworks across the product lifecycle.
+> frog is global design, technology and strategy consultancy. I collaborated on multi-disciplinary teams on digital and physical design projects for Fortune 500s such as Ikea, Google, AT&T, Freescale and Toyota. I honed skills in user research, design thinking, storytelling, customer journey mapping, quantitative research and other business frameworks across the product lifecycle. A selection of projects is shown on this website's projects page.
 
 **Associate** - [ADIA](https://www.adia.ae/) (2010 - 2012)
 
