@@ -3,7 +3,10 @@ title = 'Curiosity is all you need: How GenAI will transform creativity'
 date = 2023-11-22T18:54:38-08:00
 draft = false
 description = "Blah blah blah"
+image= "Geoff.gif"
 +++
+
+{{< figure src="geoff.gif" title="Get Your Mind Out by Geoff Mcfetridge" >}}
 
 # Anyone can create
 

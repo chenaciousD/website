@@ -2,6 +2,7 @@
 title: "Three ways I played with OpenAI's APIs"
 date: 2023-11-01T02:01:58+05:30
 description: "LLM ideas"
+image: "Chat.png"
 ---
 
 ## My motiviation behind these experiments

@@ -1,8 +1,9 @@
 +++
-title = "Some of my observations and reflections on being a PM"
+title = "Some observations and reflections on being a PM"
 date = 2022-11-22T18:54:38-08:00
 draft = false
 description = "Blah blah blah"
+image= "MAD.jpg"
 +++
 
 The following are some reflections and principles that I have taken away from my time being a product manager at a scaling startup. 

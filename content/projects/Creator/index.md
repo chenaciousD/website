@@ -2,6 +2,7 @@
 title: "Mobile Ordering App for Robotic Hambuger Maker"
 date: 2018-04-01T02:01:58+05:30
 description: "Enabling customers to control a hamburger making robot"
+image: "Creator-1.jpg"
 ---
 
 {{< figure src="Creator-0.jpg" title="Landing Page" >}}

@@ -1,7 +1,8 @@
 ---
-title: "Customer Experience Design for AT&T"
+title: "Customer Experience Design for a major US Telco"
 date: 2016-04-01T02:01:58+05:30
 description: "Rebuilding trust with customers"
+image: "research.jpg"
 ---
 
 {{< figure src="ATT-1.gif" title="Animated Short for Board of Directors" >}} 

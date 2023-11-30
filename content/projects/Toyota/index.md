@@ -2,6 +2,7 @@
 title: "AI Personality Car for Leading Japanese Automaker"
 date: 2015-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
+image: "Toyota-4.jpg"
 ---
 
 {{< figure src="Toyota-1.jpg" title="Movie Poster Inspiration for Car-Driver Relationship" >}} 

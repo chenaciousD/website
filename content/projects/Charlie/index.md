@@ -1,7 +1,8 @@
 ---
-title: "Brand and Personality Design for an AI Financial Chatbot"
+title: "Designing an AI Financial Chatbot"
 date: 2017-04-01T02:01:58+05:30
 description: "Imbuing a penguin financial assistant with a distinctive personality"
+image: "Charlie-2.jpg"
 ---
 
 {{< figure src="Charlie-1.gif" title="Charlie Homepage" >}} 

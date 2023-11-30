@@ -1,7 +1,8 @@
 ---
-title: "Experiments in supervised and reinforcement learning"
+title: "Experiments in supervised and Q-Learning"
 date: 2023-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
+image: "ImageClassifier.png"
 ---
 
 ## My motivation behind these experiments

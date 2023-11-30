@@ -2,16 +2,23 @@
 {{ if isset .Data "Term" }}
 <h1>Entries tagged - "{{ .Data.Term }}"</h1>
 {{ else }}
-<h1 class="page-title">All articles</h1>
+<h1 class="page-title">All projects</h1>
 {{ end }}
 
-<ul class="posts" style="padding-bottom: 20px;">
+<div class="posts" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
     {{- range .Data.Pages -}}
         {{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
-        <li class="post" style="margin-bottom: 20px;">
-            <a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat "2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
-        </li>
+        <div class="post" style="width: 250px; padding: 10px; box-sizing: border-box;">
+            {{ if .Params.image }}
+                {{ $image := .Resources.GetMatch (.Params.image) }}
+                {{ if $image }}
+                    <img src="{{ $image.RelPermalink }}" style="width: 100%;">
+                {{ end }}
+            {{ end }}
+            <a href="{{ .RelPermalink }}" style="line-height: 1.2; margin: 0; padding: 0;">{{.Title}}</a>
+            <div class="meta">{{ dateFormat "2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
+        </div>
         {{- end -}}
     {{- end -}}
-</ul>
+</div>
 {{ end }}
