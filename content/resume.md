@@ -36,7 +36,7 @@ layout: "resume"
 > Magna cum laude (Thesis with Ed Glaeser); *phi beta kappa*
 
 ## My Story
-My unconventional career path has taken me from private equity investing to design consulting to tech product management. These experiences give me an extremely broad toolkit of skills and languages to draw from when facing different contexts and types of people.
+My unconventional career path has taken me from private equity investing to design consulting to tech product management. These experiences give me an extremely broad toolkit of skills and languages to draw from when facing different contexts and interacting with different functions.
 
 - `High Learning Capacity` - My ability to learn and adapt has enabled me to build trust and gain expertise repeatedly across multiple industries and roles.
 - `Quantitive Approach` - My background in finance and investing naturally inclines me towards working with data, metrics, projections, and business case/ROI analyses. 
