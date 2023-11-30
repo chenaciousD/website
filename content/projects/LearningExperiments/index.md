@@ -6,7 +6,7 @@ image: "ImageClassifier.png"
 ---
 
 ## My motivation behind these experiments
-After reading the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and taking a deep learning class from [fast.ai](https://course.fast.ai/). I was interested in learning how some of the learning methods worked in practice. 
+After reading the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and taking a deep learning class from [fast.ai](https://course.fast.ai/). I was interested in learning how some of the deep learning methods worked in practice. 
 
 ## Training my own Image Classifier
 
@@ -43,7 +43,7 @@ I tested the resulting model with some of my own images to see how well it perfo
 | sfo with plane.png | Public Architecture & Space | Incorrect|
 | office interior.png | Offices | Correct |
 
-As you can see in the above table, my model didn't have the greatest accuracy. I wasn't able to achieve more than 50% accuracy based on the validation dataset. A significant takeaway from this exercise was the importance of the quality of training data. MORE TO COME.
+As you can see in the above table, my model didn't have the greatest accuracy. I wasn't able to achieve more than 50% accuracy based on the validation dataset. I hypothesize that utilizing CLIP as a foundational model, as opposed to ResNet50, could enhance the accuracy of the model due to CLIP's unique training set, encompassing both textual and visual data. I think the multi-modal training would enable CLIP to better grasp the nuanced context associated with buildings. For example, by processing image and associated text, CLIP can capture the contextual information that helps differentiate between similar-looking building types. For example, it might recognize office-related activities, furniture, or signage in an office building image and educational activities, classrooms, or school-related objects in an educational facility image. 
 
 ## Building a Reinforcement Learning with Human Feedback Algorithm 
 
