@@ -5,6 +5,7 @@ description: "Transforming Australia's largest energy utility through design"
 image: "books.png"
 ---
 
+{{< figure src="books.png" title="Books in search of dysutopia" >}}
 
 In 2019, I took a 2 month inspiration trip, traveling through Europe to investigate failed utopias and bicycles. The following was my itinerary:
 
