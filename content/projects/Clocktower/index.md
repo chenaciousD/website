@@ -5,7 +5,7 @@ description: "An AI car designed to build a relationship between car and driver"
 image: "CLK-Front.jpg"
 ---
 
-{{< figure src="CLK-Front.jpg" title="Loft view" >}}
+{{< figure src="CLK-Front.jpg" title="Furnitecture" >}}
 
 ### Collaboration 
 During COVID, I collaborated with [Hesselbrand](https://hesselbrand.com/) to renovate my loft. Because the architect was based in London and Oslo, we used several techniques including 3D scans from Matterpot and Rhino models to communicate the design intent. As part of the Hesselbrand team, I led the permitting and execution of this project. All photos shot by Adam Rouse.

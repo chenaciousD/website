@@ -10,7 +10,7 @@ image= "iphone3.jpg"
 
 A couple of months ago, I left Juniper Square where I joined as a product manager during the earliest days of covid. At the time, I had recently left frog design where I spent five years consulting on digital and physical product design. Now was the time to put theory into practice.
 
-The difference between consulting on and building products is stark. You must sift through the noise of feedback from every direction, resolve tradeoffs that seem impossible, deeply understand the capabilities and limits of inherited systems, have the patience to build enterprise grade software - all while continuing to motivate and inspire engineers. For this experience, I am grateful and enlightened.  
+The difference between consulting on and building products is stark. You must sift through the noise of feedback from every direction, resolve tradeoffs that seem impossible, deeply understand the capabilities and limits of inherited systems, endure the daily grind to build enterprise grade software - all while continuing to motivate and inspire engineers. For this experience, I am grateful and enlightened.  
 
 It was a pleasure to collaborate with my go-to product confidantes in Success, Sales, Marketing, Fund Accounting, and of course the entire product team at Juniper Square. I'd like to express my gratitude to Adam Ginsburg and Nir Rachmel for their guidance during my time there. While I will take away many lessons from my tenure at Juniper Square, there are a few "Adam-isms" have left a lasting imprint on my thinking:
 
