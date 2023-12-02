@@ -12,10 +12,10 @@ The following are some reflections and principles that I have taken away from my
 
 ## Create the spectre of Mutually Assured Inspiration 💡
 
-Everyone in R&D must have enough context about the business, the customer and the technology. This trifecta of knowledge forms the Context Triad, which is essential for fostering Mutually Assured Inspiration. A silo'd team where engineers only know the tech, the designer knows the customer and the product person knows the business is not only bad for the business, it's not a fun way to collaborate. Here's why:
+Everyone in R&D must have enough context about the business, the customer and the technology. These three elements form the Context Triad, which is essential for fostering Mutually Assured Inspiration. A silo'd team where engineers only know the tech, the designer knows the customer and the product person knows the business is not only bad for the business, it's not a fun way to collaborate. Here's why:
 - `Shared context breeds better ideas and greater efficiency` - A strong foundational understanding and curiosity for the Triad across the team results in better brainstorming, less documentation and faster decisions. It does take some dedication for everyone to ramp up - this is especially challenging in niche B2B businesses - but the return far outweighs the effort.
 - `Product development is more fun when it's inclusive` - With shared context, more team members can actively participate in the product development process, shifting away from a top-down approach. More participation means greater feeling of ownership and control. More cross functional understanding also results in mutual respect. More respect translates to better morale and team dynamics. 
-- `Better long-term tech and business strategy decisions` - Mutually Assured Inspiration increases the chances that project implementations align with the business's needs. It also ensures that team members from different disciplines can advocate for each other's agendas. Everyone on the team should be capable of confidently explaining the business value of a project in reasonable detail.
+- `Better long-term tech and business strategy decisions` - Mutually Assured Inspiration also increases the chances that implementations align with the business's needs. It  ensures that team members from different disciplines can advocate for each other's agendas. Everyone on the team should be capable of confidently explaining the business value of a project in reasonable detail.
 
 I believe it's the Product Manager's critical role to exemplify and encourage behavior that creates the conditions for Mutually Assured Inspiration.
 
@@ -26,7 +26,7 @@ In politics, the concept of a "big tent" refers to how a political party attract
 You can apply a "big tent" approach across the product development cycle. Here are a few ways I brought people into my tent at Juniper Square: 
 - `Welcome ideas from all sources` Open yourself up to ideas from all parts of the organization. Create a process that invites participation and engagement. 
 - `Telegraph your voice` The PM is a very well positioned role because it by definition is networked across sales, success, support, engineering etc. Making sense of these signals is step one but evangelizing your synthesis is even more important. People need to know where you stand.
-- `Multiply your voice with missionaries` Ideas become stronger when they are not only conveyed by you but also repeated by others. Provide artifacts or create moments where you can leverage others to promulgate your ideas. 
+- `Multiply your voice with missionaries` Ideas become stronger when they are not only conveyed by you but also repeated by influential nodes within your organization. Provide artifacts or create moments where you can leverage others to accelerate your ideas. 
 
 ## Build trust through better reporting 🔎
 

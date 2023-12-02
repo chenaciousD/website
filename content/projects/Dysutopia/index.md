@@ -9,20 +9,22 @@ image: "books.png"
 
 In 2019, I took a 2 month inspiration trip, traveling through Europe to investigate failed utopias and bicycles. Beyond the itinerary of the trip which I will later outline in this post. I wanted to write about two approaches that I took to this trip that I thought were interesting.
 
-# Psychogeography and Dérive
+# Structured Wandering: Psychogeography and Dérive
 
 > The sudden change of ambiance in a street within the space of a few meters; the evident division of a city into zones of distinct psychic atmospheres; the path of least resistance that is automatically followed in aimless strolls (and which has no relation to the physical contour of the terrain); the appealing or repelling character of certain places—these phenomena all seem to be neglected. In any case they are never envisaged as depending on causes that can be uncovered by careful analysis and turned to account.
 — Guy Debord, Introduction to a Critique of Urban Geography
 
 ["Derive"](https://en.wikipedia.org/wiki/D%C3%A9rive) is a term associated with the Situationist International, a revolutionary artistic and political movement that emerged in Europe in the mid-20th century. The concept of "derive" comes from the French word "dérive," which means "drift" or "wandering." It is spontaneous and unplanned journey through an urban environment where you let yourself be guided by the terrain and your intuition without a fixed itinerary or agenda. If something about the environment catches your attention, you follow that thread without a set destination in mind.
 
-I followed this methodology rigorously during my trip and highly recommend this kind of traveling because it forces you to engage with the city and its people in a more intimate way. There are more moments of surprise and unpredictability that create a stronger memory of place.
+I followed this methodology rigorously during my trip and highly recommend this kind of traveling because it forces you to engage with the city and its people in a more intimate way. It may not be the most efficient way to travel if you're a checklist traveler but there are more moments of surprise and unpredictability that create a stronger memory of place. 
 
-# What if you let learning drive your itinerary? 
+# Branch out: Itineraries based on Tree Structures
 
-The second method I used in orienting this trip were having thematic areas of learning. For me there were two areas: failed utopias (and new cities) and transportation systems. I started with a one way ticket to Helsinki, Finland. And specifically explored those themes. When I went to bookstores or libraries, I would ask people about what in Finland might be worth looking into. The exploration in one place would then initiate planning the next destination. 
+The second method I used in orienting this trip were having thematic areas of learning. For me, there were two areas: failed utopias (and new cities) and transportation systems. I started with a one way ticket to Helsinki, Finland. And specifically explored those themes. When I went to bookstores or libraries, I would ask people about what in Finland might be worth looking into. The exploration in one place piques interest which then creates new branches of curiosity that initiate planning the next destination. 
+
 
 # Partial Itinerary
+Below is a partial list of places that I went to during this sabbatical. Check out my instagram during this period to see more of my learnings and posts.
 
 # Helsinki, Finland
 - [Tapiola](https://en.wikipedia.org/wiki/Tapiola)

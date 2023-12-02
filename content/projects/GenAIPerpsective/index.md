@@ -10,7 +10,7 @@ image= "Geoff.gif"
 
 # Anyone can create
 
-`GenAI dramatically reduces the barriers to creativity.` I'm not referring to the creative professional fields like design and art, although it will undoubtedly have a substantial impact there as well. What I mean is creativity in its broadest sense — the act of envisioning and bringing an idea to life, your own idea, independently. 
+`GenAI dramatically reduces the barriers to creativity.` I'm not referring to the creative professional fields like design and art, although it will undoubtedly have a substantial impact there too. What I mean is creativity in its broadest sense — the act of envisioning and bringing an idea to life, your own idea, independently. 
   
 # Curiosity is all you need
 
@@ -28,13 +28,13 @@ Here are a few ways I have prompted GPT to help me understand an idea:
 
 # From three weeks to three days
 
-As an example of how different it is for a non-technical person to create something now compared to the pre-GenAI era: In 2019, I built my personal website using Gatsby, following a step-by-step tutorial and browsing Stack Overflow every time I encountered an issue. It took me about three weeks to reach a point where I felt it was presentable, including content creation.
+As an example of how different it is for a non-technical person to create something now compared to the pre-GenAI era: In 2019, I built my personal website using Gatsby, following a step-by-step tutorial and browsing Stack Overflow every time I encountered an issue. It took me about three weeks to reach a point where I felt it was presentable.
 
-Contrast that experience to this website which I built using Hugo - which took me three days with no tutorial, no instructions, just Github Copilot. I customized an existing theme, streamlined the deployment process with Github actions and also added fun little elements like the Typed.JS animation on the homepage. 
+Contrast that experience to this website which I built using Hugo - which took me three days with no tutorial, no instructions, just persistent prompting with Github Copilot. I customized an existing theme, streamlined the deployment process with Github actions and also added fun little elements like the Typed.JS animation on the homepage. 
 
-Over the past six weeks, I've developed eight prototypes, starting with basic scripts and culminating in a full-stack news summarization app that utilized reinforcement learning with human feedback, a React frontend, a Python backend, an SQL database, and integrations with several external APIs, including NewsAPI and OpenAI. See my posts [Three ways I played with OpenAI's APIs]({{< relref "/projects/ThreeWaysLLMs/index.md" >}}) and [Experiments in Supervised and Reinforcement Learning]({{< relref "/projects/LearningExperiments/index.md" >}}). 
+Over the past six weeks, I've developed eight prototypes, starting with basic scripts and culminating in a full-stack news summarization app that utilized reinforcement learning with human feedback, a React frontend, a Python backend, an SQL database, and integrations with several external APIs. See my posts [Three ways I played with OpenAI's APIs]({{< relref "/projects/ThreeWaysLLMs/index.md" >}}) and [Experiments in Supervised and Reinforcement Learning]({{< relref "/projects/LearningExperiments/index.md" >}}). 
 
-My tools were `curiosity`, `patience` and `healthy skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for. Healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does make mistakes and can lead you astray.
+My tools were `curiosity`, `patience` and `healthy skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for (and it's far faster than sifting through Stack Overflow). Healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does make mistakes and can lead you astray.
 
 # Prompting a Process
 
@@ -47,9 +47,8 @@ For each of my projects, I took a similar process. Each of these steps builds cr
 - `Implement:` Through purely natural language prompting, you can start to build your app by copying and pasting the code that GPT generates into your IDE. Initially I used Replit (and copy/pasted between GPT for help writing and debugging code). I've since moved to using Visual Studio Code to access Github Copilot directly in the interface. Expect a significant amount of de-bugging and trial and error but in all cases, I was able to complete each step with Copilot's assistance. From a learning perspective, I recommend that you ask GPT to help you understand each piece of code it generates so that you can still hold all of the moving parts of the system you are building. This is particularly important as you build systems that have begin to have multiple modules.
 - `Remind:` Continuously provide context from the previous steps as you proceed to each new step in your project. This ensures that GPT remains informed and can offer relevant assistance at each stage. 
 
-
 **A few additional observations**
-- GPT rarely gets it right the first time. There is still a significant amount of debugging, but GPT guides you through this process.
+- GPT rarely gets it right the first time. There is still a significant amount of debugging, but GPT guides you through this process. 
 - GPT will hallucinate. For example, it once hallucinated about an API endpoint that didn't exist. I didn't realize this until lots of troubleshooting. Increasingly, I will pass documentation from external websites to make sure it provides me valid answers.
 - GPT has to be constantly reminded of its context. As my prototypes got more complex involving multiple files and modules, I would have to remind GPT about the existence of these components. 
 
