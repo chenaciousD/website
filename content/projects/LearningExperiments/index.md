@@ -6,7 +6,7 @@ image: "ImageClassifier.png"
 ---
 
 ## My motivation behind these experiments
-After reading the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and taking a deep learning class from [fast.ai](https://course.fast.ai/). I was interested in learning how some of the deep learning methods worked in practice. 
+I recently read the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and took a deep learning class from [fast.ai](https://course.fast.ai/). I was interested in learning how some of the deep learning methods worked in practice - in particular understanding how data is processed and incorporated into the model.
 
 ## Training my own Image Classifier
 

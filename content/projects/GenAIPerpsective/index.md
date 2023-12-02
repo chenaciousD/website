@@ -14,7 +14,7 @@ image= "Geoff.gif"
   
 # Curiosity is all you need
 
-For me, GPT has sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through. Although I specifically used GPT to help me build software, I also believe that this trend will permeate other industries too.
+Access to GPT has sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through. Although I specifically used GPT to help me build software, I also believe that this trend will permeate other industries too. 
 
 In high school, I was given a science award for being the most inquisitive. I would often annoy teachers with my questions - some of which were dumb, sometimes repetitive, and perhaps distracting - but they were an essential part of the way I learned. My questions were my brain trying to form and validate my mental model of a concept. GPT is a teacher with limitless energy. It doesn't judge, it comes along with you on your learning journey and it never tires. To get the most value out of an LLM like GPT, you really have to probe it. You have to experiment with the technology itself and see what's possible.
 
@@ -52,4 +52,6 @@ For each of my projects, I took a similar process. Each of these steps builds cr
 - GPT will hallucinate. For example, it once hallucinated about an API endpoint that didn't exist. I didn't realize this until lots of troubleshooting. Increasingly, I will pass documentation from external websites to make sure it provides me valid answers.
 - GPT has to be constantly reminded of its context. As my prototypes got more complex involving multiple files and modules, I would have to remind GPT about the existence of these components. 
 
- 
+ **Read more** 
+
+ I found Geoffrey Litt's article on [Malleable Software](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html) to be particualrly insightful here as well.

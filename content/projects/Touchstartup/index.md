@@ -2,7 +2,7 @@
 title: "Digital Collaboration Concept for Large Tech Company"
 date: 2014-04-01T02:01:58+05:30
 description: "Enabling customers to control a hamburger making robot"
-image: "Cover.png"
+image: "concierge.jpeg"
 ---
 
 {{< figure src="Cover.png" title="Rendering of device" >}}

@@ -8,7 +8,9 @@ image= "iphone3.jpg"
 
 {{< figure src="iphone3.jpg" title="The JSQ Product Team mocked my zoom moniker - iphone(3)" >}}
 
-A couple of months ago, I left Juniper Square where I joined as a product manager during the earliest days of covid. At the time, I had recently left frog design where I spent five years consulting on digital and physical product design. Now was the time to put theory into practice.
+In September, I left Juniper Square where I joined as a product manager during the earliest days of covid. At the time, I had recently left frog design where I spent five years consulting on digital and physical product design. 
+
+Now was the time to put theory into practice.
 
 The difference between consulting on and building products is stark. You must sift through the noise of feedback from every direction, resolve tradeoffs that seem impossible, deeply understand the capabilities and limits of inherited systems, endure the daily grind to build enterprise grade software - all while continuing to motivate and inspire engineers. For this experience, I am grateful and enlightened.  While I will take away many lessons from my tenure at Juniper Square, there are a few "Adam-isms" have left a lasting imprint on my thinking:
 

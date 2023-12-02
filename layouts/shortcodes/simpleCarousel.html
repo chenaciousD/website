@@ -1,0 +1,32 @@
+<div class="carousel-wrapper">
+  <div class="simple-carousel carousel-small">
+    <img id="carouselImage{{ .Page.File.UniqueID }}" src="{{ index .Params 0 }}" alt="Slide">
+    <div class="carousel-controls">
+      <h4><button class="link-style" onclick="changeImage('{{ .Page.File.UniqueID }}', -1)">Previous</button></h4>
+      <h4><button class="link-style" onclick="changeImage('{{ .Page.File.UniqueID }}', 1)">Next</button></h4>
+    </div>
+  </div>
+</div>
+
+<script>
+var images = {};
+images['{{ .Page.File.UniqueID }}'] = [
+  {{ $params := .Params }}
+  {{ range $index, $path := $params }}
+  "{{ $path }}"{{ if ne $index (sub (len $params) 1) }},{{ end }}
+  {{ end }}
+];
+
+var currentIndex = {};
+currentIndex['{{ .Page.File.UniqueID }}'] = 0;
+
+function changeImage(id, direction) {
+  currentIndex[id] += direction;
+  if (currentIndex[id] < 0) {
+    currentIndex[id] = images[id].length - 1;
+  } else if (currentIndex[id] >= images[id].length) {
+    currentIndex[id] = 0;
+  }
+  document.getElementById("carouselImage" + id).src = images[id][currentIndex[id]];
+}
+</script>

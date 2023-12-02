@@ -341,3 +341,44 @@ table td{
   padding: 6px 13px;
   border: 1px solid #dfe2e5;
 }
+
+.carousel-small img {
+  border: none;
+  max-width: 70%;
+}
+
+.carousel-small button {
+  /* adjust button size as needed */
+}
+
+.carousel-small button {
+  all: unset; /* remove default button styles */
+}
+
+.carousel-small button {
+  /* copy styles from a */
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+  /* add any other styles you want to copy from your links */
+}
+
+.carousel-controls h4 {
+  font-size: 1rem;
+  margin: 0;
+  margin-bottom: 1em;
+  display: inline; /* to display the buttons on the same line */
+}
+
+.carousel-controls h4::before {
+  content: '↳ ';
+}
+
+.carousel-controls button:hover {
+  background-color: var(--hovercolor);
+  color: #fff;
+}
+
+.simple-carousel {
+  margin-left: 20px; /* adjust as needed */
+}
