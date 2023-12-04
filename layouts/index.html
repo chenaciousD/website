@@ -14,7 +14,9 @@
                     </p>I am a product manager <span id="typed"></span></p>
                     </div>
                     
-                    <h2>Here are a few of my recent projects and posts:</h2>
+                    <a href="/projects">
+                    </p>Select Projects:</p>    
+                    </a>
                     <!-- Fetch and display 3 selected projects -->
                     {{ $projects := (where .Site.RegularPages "Section" "projects") | first 3 }}
                     <div class="posts" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
