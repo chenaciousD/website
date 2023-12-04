@@ -7,7 +7,7 @@ tags: [personal project, architecture]
 tldr: "A personal project about designing and managing a home renovation"
 ---
 
-{{< figure src="CLK-Front.jpg" title="Furnitecture" >}}
+{{< figure src="CLK-Front.jpg" title="Looking back at the loft" >}}
 
 ## Collaboration 
 During COVID, I collaborated with [Hesselbrand](https://hesselbrand.com/) to renovate my loft. Because the architect was based in London and Oslo, we used several techniques including 3D scans from Matterpot and Rhino models to communicate the design intent remotely. As part of the Hesselbrand team, I led the permitting and execution of this project. I also built a significant portion of the millwork myself.
