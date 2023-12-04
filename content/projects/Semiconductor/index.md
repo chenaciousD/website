@@ -22,7 +22,7 @@ This project involved industrial design, interaction  design, high level feature
 
 {{< simpleCarousel "Tech.png" "Capabilities.png" "CustomerProps.png" "Features.png" "Valuepillars.png" >}}
 
-The image carousel above walk through how we translated technology into a compelling consumer value prop: 
+The image carousel above walks through how we translated the technology innovation into compelling consumer value propositions: 
 
 - Step 1: What are the areas of technological innovation
 - Step 2: How do these innovations affect the category? 
