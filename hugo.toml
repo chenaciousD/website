@@ -17,7 +17,6 @@ paginate=3 # articles per page
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 	og_image = "/DC-shot.jpg" # Open Graph image
-	description = "Daniel Chen is crazy"
 
 # Social Tags
 
