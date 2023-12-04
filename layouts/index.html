@@ -15,8 +15,9 @@
                     </div>
                     
                     <h2>Here are a few of my recent projects and posts:</h2>
+                    <!-- Fetch and display 3 selected projects -->
                     {{ $projects := (where .Site.RegularPages "Section" "projects") | first 3 }}
-                    <div class="posts" style="display: flex; justify-content: space-between;">
+                    <div class="posts" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
                         {{- range $projects -}}
                             <div class="post" style="width: 250px; padding: 10px; box-sizing: border-box;">
                                 {{ if .Params.image }}
