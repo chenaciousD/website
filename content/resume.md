@@ -1,7 +1,6 @@
 ---
 title: "Resume"
 date: 2020-03-18T12:13:35+05:30
-description: "Start by getting a small backpack (less than 20 liters) and then just travel with what fits in that."
 layout: "resume"
 ---
 
@@ -36,13 +35,13 @@ layout: "resume"
 > Magna cum laude (Thesis with Ed Glaeser); *phi beta kappa*
 
 ## My Story
-My unconventional career path has taken me from private equity investing to design consulting to tech product management. These experiences give me an extremely broad toolkit of skills to draw in various contexts:
+My unconventional career path has taken me from private equity investing to design consulting to tech product management. These diverse experiences have equipped me with a wide range of skills, which prove valuable in cross-functional positions such as product management:
 
 - `High Learning Capacity` - My ability to learn and adapt has enabled me to build trust and gain expertise repeatedly across multiple industries and roles.
-- `Quantitive Approach` - My background in finance and investing naturally inclines me towards working with data, metrics, projections, and business case/ROI analyses. 
-- `User Empathy` - I have significant experience running user research and design procesess honed repeatedly over multiple consulting engagements across the product lifecycle.
-- `Polished Storytelling` - I am known for my skill in crafting compelling narratives and presentations, a skill that I developed from my business development responsibilities at frog.
-- `Technical Curiosity` - At Juniper Square, I collaborated closely with engineers on some of the most technical aspects of our core data model. I have a passion for understanding complex systems and getting my hands dirty as exemplified by some of my recent AI prototypes.
+- `Quantitive Approach` - My background in finance and investing inclines me towards working with data, metrics, projections, and business case/ROI analyses. 
+- `User Empathy and Design` - I have significant experience running user research and design procesess honed repeatedly over multiple consulting engagements across the product lifecycle.
+- `Storytelling` - Through my business development responsibilities at frog, I developed a skill for crafting compelling narratives and presentations.
+- `Technical Curiosity` - At Juniper Square, I collaborated closely with engineers on many technical aspects of our core data model. I have a passion for understanding complex systems and getting my hands dirty as exemplified by some of my recent AI prototypes.
 
 
 

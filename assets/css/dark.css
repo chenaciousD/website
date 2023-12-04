@@ -46,10 +46,7 @@ h1::before {
   color: var(--darkMaincolor);
   content: "# ";
 }
-h2::before {
-  color: var(--darkMaincolor);
-  content: "## ";
-}
+
 h3::before {
   color: var(--darkMaincolor);
   content: "### ";

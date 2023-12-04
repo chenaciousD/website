@@ -7,7 +7,7 @@ tags: [frog, hardware]
 tldr: "A frog project related to concept and hardware design"
 ---
 
-{{< figure src="Cover.png" title="Rendering of device" >}}
+{{< figure src="Cover.png" title="Rendering of concept" >}}
 
 ## The Ask
 A Series B-funded, touchscreen technology component provider asked frog to translate its compelling technology capabilities into a digital collaboration product for the modern workplace. At the time Microsoft had just launched Surface Hub. Our client’s technology had the potential to offer a radically more affordable alternative with superior touch technology.
