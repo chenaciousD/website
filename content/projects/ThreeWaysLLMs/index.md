@@ -5,11 +5,11 @@ description: "LLM ideas"
 image: "Chat.png"
 ---
 
-## My motiviation behind these experiments
-I was curious about the hype around GenAI so I wanted to play with the technology firsthand. Here are a few examples of what I created. Each of these applications was built with the assistance of GPT or Github Copilot. 
+## My motivation behind these experiments
+I was interested in how much I could build and learn with the assistance of an LLM and pure prompting. Each of these applications was built with the assistance of GPT. 
 
 ## Learn that Law: An Example of Retrieval Augmentation Generation 
-My first project was to build a simple [RAG](https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current/) which enable users to query an external data source with natural language. At the time, OpenAI did not have the ability to store "knowledge" as it does now with custom GPTs, so if the text could not fit within OpenAI's context window, one had to use its embeddings API to store it in a external vector database. The external data source I was interested in querying was the law [SB9](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB9), a recently introduced law that was not present in the training dataset of GPT (at the time)
+My first project was to build a simple [RAG](https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current/) which enables users to query an external data source with natural language. At the time, OpenAI did not have the ability to store "knowledge" as it does now with custom GPTs, so if the text could not fit within OpenAI's context window, one had to use its embeddings API to store it in a external vector database. The external data source I was interested in querying was the law [SB9](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB9), a recently introduced law that was not present in the training dataset of GPT (at the time)
 
 Here what my simple app does: 
 - The external document (in this case SB9) is read, processed, and split into sections. 
@@ -18,7 +18,7 @@ Here what my simple app does:
 - This response is then sent to GPT-3, which provides a conversational summary. 
 - I used a [Gradio](https://www.gradio.app/) interface to allows users to interact with this system in a user-friendly manner.
 
-I got the system to work reasonably well but I discovered that the way the document is chunked for embeddings can have a significant impact on the quality of the retreival process.
+I got the system to work reasonably well but discovered that the way the document is chunked for embeddings can have a significant impact on the quality of the retreival process.
 
 {{< figure src="SB9Law.png" title="Example query using Gradio interface" >}}
 
@@ -39,7 +39,7 @@ A challenge that I ran into on this project was the unpredictability of the gene
 ## ... A block away: An Example of Personalization, Prompting and Function Calling 
 This experiment was inspired by a friend of mine who constantly would text me for recommendations based on very specific locations - real-time. What if you could share your location with an agent to help you find places to discover - real time with natural language?
 
-Most recommendation engines use what's known as collaborative filtering or content-based filtering to determine recommendations. However, they require a lot of data from the user in the form of explicit user preferences. In this experiment, I took a shortcut and used GPT to provide meaningful recommendations by allowing the user to enter a snippet of useful context to help it rank the results returned from the Google Search API. This is how it works: 
+Most recommendation engines use collaborative filtering or content-based filtering to make recommendations. However, they require a lot of data from the user in the form of explicit user preferences. In this experiment, I took a shortcut and used GPT to provide meaningful recommendations by allowing the user to enter a snippet of useful context to help GPT rank the results returned from the Google Search API. This is how it works: 
 
 - When a user shares their current location (latitude and longitude), specifies the type of place they're interested in, and sets a distance limit, the app processes this information using GPT. For instance, it can understand statements like "I want to find a nearby coffee shop" and determine both the desired place type (e.g., restaurant, cafe) and the preferred search radius (from "walking distance" to a specific number of meters).
 - To streamline this information, the app utilizes OpenAI's function calling to create a JSON format containing the identified PlaceType and Radius. This JSON is then used to intelligently call the Google Places Nearby search API.

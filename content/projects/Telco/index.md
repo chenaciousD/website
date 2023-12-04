@@ -5,7 +5,7 @@ description: "Rebuilding trust with customers"
 image: "research.jpg"
 ---
 
-{{< figure src="ATT-1.gif" title="Animated Short for Board of Directors" >}} 
+{{< figure src="Telco-1.gif" title="Animated Short for Board of Directors" >}} 
 
 ### The Ask
 A leading US telco asked frog to envision the company’s future end to end customer experience. The telco had recently acquired new media/content assets that increased its competitive advantage, enabling it to offer a richer suite of products and content to customers.
@@ -22,11 +22,11 @@ Our participatory design research process included speaking with 25 customers, v
 ### The Outcome
 A key insight from our customer research was the lack of trust between consumers and the telco brand. Consumers felt that they had an adversarial relationship with the brand. We delivered a framework to rebuild trust with consumers, a set of experience principles, 80+ differentiated concepts aligned to this framework.
 
-{{< figure src="ATT-2.jpg" title="Trust Framework" >}} 
+{{< figure src="Telco-2.jpg" title="Trust Framework" >}} 
 
 #### A Framework & Service Principles for Building Trust
 We created a framework for building trust with different behavioral segments: the Independent, the Control Seeker, the Attention Seeker and Delegator. We synthesized core painpoints and converted them into feature-rich opportunity areas for the brand’s product and customer experience.
 
 We applied the Trust framework, Customer Journey Map (Learn-Buy-Get-Use-Pay-Service) and behavioral archetypes to generate and organize hundreds of concepts and ideas.
 
-{{< figure src="ATT-3.jpg" title="Concepts and Customer Journey" >}} 
+{{< figure src="Telco-3.jpg" title="Concepts and Customer Journey" >}} 

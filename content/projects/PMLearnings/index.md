@@ -8,16 +8,14 @@ image= "MAD.jpg"
 
 {{< figure src="MAD.jpg">}}
 
-The following are some reflections and principles that I have taken away from my time being a product manager at a scaling startup. 
+The following are a selection of reflections that I have taken away from my time as a product manager at a scaling startup. These principles are more about the *role* of product manager rather than the craft of product development.
 
 ## Create the spectre of Mutually Assured Inspiration 💡
 
-Everyone in R&D must have enough context about the business, the customer and the technology. These three elements form the Context Triad, which is essential for fostering Mutually Assured Inspiration. A silo'd team where engineers only know the tech, the designer knows the customer and the product person knows the business is not only bad for the business, it's not a fun way to collaborate. Here's why:
+Everyone in R&D should have enough context about the business, customer and technology. These three elements form the Context Triad, which is essential for fostering Mutually Assured Inspiration. A silo'd team where engineers only know the tech, the designer knows the customer and the product person knows the business is not only bad for the business, it's not a fun way to collaborate. Here's why:
 - `Shared context breeds better ideas and greater efficiency` - A strong foundational understanding and curiosity for the Triad across the team results in better brainstorming, less documentation and faster decisions. It does take some dedication for everyone to ramp up - this is especially challenging in niche B2B businesses - but the return far outweighs the effort.
-- `Product development is more fun when it's inclusive` - With shared context, more team members can actively participate in the product development process, shifting away from a top-down approach. More participation means greater feeling of ownership and control. More cross functional understanding also results in mutual respect. More respect translates to better morale and team dynamics. 
+- `Product development is more fun when it's inclusive` - With shared context, more team members can actively participate in the product development process, shifting away from a top-down approach. More participation means greater feeling of ownership and control. More cross-functional understanding also results in mutual respect. More respect translates to better morale and team dynamics. 
 - `Better long-term tech and business strategy decisions` - Mutually Assured Inspiration also increases the chances that implementations align with the business's needs. It  ensures that team members from different disciplines can advocate for each other's agendas. Everyone on the team should be capable of confidently explaining the business value of a project in reasonable detail.
-
-I believe it's the Product Manager's critical role to exemplify and encourage behavior that creates the conditions for Mutually Assured Inspiration.
 
 ## Adopt a "big tent" strategy 🎪
 
@@ -30,7 +28,7 @@ You can apply a "big tent" approach across the product development cycle. Here a
 
 ## Build trust through better reporting 🔎
 
-Monthly Business Reviews (MBRs) may be a chore. They require substantial effort to produce and can be intimidating to share because they open you up to scrutiny. However, I've come to realize that good reporting is indispensable—not only for building trust with external stakeholders but also for enhancing your effectiveness at work. Here’s why. 
+Reporting rituals like Monthly Business Reviews (MBRs) are a chore. They require substantial effort to produce and can be intimidating to share because they open you up to scrutiny. However, I've come to realize that good reporting is indispensable — not only for building trust with external stakeholders but also for enhancing your effectiveness at work. Here’s why. 
 - `MBRs increase quality and accountability` This might seem obvious, but it's astonishing how effective it is. Once you publicize your work, everyone takes it more seriously. Sharing your progress with the organization raises the overall quality of everyone's work.  
 - `The clearest expression of a company's priorities` As organizations grow, they face more noise and distractions. Effective reporting provides a tangible representation of a company's development priorities and encourages debate and adjustments, if needed. This minimizes the risk of misalignment before it becomes a significant issue. People crave predictability.
 - `Leverages the wider business to accelerate R&D` Reporting provides R&D teams with a platform to highlight issues and seek assistance. It exposes latent problems that cause friction. When these issues are brought to light, the entire business can contribute to finding solutions, not just the R&D teams. 

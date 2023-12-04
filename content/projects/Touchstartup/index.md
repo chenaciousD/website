@@ -21,6 +21,8 @@ From there, we created three conceptual directions, Concierge, Portal and Campfi
 
 {{< figure src="Concepts.jpg" title="Concept posters" >}}
 
+Each concept was designed to target a different type of collaboration:
+
 - **Portal** is a remote team collaboration solution that creates a feeling of shared space by facilitating and encouraging moments of spontaneous co-creation, serendipity, and mutual understanding across time, space and culture. 
 - **Concierge** is a high performance collaboration tool that augments your team’s brainstorming capabilities by serving as an intelligent brainstorming partner.
 - **Campfire** is your teams’ control room, facilitating a sense of team belonging both physically and virtually. Campfire contextually updates its dashboard with real-time information, enabling your team to efficiently manage, prioritize and execute tasks.

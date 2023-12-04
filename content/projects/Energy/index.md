@@ -8,7 +8,7 @@ image: "Energy-3.jpg"
 {{< figure src="Energy-1.jpg" title="Design Language System" >}}
 
 ### The Ask
-In 2017 one of Australia’s leading energy utilities approached frog to partner on a major digital transformation. With a clear mandate to improve customer experience and retention, frog’s engagement included in-depth customer research, concepting, business case validation, foundational design, and a clear roadmap and process for implementation.
+In 2017 one of Australia’s leading energy utilities approached frog to partner on a major digital transformation initiative. With a clear mandate to improve customer experience and retention, frog’s engagement included in-depth customer research, concepting, business case validation, foundational design, and a clear roadmap and process for implementation.
 
 ### The Process
 The frog team was comprised of interaction designers, visual designers, strategists, and software architects collaborating on multiple streams of work to ensure balanced perspectives from design, business, and technology. My role on the team included:

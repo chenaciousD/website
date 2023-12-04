@@ -8,7 +8,9 @@ image: "CLK-Front.jpg"
 {{< figure src="CLK-Front.jpg" title="Furnitecture" >}}
 
 ### Collaboration 
-During COVID, I collaborated with [Hesselbrand](https://hesselbrand.com/) to renovate my loft. Because the architect was based in London and Oslo, we used several techniques including 3D scans from Matterpot and Rhino models to communicate the design intent. As part of the Hesselbrand team, I led the permitting and execution of this project. All photos shot by Adam Rouse.
+During COVID, I collaborated with [Hesselbrand](https://hesselbrand.com/) to renovate my loft. Because the architect was based in London and Oslo, we used several techniques including 3D scans from Matterpot and Rhino models to communicate the design intent remotely. As part of the Hesselbrand team, I led the permitting and execution of this project. I also built a significant portion of the millwork myself.
+
+All photos shot by [Adam Rouse](https://www.adamrousephotography.com/).
 
 ### Context
 The Clocktower Building, located in the South Beach neighbourhood of San Francisco, is one of the city's iconic landmarks. Originally a factory and office, the building was converted into live-work lofts in the 1990s by the American architect David Baker. The transformation was ahead of its time, and the Clocktower Building stands as a pioneering example of live-work lofts in San Francisco, signifying a lifestyle that became synonymous with the start-up culture that would define the Bay Area in the years to come. Three decades on, amidst the backdrop of technological shifts and the Pandemic, Hesselbrand, was commissioned to offer a European perspective on the American loft in an attempt to rethink the balance between living and working, together and apart.
@@ -43,7 +45,7 @@ Glass block not only functions as a means to bring in light into the back of the
 {{< figure src="CLK-Bathroom.jpg" title="First floor bathroom" >}}
 {{< figure src="BlueLights.jpg" title="First floor bathroom and shower interior illuminated with Hue Bulb" >}}
 
-### Bringing spatial variety to a typically monotonic form
+### Bringing spatial variety to a big box
 In essence, the Clocktower's design paints a picture of intertwined spaces, fostering both functional efficiency and privacy. It inspires spontaneous movement, achieving a harmonious balance between solitude and sociability without fragmenting the space and light. Whereas typical lofts often feel one-note, the renovation created the spatial variety and richness often found in a more traditional home.
 
 All together the design generates a landscape of interlocking and nested spaces that provides practical functionality, privacy while also inviting constant and unprescribed movement throughout the home. Privacy and social life can exist and be mediated without compartmentalising the space and light. 

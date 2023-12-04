@@ -21,7 +21,7 @@ The frog team was comprised of interaction designers, visual designers and strat
 {{< figure src="Creator-2.jpg" title="The Machine photographed by Aubrie Pick" >}}
 
 ### The Outcome
-frog designed the core experience of the MVP mobile app that is currently being used by Creator’s own burger concierge staff within the restaurant. Every element of the app - from the navigation to the persistent smart cart - was designed to maximize user delight and deliver business goals.
+frog designed the core experience of the MVP mobile app that was used by Creator’s own burger concierge staff within the restaurant. Every element of the app - from the navigation to the persistent smart cart - was designed to maximize user delight and deliver business goals.
 
 {{< figure src="Creator-1.jpg" title="Mobile burger customization and ordering experience" >}}
 

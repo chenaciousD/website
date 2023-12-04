@@ -8,15 +8,18 @@ image= "Geoff.gif"
 
 {{< figure src="geoff.gif" title="Get Your Mind Out by Geoff Mcfetridge" >}}
 
-# AI empowers anyone to create
+# AI empowers everyone to build their own software
 
-`GenAI dramatically reduces the barriers to creativity.` I'm not referring to the creative professional fields like design and art, although it will undoubtedly have a substantial impact there too. What I mean is creativity in its broadest sense — the act of envisioning and bringing an idea to life, your own idea, independently. 
-  
+> "Everyone is a programmer now - you just have to say something to the compute. Human language is the new programming language." - Jensen Huang 
+
+`GenAI breakes the barriers to creativity.` I'm not referring to the creative professional 
+fields like design and art, although it will undoubtedly have a substantial impact there too. What I mean is creativity in its broadest sense — the act of envisioning and bringing an idea to life, your own idea, independently. 
+
 # Curiosity is all you need
 
-Access to GPT has sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through. Although I specifically used GPT to help me build software, I also believe that this trend will permeate other industries too. 
+Speaking personally, LLMs have sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through. 
 
-In high school, I was given a science award for being the most inquisitive. I would often annoy teachers with my questions - some of which were dumb, sometimes repetitive, and perhaps distracting - but they were an essential part of the way I learned. My questions were my brain trying to form and validate my mental model of a concept. GPT is a teacher with limitless energy. It doesn't judge, it comes along with you on your learning journey and it never tires. To get the most value out of an LLM like GPT, you really have to probe it. You have to experiment with the technology itself and see what's possible.
+In high school, I was given a science award for being the most inquisitive. I would often annoy teachers with my questions - many of which were ignorant, sometimes repetitive, and often distracting - but they were an essential part of the way I learned. My questions were my brain trying to form and validate my mental model of a concept. LLMs like GPT are teachers with limitless energy, infinite patience. It doesn't judge, it comes along with you on your learning journey and it never tires. To get the most value out of an LLM like GPT, you really have to probe it. You have to experiment with the technology itself and see what's possible.
 
 Here are a few ways I have prompted GPT to help me understand an idea: 
 1. Ask it to provide an example(s) (a simple tactic that can you can easily continue to modify to simpler and simpler examples)
@@ -28,13 +31,13 @@ Here are a few ways I have prompted GPT to help me understand an idea:
 
 # From three weeks to three days
 
-As an example of how different it is for a non-technical person to create something now compared to the pre-GenAI era: In 2019, I built my personal website using Gatsby, following a step-by-step tutorial and browsing Stack Overflow every time I encountered an issue. It took me about three weeks to reach a point where I felt it was presentable.
+As an example of how different it is for a non-technical person to create something now compared to the pre-GenAI era: In 2019, I built my personal website using Gatsby, following a step-by-step tutorial and browsing Stack Overflow every time I encountered an issue. It took me about three weeks with lots of head banging to reach a point where I felt it was presentable.
 
-Contrast that experience to this website which I built using Hugo - which took me three days with no tutorial, no instructions, just persistent prompting with Github Copilot. I customized an existing theme, streamlined the deployment process with Github actions and also added fun little elements like the Typed.JS animation on the homepage. 
+Contrast that experience to this website which I built using Hugo. It took me three days with no tutorial, no instructions, just persistent prompting with Github Copilot. I customized an existing theme, streamlined the deployment process with Github actions and also added fun little elements like the Typed.JS animation on the homepage. 
 
 Over the past six weeks, I've developed eight prototypes, starting with basic scripts and culminating in a full-stack news summarization app that utilized reinforcement learning with human feedback, a React frontend, a Python backend, an SQL database, and integrations with several external APIs. See my posts [Three ways I played with OpenAI's APIs]({{< relref "/projects/ThreeWaysLLMs/index.md" >}}) and [Experiments in Supervised and Reinforcement Learning]({{< relref "/projects/LearningExperiments/index.md" >}}). 
 
-My tools were `curiosity`, `patience` and `healthy skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for (and it's far faster than sifting through Stack Overflow). Healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does make mistakes and can lead you astray.
+My tools were `curiosity`, `patience` and `skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for (and it's far faster than sifting through Stack Overflow). A healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does make mistakes and can lead you astray.
 
 # Prompting a Process
 
@@ -54,4 +57,4 @@ For each of my projects, I took a similar process. Each of these steps builds cr
 
  **Read more** 
 
- I found Geoffrey Litt's article on [Malleable Software](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html) to be particualrly insightful here as well.
+ I also found Geoffrey Litt's article on [Malleable Software](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html) to be particularly insightful if you want to read more about end-user programming.
