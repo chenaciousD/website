@@ -45,7 +45,7 @@ Over the past six weeks, I've developed eight prototypes, starting with basic sc
 
 My tools were `curiosity`, `patience` and `skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for (and it's far faster than sifting through Stack Overflow). A healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does make mistakes and can lead you astray.
 
-## Prompting a process
+## Prompting a process: A DIY approach to building software
 
 For each of my projects, I took a similar process. Each of these steps builds critical context for it to help you move forward into the next step.
 
