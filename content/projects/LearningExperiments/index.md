@@ -15,7 +15,7 @@ As part of my deep dive in AI, I read the [Alignment Problem](https://brianchris
 My goal was to see an end-to-end machine learning workflow. I used the FastAI library for its ease of use. I found a dataset available from [Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IGNELZ). The Annotated Image Database of Architecture is comprised of about 15,000 images that are pre-labeled across various categories including building type and location. The images were sourced originally from [Archdaily](https://www.archdaily.com/), an architecture blog.
 
 - The workflow started with loading and processing image filenames and labels for training, validation, and testing. 
-- I created pandas DataFrames to organize the datasets. For model training and evaluation, it sets up DataLoaders with the necessary image transformations. 
+- I created pandas DataFrames to organize the datasets. For model training and evaluation, I set up DataLoaders with the necessary image transformations. 
 - I used a convolutional neural network model, using the ResNet50 architecture, which is then trained, with the learning rate optimized through FastAI's utilities. 
 - After training the model, I evaluated the performance on the validation datasets. 
 

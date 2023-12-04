@@ -29,10 +29,10 @@ You can apply a "big tent" approach across the product development cycle. Here a
 
 ## Build trust through better reporting 🔎
 
-Reporting rituals like Monthly Business Reviews (MBRs) are a chore. They require substantial effort to produce and can be intimidating to share because they open you up to scrutiny. However, I've come to realize that good reporting is indispensable — not only for building trust with external stakeholders but also for enhancing your effectiveness at work. Here’s why. 
+Reporting rituals like Monthly Business Reviews (MBRs) are a chore. They require substantial effort to produce and can be intimidating to share because they open you up to scrutiny. However, with experience, I've learned that good reporting is indispensable — not only for building trust with external stakeholders but also for enhancing your team's overall effectiveness. Here’s why. 
 - `MBRs increase quality and accountability` This might seem obvious, but it's astonishing how effective it is. Once you publicize your work, everyone takes it more seriously. Sharing your progress with the organization raises the overall quality of everyone's work.  
 - `The clearest expression of a company's priorities` As organizations grow, they face more noise and distractions. Effective reporting provides a tangible representation of a company's development priorities and encourages debate and adjustments, if needed. This minimizes the risk of misalignment before it becomes a significant issue. People crave predictability.
-- `Leverages the wider business to accelerate R&D` Reporting provides R&D teams with a platform to highlight issues and seek assistance. It exposes latent problems that cause friction. When these issues are brought to light, the entire business can contribute to finding solutions, not just the R&D teams. 
+- `Leverages the wider business to accelerate R&D` Reporting provides R&D teams with a platform to highlight issues and seek assistance. It's an opportunity to openly discuss latent problems that cause friction (ie. issues related to onboarding and support, internal recruiting issues etc). When these issues are brought to light, the entire business can contribute to finding solutions, not just the R&D teams. MBRs make product management less lonely.
 
 ## Next Topics Up
 - The Continuum of What Ifs: Managing Reward and Risk

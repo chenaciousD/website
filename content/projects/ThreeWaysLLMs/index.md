@@ -8,7 +8,7 @@ tldr: "A personal project about applications of LLMs"
 ---
 
 ## My motivation
-I was interested in how much I could learn and build with the assistance of an LLM and pure prompting. Each of these applications was built with the assistance of GPT. 
+How much can you learn and build solely with the assistance of an LLM and pure prompting? It turns out quite alot and I feel like I'm just scratching the surface of what's possible.
 
 ## Learn that Law: An example of retrieval augmentation generation 
 My first project was to build a simple [RAG](https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current/) which enables users to query an external data source with natural language. At the time, OpenAI did not have the ability to store "knowledge" as it does now with custom GPTs, so if the text could not fit within OpenAI's context window, one had to use its embeddings API to store it in a external vector database. The external data source I was interested in querying was the law [SB9](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB9), a recently introduced law that was not present in the training dataset of GPT (at the time)
@@ -44,9 +44,11 @@ This experiment was inspired by a friend of mine who constantly would text me fo
 Most recommendation engines use collaborative filtering or content-based filtering to make recommendations. However, they require a lot of data from the user in the form of explicit user preferences. In this experiment, I took a shortcut and used GPT to provide meaningful recommendations by allowing the user to enter a snippet of useful context to help GPT rank the results returned from the Google Search API. This is how it works: 
 
 - When a user shares their current location (latitude and longitude), specifies the type of place they're interested in, and sets a distance limit, the app processes this information using GPT. For instance, it can understand statements like "I want to find a nearby coffee shop" and determine both the desired place type (e.g., restaurant, cafe) and the preferred search radius (from "walking distance" to a specific number of meters).
-- To streamline this information, the app utilizes OpenAI's function calling to create a JSON format containing the identified PlaceType and Radius. This JSON is then used to intelligently call the Google Places Nearby search API.
+- To streamline this information, the app uses an AI model to identify the PlaceType and Radius. These identified values are then formatted into a JSON object. This JSON object is used to make intelligent requests to the Google Places Nearby search API.
 - The app's backend interacts with the Google Places API to fetch results that match the user's query for nearby locations.
 - Subsequently, the app sends an SMS to the user, requesting additional context to refine the search. Users can provide any relevant information they think might be helpful, such as "I'm with my family" or "I'm an architect."
 - The backend employs OpenAI's GPT to personalize recommendations based on the user's context. It generates a response with a rationale and sends it back to the user via SMS.
 
 {{< figure src="Place-recommender.jpeg" title="Sample Natural Language Conversations" >}}
+
+
