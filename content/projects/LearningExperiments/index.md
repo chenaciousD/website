@@ -3,12 +3,14 @@ title: "Experiments in Supervised and Q-Learning"
 date: 2023-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
 image: "ImageClassifier.png"
+tags: [personal project, AI]
+tldr: "A few personal projects related to machine learning"
 ---
 
-## My Motivation
+## My motivation
 As part of my deep dive in AI, I read the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and took a deep learning class from [fast.ai](https://course.fast.ai/). I was interested in learning how some of the deep learning methods worked in practice - in particular understanding how data is processed and incorporated into the model.
 
-## Training my own Image Classifier
+## Training my own image classifier
 
 My goal was to see an end-to-end machine learning workflow. I used the FastAI library for its ease of use. I found a dataset available from [Harvard](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IGNELZ). The Annotated Image Database of Architecture is comprised of about 15,000 images that are pre-labeled across various categories including building type and location. The images were sourced originally from [Archdaily](https://www.archdaily.com/), an architecture blog.
 
@@ -45,7 +47,7 @@ I tested the resulting model with some of my own images to see how well it perfo
 
 Unfortunately, my model's accuracy was never able to achieve more than 50% accuracy based on the validation dataset. I have a hypothesize that utilizing [CLIP](https://openai.com/research/clip) as a foundational model, as opposed to ResNet50, could enhance the accuracy of the model due to CLIP's unique training set, encompassing both textual and visual data. I think the multi-modal training would enable CLIP to better grasp the nuanced context associated with buildings. For example, by processing image and associated text, CLIP can capture the contextual information that helps differentiate between similar-looking building types. For example, it might recognize office-related activities, furniture, or signage in an office building image and educational activities, classrooms, or school-related objects in an educational facility image. 
 
-## Building a Reinforcement Learning with Human Feedback Algorithm (RLHF)
+## Building a reinforcement learning with human feedback algorithm (RLHF)
 
 RLHF is a type of machine learning where the system iteratively learns to make decisions by taking actions and receiving feedback from the user in various situations. The core concepts are:
 - `agent/system` the decision maker

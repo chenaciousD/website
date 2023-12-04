@@ -3,12 +3,14 @@ title: "Three ways I played with OpenAI's APIs"
 date: 2023-11-01T02:01:58+05:30
 description: "LLM ideas"
 image: "Chat.png"
+tags: [personal project, AI]
+tldr: "A personal project about applications of LLMs"
 ---
 
-## My Motivation
-I was interested in how much I could build and learn with the assistance of an LLM and pure prompting. Each of these applications was built with the assistance of GPT. 
+## My motivation
+I was interested in how much I could learn and build with the assistance of an LLM and pure prompting. Each of these applications was built with the assistance of GPT. 
 
-## Learn that Law: An Example of Retrieval Augmentation Generation 
+## Learn that Law: An example of retrieval augmentation generation 
 My first project was to build a simple [RAG](https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current/) which enables users to query an external data source with natural language. At the time, OpenAI did not have the ability to store "knowledge" as it does now with custom GPTs, so if the text could not fit within OpenAI's context window, one had to use its embeddings API to store it in a external vector database. The external data source I was interested in querying was the law [SB9](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB9), a recently introduced law that was not present in the training dataset of GPT (at the time)
 
 Here what my simple app does: 
@@ -22,7 +24,7 @@ I got the system to work reasonably well but discovered that the way the documen
 
 {{< figure src="SB9Law.png" title="Example query using Gradio interface" >}}
 
-## To Do or Not to Do: Experimenting with Classification
+## To Do or Not to Do: Experimenting with classification
 My second project was inspired by note taking and task lists. Often when I'm away from my computer in a social setting, a thought or a task may come to me that I want to capture and come back to at the end of the day. However, each thought or task might need to be handled in a different way based on priority, objective, topics. My concept was to create a virtual assistant that sifts through messages sent over text and employs GPT to understand, categorize, appropriately respond and take action on the message. Here's how it works:
 
 - A user sends a message, which is stored in an Airtable table. 
@@ -36,7 +38,7 @@ My second project was inspired by note taking and task lists. Often when I'm awa
 
 A challenge that I ran into on this project was the unpredictability of the generated response. Sometimes it would generate a response in prose and other times it would generate a response with a bulleted list. This unpredictability caused some issues downstream when I tried to format it into an email. Ultimately, the simplest solution I came up with was to modify the prompt to create a more predictable output. 
 
-## ... A block away: An Example of Personalization, Prompting and Function Calling 
+## ... A block away: An example of personalization, prompting and function calling 
 This experiment was inspired by a friend of mine who constantly would text me for recommendations based on very specific locations - real-time. What if you could share your location with an agent to help you find places to discover - real time with natural language?
 
 Most recommendation engines use collaborative filtering or content-based filtering to make recommendations. However, they require a lot of data from the user in the form of explicit user preferences. In this experiment, I took a shortcut and used GPT to provide meaningful recommendations by allowing the user to enter a snippet of useful context to help GPT rank the results returned from the Google Search API. This is how it works: 

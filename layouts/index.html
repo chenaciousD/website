@@ -7,15 +7,15 @@
             
             <main class="list">
                 <section class="list-item">
-                    <h1> Hey, I'm Daniel.</h1>                    
-                    </p> San Francisco. Previously, CPH 🇩🇰, AUH 🇦🇪, and NYC 🗽.</p>    
+                    <h1 class="no-hash"> 👋 Hey, I'm Daniel.</h1>
+                    </p> Based in San Francisco. Previously, CPH 🇩🇰, AUH 🇦🇪, and NYC 🗽.</p>    
                     </p> Curious about people, technology and economics.</p>    
                     <div style="height: 60px;">
                     </p>I am a product manager <span id="typed"></span></p>
                     </div>
                     
                     <a href="/projects">
-                    </p>Select Projects:</p>    
+                    </p>Recent Projects:</p>    
                     </a>
                     <!-- Fetch and display 3 selected projects -->
                     {{ $projects := (where .Site.RegularPages "Section" "projects") | first 3 }}
@@ -57,14 +57,14 @@
         <script>
             var typed = new Typed('#typed', {
                 strings: ["and former management consultant 📈.", 
-                            "and lifelong excel power user 🟰.", 
+                            "and lifelong excel power user 🧮.", 
                             "and budding architect 🏢.",  
                             "and recovering private equity investor 💰.", 
                             "and enthusiastic cyclist 🚴‍♂️.",  
                             "and expert PowerPoint puppet 📊.",
                             "and amateur urban explorer 🧭.",  
                             ],
-                typeSpeed: 50,
+                typeSpeed: 40,
                 backSpeed: 0,
                 loop: true,
                 fadeOut: true,

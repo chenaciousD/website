@@ -1,21 +1,27 @@
-+++
-title = 'Curiosity is all you need: How GenAI will transform creativity'
-date = 2023-11-22T18:54:38-08:00
-draft = false
-description = "Blah blah blah"
-image= "Geoff.gif"
-+++
+---
+title: 'Curiosity is all you need: How GenAI will Transform Creativity'
+date: 2023-11-22T18:54:38-08:00
+draft: false
+description: "Blah blah blah"
+image: "Geoff.gif"
+tags: [AI]
+tldr: "A personal perspective on AI's potential"
+---
+
+<div class="tldr">
+    {{ .Params.tldr }}
+</div>
 
 {{< figure src="geoff.gif" title="Get Your Mind Out by Geoff Mcfetridge" >}}
 
-# AI empowers everyone to build their own software
+## AI empowers everyone to build their own software
 
 > "Everyone is a programmer now - you just have to say something to the compute. Human language is the new programming language." - Jensen Huang 
 
 `GenAI breakes the barriers to creativity.` I'm not referring to the creative professional 
 fields like design and art, although it will undoubtedly have a substantial impact there too. What I mean is creativity in its broadest sense — the act of envisioning and bringing an idea to life, your own idea, independently. 
 
-# Curiosity is all you need
+## Curiosity is all you need
 
 Speaking personally, LLMs have sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through. 
 
@@ -29,7 +35,7 @@ Here are a few ways I have prompted GPT to help me understand an idea:
 5. Ask it to translate between the language you know and the language you're trying to learn (whenever you're learning a new concept, it is often the case you don't intuitively have the language to describe it, GPT is incredible at helping you translate ideas between domains)
 6. Give more context about yourself (this one's self-explanatory — tell GPT more about why you're learning and any relevant information about yourself, so it can tailor its response).
 
-# From three weeks to three days
+## From three weeks to three days
 
 As an example of how different it is for a non-technical person to create something now compared to the pre-GenAI era: In 2019, I built my personal website using Gatsby, following a step-by-step tutorial and browsing Stack Overflow every time I encountered an issue. It took me about three weeks with lots of head banging to reach a point where I felt it was presentable.
 
@@ -39,7 +45,7 @@ Over the past six weeks, I've developed eight prototypes, starting with basic sc
 
 My tools were `curiosity`, `patience` and `skepticism`. I've already written about curiosity above. Patience is required to iterate through a prompt and its generated response until you achieve what you're looking for (and it's far faster than sifting through Stack Overflow). A healthy skepticism is required to ensure you don't blindly follow GPT's instructions because it does make mistakes and can lead you astray.
 
-# Prompting a Process
+## Prompting a process
 
 For each of my projects, I took a similar process. Each of these steps builds critical context for it to help you move forward into the next step.
 

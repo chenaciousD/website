@@ -1,10 +1,11 @@
-+++
-title = "Mutually Assured Inspiration: Reflections on being a PM"
-date = 2022-11-22T18:54:38-08:00
-draft = false
-description = "Blah blah blah"
-image= "MAD.jpg"
-+++
+---
+title: "Mutually Assured Inspiration: Reflections on being a PM"
+date: 2022-11-22T18:54:38-08:00
+draft: false
+description: "Blah blah blah"
+image: "MAD.jpg"
+tldr: "Personal perspectives about the product management role"
+---
 
 {{< figure src="MAD.jpg">}}
 
