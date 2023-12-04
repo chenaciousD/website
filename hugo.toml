@@ -16,7 +16,8 @@ paginate=3 # articles per page
 	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
-	og_image = "/DC-shot.jpeg" # Open Graph image
+	og_image = "/DC-shot.jpg" # Open Graph image
+	description = "Daniel Chen is crazy"
 
 # Social Tags
 
