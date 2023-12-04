@@ -13,6 +13,25 @@
                     <div style="height: 40px;">
                     </p>I am a product manager <span id="typed"></span></p>
                     </div>
+                    
+                    <h2>Here are a few of my recent projects and posts:</h2>
+                    {{ $projects := (where .Site.RegularPages "Section" "projects") | first 3 }}
+                    <div class="posts" style="display: flex; justify-content: space-between;">
+                        {{- range $projects -}}
+                            <div class="post" style="width: 250px; padding: 10px; box-sizing: border-box;">
+                                {{ if .Params.image }}
+                                    {{ $image := .Resources.GetMatch (.Params.image) }}
+                                    {{ if $image }}
+                                        <a href="{{ .RelPermalink }}" class="image-link">
+                                            <img src="{{ $image.RelPermalink }}" style="width: 100%;">
+                                        </a>
+                                    {{ end }}
+                                {{ end }}
+                                <a href="{{ .RelPermalink }}" style="line-height: 1.2; margin: 0; padding: 0;">{{.Title}}</a>
+                                <div class="meta">{{ dateFormat "2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div>
+                            </div>
+                        {{- end -}}
+                    </div>
                     </section> 
                     
             </main>

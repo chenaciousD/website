@@ -8,7 +8,7 @@ image= "Geoff.gif"
 
 {{< figure src="geoff.gif" title="Get Your Mind Out by Geoff Mcfetridge" >}}
 
-# Anyone can create
+# AI empowers anyone to create
 
 `GenAI dramatically reduces the barriers to creativity.` I'm not referring to the creative professional fields like design and art, although it will undoubtedly have a substantial impact there too. What I mean is creativity in its broadest sense — the act of envisioning and bringing an idea to life, your own idea, independently. 
   
