@@ -16,7 +16,7 @@ tldr: "A personal perspective on AI's potential"
 
 ## AI empowers everyone to build their own software
 
-> "Everyone is a programmer now - you just have to say something to the compute. Human language is the new programming language." - Jensen Huang 
+> "Everyone is a programmer now - you just have to say something to the computer. Human language is the new programming language." - Jensen Huang 
 
 `GenAI breakes the barriers to creativity.` I'm not referring to the creative professional 
 fields like design and art, although it will undoubtedly have a substantial impact there too. What I mean is creativity in its broadest sense — the act of envisioning and bringing an idea to life, your own idea, independently. 
