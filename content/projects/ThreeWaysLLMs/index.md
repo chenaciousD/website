@@ -5,7 +5,7 @@ description: "LLM ideas"
 image: "Chat.png"
 ---
 
-## My motivation behind these experiments
+## My Motivation
 I was interested in how much I could build and learn with the assistance of an LLM and pure prompting. Each of these applications was built with the assistance of GPT. 
 
 ## Learn that Law: An Example of Retrieval Augmentation Generation 
