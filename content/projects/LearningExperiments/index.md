@@ -8,7 +8,7 @@ tldr: "A few personal projects related to machine learning"
 ---
 
 ## My motivation
-As part of my deep dive in AI, I read the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and took a deep learning class from [fast.ai](https://course.fast.ai/). I was interested in learning how some of the deep learning methods worked in practice - in particular understanding how data is processed and incorporated into the model.
+As part of my deep dive into AI, I read the [Alignment Problem](https://brianchristian.org/the-alignment-problem/) and took a deep learning class from [fast.ai](https://course.fast.ai/). I was interested in learning how some of the deep learning methods worked in practice - in particular understanding how data is processed and incorporated into the model.
 
 ## Training my own image classifier
 
