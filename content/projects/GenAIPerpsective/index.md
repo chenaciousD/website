@@ -23,7 +23,7 @@ fields like design and art, although it will undoubtedly have a substantial impa
 
 ## Curiosity is all you need
 
-From me personally, LLMs have sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through. 
+For me personally, LLMs have sparked a new enthusiasm and energy for learning and creation. Any topic, any thread, any thought, any idea has the potential to be realized if you are curious enough to see it through. 
 
 In high school, I was given a science award for being the most inquisitive. I would often annoy teachers with my questions - many of which were ignorant, sometimes repetitive, and often distracting - but they were an essential part of the way I learned. My questions were my brain trying to form and validate my mental model of a concept. LLMs like GPT are teachers with limitless energy, infinite patience. It doesn't judge, it comes along with you on your learning journey and it never tires. To get the most value out of an LLM like GPT, you really have to probe it. You have to experiment with the technology itself and see what's possible.
 
