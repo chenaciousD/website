@@ -8,7 +8,7 @@ layout: "resume"
 
 **Group Product Manager** - [Juniper Square](https://www.junipersquare.com/) (2020 - 2023)
 
-> Juniper Square is a fintech unicorn startup. I was responsible for the investor relations reporting product during a period of rapid scaling (5x revenue and 5x headcount). Major initiatives I led include the company's overall enterprise product strategy and roadmap, data model and product expansion to enter new verticals, definition of Juniper Square's first externally available API, a variety of innovative net new core product features such as Outlook Integration and customized reporting, and maintaining the core product for usability, scale and performance during this critical growth period.
+> Juniper Square is a unicorn fintech startup. I was responsible for the investor relations reporting product during a period of rapid scaling (5x revenue and 5x headcount). Major initiatives I led include the company's overall enterprise product strategy and roadmap, data model and product expansion to enter new verticals, definition of Juniper Square's first externally available API, a variety of innovative net new core product features such as Outlook Integration and customized reporting, and maintainenance of the core product for usability and performance during this critical scaling period.
    
 **Principal** - [frog design](https://www.frog.co/) (2014 - 2019)
 
@@ -37,10 +37,10 @@ layout: "resume"
 ## My Story
 My unconventional career path has taken me from private equity investing to design consulting to tech product management. These diverse experiences have equipped me with a wide range of skills, which prove valuable in cross-functional positions such as product management:
 
-- `Diverse industry and problem exposure` - My repeated exposure to design problems across a variety of industries and consumer types enables me to generate innovative ideas and draw connections more quickly. 
+- `Diverse industry and problem exposure` - My exposure to design problems across a variety of industries and consumer types enables me to generate innovative ideas and draw connections more quickly. 
 - `High Learning Capacity` - My ability to learn and adapt has enabled me to build trust and gain expertise repeatedly across multiple industries and roles.
 - `User Empathy and Design` - I have significant experience running user research and design procesess honed repeatedly over multiple consulting engagements.
-- `Storytelling` - Through my business development responsibilities at frog, I developed a skill for crafting compelling narratives and presentations.
+- `Storytelling` - Through my business development responsibilities at frog, I developed a skill for crafting compelling narratives and presentations that I leverage in my role as product manager to help communicate ideas and features - internally and externally.
 - `Technical Curiosity` - At Juniper Square, I collaborated closely with engineers on many technical aspects of our core data model. I have a passion for understanding complex systems and getting my hands dirty as exemplified by some of my recent AI prototypes.
 
 
