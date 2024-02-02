@@ -30,7 +30,7 @@ layout: "resume"
 
 > Coursework at d.school. Design & Manufacturing Club. 
 
-**BA Economics, History of Art & Architecture ** - [Harvard College](https://college.harvard.edu/)
+**BA Economics, History of Art & Architecture** - [Harvard College](https://college.harvard.edu/)
 
 > Magna cum laude (Thesis with Ed Glaeser); *phi beta kappa*
 
