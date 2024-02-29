@@ -12,11 +12,11 @@ layout: "resume"
 
 > The company's overall enterprise product strategy and roadmap. 
 
-> 0 -> 1 product and market expansion into new verticals which included data model changes and new product experiences
+> 1. 0 -> 1 product and market expansion into new verticals which included data model changes and new product experiences
 
-> Definition of Juniper Square's first externally available API and approach to integrations
+> 2. Definition of Juniper Square's first externally available API and approach to integrations
 
-> New feature development such as Outlook Integration and customized reporting 
+> 3. New feature development such as Outlook Integration and customized reporting 
 
 > Maintenance, reporting and operations of the core product for usability and performance during this critical scaling period.
    
