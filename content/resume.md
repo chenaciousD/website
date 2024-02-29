@@ -8,7 +8,12 @@ layout: "resume"
 
 **Group Product Manager** - [Juniper Square](https://www.junipersquare.com/) (2020 - 2023)
 
-> Juniper Square is a unicorn fintech startup. I was responsible for the investor relations reporting product during a period of rapid scaling (5x revenue and 5x headcount). Major initiatives I led include the company's overall enterprise product strategy and roadmap, data model and product expansion to enter new verticals, definition of Juniper Square's first externally available API, a variety of innovative net new core product features such as Outlook Integration and customized reporting, and maintenance of the core product for usability and performance during this critical scaling period.
+> Juniper Square is a unicorn fintech startup. I was responsible for the investor relations reporting product during a period of rapid scaling (5x revenue and 5x headcount). Major initiatives I led include 
+1. The company's overall enterprise product strategy and roadmap. 
+2. 0 -> 1 product and market expansion into new verticals which included data model changes and new product experiences
+3. Definition of Juniper Square's first externally available API and approach to integrations
+4. New feature development such as Outlook Integration and customized reporting 
+5. Maintenance, reporting and operations of the core product for usability and performance during this critical scaling period.
    
 **Principal** - [frog design](https://www.frog.co/) (2014 - 2019)
 
