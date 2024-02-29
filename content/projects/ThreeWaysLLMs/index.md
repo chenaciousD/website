@@ -51,4 +51,5 @@ Most recommendation engines use collaborative filtering or content-based filteri
 
 {{< figure src="Place-recommender.jpeg" title="Sample Natural Language Conversations" >}}
 
+A potential enhancement would be to use OpenAI's function calling feature which would  allow custom functions (like the search nearby places query) to be integrated and executed as part of the conversation with an AI model. The AI model would recognize when the user might be asking a question related to the custom function, parse the natural language for the inputs needed for the function, and automatically invoke the function with the relevant arguments and then serve the results as part of the generated response in the conversation.
 
