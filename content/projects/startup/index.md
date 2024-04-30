@@ -16,7 +16,7 @@ We then took this problem area and applied to a well known incubator, got to the
 
 **What happened and where did we go wrong?**
 
-When we first connected, we thought we had covered the basics. We immediately spent time aligning on controversial questions related to roles, responsibilities, and ownership. We spent time aligning on our mutual passion areas and problem spaces. We spent time aligning on why we wanted to start a company. Basically all the easy, somewhat perfunctory things to align on.
+When we first connected, we thought we had covered the basics. We immediately spent time aligning on controversial questions related to roles, responsibilities, and ownership. We aligned on our mutual passion areas and problem spaces. We aligned on why we wanted to start a company. Basically all the easy, somewhat perfunctory things to align on.
 
 All seemed great. However, as soon as we got into the weeds of product development, working with customers, and staying accountable to each other - we realized that we were actually quite misaligned. Here are some of the takeaways from my experience:
  
