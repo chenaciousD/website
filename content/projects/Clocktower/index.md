@@ -2,7 +2,7 @@
 title: "Furnitecture: Bringing more Light to a Loft"
 date: 2021-04-01T02:01:58+05:30
 description: "An AI car designed to build a relationship between car and driver"
-draft: true
+draft: false
 image: "CLK-Front.jpg"
 tags: [personal project, architecture]
 tldr: "A personal project about designing and managing a home renovation"
