@@ -48,13 +48,14 @@ The basis for working together. Table stakes are necessary to start working toge
 
 # Grit Orientation 
 Necessary to sustain a team. Characteristics necessary to break through barriers and follow through on commitments.
-- `Perseverance:` Can the team adapts, take initiative to move projects forward regardless of obstacles and without external prompting
+- `Perseverance:` Can the team adapt, take initiative to move projects forward regardless of obstacles and without external prompting
 - `Commitment:` How committed is everyone and how is this commitment reflected in personal sacrifices?
 - `Resilience:` What is the level emotional strength to endure stress and challenges without breaking focus?
-Other areas worth looking out for: velocity, curiosity, optimism, initiative, flexibility
+
+Other areas worth looking into for alignment are velocity, curiosity, optimism, initiative, flexibility
 
 # Founder-Market Fit
-The alignment between the team’s tangible assets and the needs of the target market. Assets should be complementary but also have some degree of overlap.
+The alignment between the team’s assets and the needs of the target market. Assets should be complementary but also have some degree of overlap.
 - `Professional experiences:` Does the team have professional experiences valuable to the target market? Have they seen similar problems in prior roles? Do they know the competition? Is there sufficient overlap in experiences across the team? What is their exposure to the various functions of the business?
 - `Hard & soft skills:` Does the team have the range of hard and soft skills to build a solution for the market? Different technical skills, marketing/sales skills, customer relationship etc?
 - `Network:` Does the team have relevant networks of potential customers, employees, and partners to succeed in the market? 
