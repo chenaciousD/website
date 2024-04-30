@@ -4,20 +4,20 @@ date: 2022-12-22T18:54:38-08:00
 draft: false
 description: "Blah blah blah"
 image: "iphone3.jpg"
-tldr: "Three lessons I learned at Juniper Square"
+tldr: "Co-founder compatibilty takeaways"
 ---
 
-{{< figure src="iphone3.jpg" title="FYI, I'm known as iPhone(3) on zoom" >}}
+{{< figure src="startup-AI.jpg">}}
 
-Over the last two months, I worked with two technical co-founders (whom I connected with on YC co-founder platform) to find a compelling problem space, product concept and attractive market.
+In March and April 2024, I worked with two engineers (whom I connected with on YC co-founder platform) to find a compelling problem space, product concept and attractive market with the goal of co-founding a company together.
 
-The two technical founders had incredible academic and professional credentials having worked at all the big tech names but they had limited exposure to real-world business problems. However, they seemed eager to learn. I led them on a 7 week journey of customer discovery, providing them access to my network. We spoke to over 30 customers over this time period, honing in where we wanted to focus our development efforts. Through our discovery process, we found some interesting insights and an extremely technically challenging problem area that everyone on the team was excited to work on (AI Infrastructure to Automate Data Pipelines).
+The two engineers had incredible academic and professional credentials having worked at all the big tech names but they had limited exposure to real-world business problems. However, they seemed eager to learn. I led them on a 7 week journey of customer discovery, providing them access to my network. We spoke to over 30 customers over this time period, honing in where we wanted to focus our development efforts. Through our discovery process, we found some interesting insights and an extremely technically challenging problem area that everyone on the team was excited to work on (AI Infrastructure to Automate Data Pipelines).
 
 We then took this problem area and applied to a well known incubator, got to the final rounds of their diligence process and then also received a YC interview for this upcoming summer batch in 2024. However, we decided to part ways minutes before receiving the invitation to interview.
 
 What happened and where did we go wrong?
 
-When we first started talking, we immediately spent time aligning on questions related to roles, responsibilities, equity split. We spent time aligning on our mutual passion areas and problem spaces. We spent time aligning on why we wanted to start a company. Basically all the easy, somewhat perfunctory things to align on.
+When we first started talking, we immediately spent time aligning on questions related to roles, responsibilities, and ownership. We spent time aligning on our mutual passion areas and problem spaces. We spent time aligning on why we wanted to start a company. Basically all the easy, somewhat perfunctory things to align on.
 
 All seemed great. However, as soon as we got into the weeds of product development, working with customers, and staying accountable to each other - we realized that we were actually quite misaligned. Here are some of the takeaways from my experience:
  
@@ -37,7 +37,7 @@ I did not fully appreciate how fragile a team is in its infancy. No external for
 
 Going through this process was a remarkable experience. I’ve reflected on some of the characteristics I’m going to look out for next if I continue to pursue entrepreneurship. It’s comprised of three layers: Table stakes, Founder-Market Fit, and Grit Orientation.
 
-
+{{< figure src="co-founder-rubric.jpg" title="Synthesis of my experience" >}}
 
 # Table stakes
 The basis for working together. Table stakes to start working together.
