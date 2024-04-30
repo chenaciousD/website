@@ -36,7 +36,7 @@ I did not fully appreciate how fragile a team is at this stage. No external forc
 
 Going through this process was a remarkable experience. I’ve reflected on some of the characteristics I’m going to look out for next if I continue to pursue entrepreneurship. I've created a rubric which is comprised of three layers: Table stakes, Founder-Market Fit, and Grit Orientation.
 
-{{< figure src="co-founder-rubric.jpg" title="My rubric" width="500px" >}}
+{{< figure src="co-founder-rubric.jpg" title="Founder <> co-founder rubric" width="500px" >}}
 
 Here are a few questions that I plan to ask myself every time I evaluate a potential co-founder:
 
