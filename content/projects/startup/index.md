@@ -1,7 +1,6 @@
 ---
 title: "How and why I decided to decline a YC interview"
 date: 2022-12-22T18:54:38-08:00
-draft: false
 description: "Blah blah blah"
 image: "startup-AI.jpg"
 tldr: "Co-founder compatibilty takeaways"
