@@ -39,6 +39,8 @@ Going through this process was a remarkable experience. I’ve reflected on some
 
 {{< figure src="co-founder-rubric.jpg" title="Synthesis of my experience" >}}
 
+Here are a few questions that I plan to ask myself every time I evaluate a potential co-founder:
+
 # Table stakes
 The basis for working together. Table stakes to start working together.
 - `Shared Passions:` What are you interested in building? What are your domain interests? What problem areas do you want to solve? What industries are you interested in?
