@@ -10,7 +10,7 @@ tldr: "Adventures finding founder <> co-founder fit"
 
 In March and April 2024, I worked with two engineers (whom I connected with on the YC co-founder platform) to find a compelling problem space, product concept and attractive market with the goal of co-founding a company together.
 
-The two engineers had incredible academic and professional credentials having worked at all the big tech names but they had limited exposure to real-world business problems. However, they seemed eager to learn. I led them on a 7 week journey of customer discovery and provided them access to my network. We spoke to over 30 customers over this time period, honing in where we wanted to focus our development efforts. Through our discovery process, we found some interesting insights and an extremely technically challenging problem area that everyone on the team was excited to work on (AI Infrastructure to Automate Data Pipelines - I'll write about this in another post).
+The two engineers had incredible academic and professional credentials having worked at all the big tech names but they had limited exposure to real-world business problems. However, they seemed eager to learn. I led them on a 7 week journey of customer discovery and provided them access to my network. We spoke to over 30 customers over this time period, honing in where we wanted to focus our development efforts. Through our discovery process, we found some interesting insights and a technically challenging problem area that everyone on the team was excited to work on (AI Infrastructure to Automate Data Pipelines - I'll write about this in another post).
 
 We then took this problem area and applied to a well known incubator, got to the final rounds of their diligence process and then also received a YC interview for this upcoming summer batch in 2024. However, we decided to part ways minutes before receiving the invitation to interview.
 
@@ -34,7 +34,7 @@ I did not fully appreciate how fragile a team is at this stage. No external forc
 
 ## Moving Forward
 
-Going through this process was a remarkable experience. I’ve reflected on some of the characteristics I’m going to look out for next if I continue to pursue entrepreneurship. I've created a rubric which is comprised of three layers: Table stakes, Founder-Market Fit, and Grit Orientation.
+Going through this process was a remarkable experience. I’ve reflected on some of the characteristics I’m going to look out for next if I continue to pursue entrepreneurship. I've created a rubric which is comprised of three layers: Table stakes, Grit Orientation and Founder-Market fit.
 
 {{< figure src="co-founder-rubric.jpg" title="Founder <> co-founder rubric" width="500px" >}}
 
@@ -55,7 +55,7 @@ Other areas worth looking out for: velocity, curiosity, optimism, initiative, fl
 
 # Founder-Market Fit
 The alignment between the team’s tangible assets and the needs of the target market. The team's assets should be worth more together than the sum of it parts. 
-- `Professional experiences:` Does the team have professional experiences valuable to the target market? Have they seen similar problems in prior roles? Do they know the competition? Is there sufficient overlap in experiences across the team?
+- `Professional experiences:` Does the team have professional experiences valuable to the target market? Have they seen similar problems in prior roles? Do they know the competition? Is there sufficient overlap in experiences across the team? What is their exposure to the various functions of the business?
 - `Hard & soft skills:` Does the team have the range of hard and soft skills to build a solution for the market? Different technical skills, marketing/sales skills, customer relationship etc?
 - `Network:` Does the team have relevant networks of potential customers, employees, and partners to succeed in the market? 
 
