@@ -12,7 +12,7 @@ In March and April 2024, I worked with two engineers (whom I connected with on t
 
 The two engineers had incredible academic and professional credentials having worked at all the big tech names but they had limited exposure to real-world business problems. However, they were eager to learn. I led them on a 7 week journey of customer discovery and provided them access to my network. We spoke to over 30 customers, honing in on where we wanted to focus our design and development efforts. Through our discovery process, we found some interesting insights and a technically challenging problem area that everyone on the team was excited to work on (AI Infrastructure to Automate Data Pipelines - I'll write about this in another post).
 
-We then took this problem area and applied to a well known incubator, got to the final rounds of their diligence process and then also received a YC interview for this upcoming summer batch in 2024. However, we decided to part ways minutes before receiving the invitation to interview.
+We then took this problem area and applied to a well known incubator, got to the final rounds of their diligence process and then also received a YC interview for the Summer 2024 batch. However, we decided to part ways minutes before receiving the invitation to interview.
 
 **What happened and where did we go wrong?**
 
