@@ -55,7 +55,7 @@ The alignment between the team’s tangible assets and the needs of the target m
 
 # Grit Orientation 
 Characteristics of the team to both break through barriers and follow through on commitments 
-- `Perserverance:` Can the team adapts, take initiative to move projects forward regardless of obstacles and without external prompting
+- `Perseverance:` Can the team adapts, take initiative to move projects forward regardless of obstacles and without external prompting
 - `Commitment:` How committed is everyone and how is this commitment reflected in personal sacrifices?
 - `Resilience:` What is the level emotional strength to endure stress and challenges without breaking focus?
 Other areas worth looking out for: velocity, curiosity, optimism, initiative, flexibility 
