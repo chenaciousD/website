@@ -3,7 +3,7 @@ title: "Adventures finding founder <> co-founder fit"
 date: 2022-12-22T18:54:38-08:00
 description: "Blah blah blah"
 image: "startup-AI.jpg"
-tldr: "How and why I deciding to decline a YC interview"
+tldr: "How and why I decided to decline a YC interview"
 ---
 
 {{< figure src="startup-AI.jpg">}}
