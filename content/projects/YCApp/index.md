@@ -1,9 +1,9 @@
 ---
-title: "Adventures finding founder <> co-founder fit"
+title: "YC Application Sample"
 date: 2022-1-22T18:54:38-08:00
 description: "How and why I decided to decline a YC interview"
-image: "startup-AI.jpg"
-tldr: "How and why I decided to decline a YC interview"
+image: "AI-datapipelines.jpg"
+tldr: "Example of sample YC App"
 ---
 
 {{< figure src="AI-datapipelines.jpg">}}
@@ -28,13 +28,15 @@ Daniel empathizes with this problem too having worked as a product manager on se
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
-Legacy providers (ex: Informatica, Talend)
-Modern data incumbents (ex: dbt, Fivetran, Airbyte, Snowflake, Databricks)
-Services companies (ex: Accenture, Capgemini, Palantir)
+- Legacy providers (ex: Informatica, Talend)
+- Modern data incumbents (ex: dbt, Fivetran, Airbyte, Snowflake, Databricks)
+- Services companies (ex: Accenture, Capgemini, Palantir)
 
 We looked at the various layers of the analytics/data stack: ingestion, storage, transformation, and visualization. We think the biggest opportunity for AI is in the transformation layer. Data is only as valuable as an organization's ability to productize it.
 
 The key to making the transformation layer more efficient is finding novel ways to extract and document business knowledge and then layer this information on top of raw data in a way that is interpretable by AI to auto-generate the custom data transformations necessary to productize the data for downstream consumers. Most of the above competition solely targets developers only. In order to solve this problem, business users and their domain expertise must be integrated into the workflow.
+
+{{< figure src="ValueProps.png">}}
 
 ## How do or will you make money? How much could you make?
  
