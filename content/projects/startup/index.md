@@ -22,7 +22,7 @@ All seemed great. However, as soon as we got into the weeds of product developme
  
 ## Takeaway 1: Build together (ALOT) before applying together
 
-My co-founders were really keen on getting into a respected incubator. As the CEO and non-technical co-founder, I was happy to weave a great story, problem, market, product idea to convince incubators to bet on us. We were able to do this quite credibly, given the credentials of the team. However, at some point, getting into an incubator became more important than building a product, business and team. This really obscured several underlying team issues. Collaborating on an incubator application is not a good way to test a team's ability to collaborate and execute. The only way to know is to build something together that has some stakes to it. To give ourselves some credit, we did try to test this but it only took a week and didn’t have sufficient stakes. 
+My co-founders were really keen on getting into a respected incubator. As the CEO and non-technical co-founder, I was happy to try to weave a great story, problem, market, and product idea to convince incubators to bet on us. We were able to do this decently well, given the credentials of the team. However, at some point, getting into an incubator became more important than building a product, business and team. This really obscured several underlying team issues. Collaborating on an incubator application is not a good way to test a team's ability to collaborate and execute. The only way to know is to build something together that has some stakes to it. To give ourselves some credit, we did try to test this but it only took a week and didn’t have sufficient stakes. 
 
 ## Takeaway 2: Regularly reassess founder-market fit 
 
