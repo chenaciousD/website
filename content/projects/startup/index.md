@@ -12,11 +12,11 @@ From February to April 2024, I worked with two engineers (whom I connected with 
 
 The two engineers had impressive academic and professional credentials having worked at all the big tech names but they had limited exposure to real-world business problems. However, they were eager to learn. I led them on a seven week journey of customer discovery and provided them access to my network. We spoke to many customers and honed in on where we wanted to focus our design and development efforts. We found a technically challenging, high value business problem that everyone on the team was excited to work on (AI Infrastructure to Automate Data Pipelines - I'll write about this in another post).
 
-We then took this problem area and applied to a well known incubators. We got to the final rounds of a couple and also received a YC interview for the Summer 2024 batch. However, we decided to part ways minutes before receiving the invitation to interview for YC.
+We then took this problem area and applied to well known incubators. We got to the final rounds of a couple and also received a YC interview for the Summer 2024 batch. However, we decided to part ways minutes before receiving the invitation to interview for YC.
 
 **What happened and where did we go wrong?**
 
-When we first connected, we thought we had covered the basics co-founder compatability. We immediately aligned on controversial questions related to roles, responsibilities, and equity ownership. We aligned on our mutual passion areas and problem spaces. We aligned on why we wanted to start a company. Basically all the easy, somewhat perfunctory things to align on.
+When we first connected, we thought we had covered the basics of co-founder compatability. We immediately aligned on controversial questions related to roles, responsibilities, and equity ownership. We aligned on our mutual passion areas and problem spaces. We aligned on why we wanted to start a company. Basically all the easy, somewhat perfunctory things to align on.
 
 All seemed great. However, as soon as we got into the weeds of product development, working with customers, and staying accountable to each other - we realized that we were actually quite misaligned. Here are some of the takeaways from my experience:
  
