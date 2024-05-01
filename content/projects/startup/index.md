@@ -34,14 +34,14 @@ I did not fully appreciate how fragile a team is at this stage. No external forc
 
 ## Moving Forward
 
-Going through this process was a remarkable experience. I’ve reflected on some of the characteristics I’m going to look out for next if I continue to pursue entrepreneurship. I've created a rubric which is comprised of three layers: Table stakes, Grit Orientation and Founder-Market fit.
+Going through this process was a great experience. I’ve reflected on some of the characteristics I’m going to look out for next if I continue to pursue entrepreneurship. I've created a rubric which is comprised of three layers: Table stakes, Grit Orientation and Founder-Market fit. 
 
 {{< figure src="co-founder-rubric.jpg" title="Founder <> co-founder rubric" width="500px" >}}
 
 Here are a few questions that I plan to ask myself every time I evaluate a potential co-founder. I also hope that a potential co-founder asks me the same questions.
 
 # Table stakes
-The basis for working together. Table stakes are necessary to start working together.
+The basis for working together. Table stakes are necessary to start working together. Shared ideas around all three are necessary to build anything.
 - `Shared Passions:` What are you interested in building? What are your domain interests? What problem areas do you want to solve? What industries are you interested in?
 - `Shared Purpose:` Why are you starting a company? What do you think about the responsibilities of taking on venture capital and what this entails?
 - `Shared Practices:` How do you collaborate? How do you express and get feedback on your ideas? How do you plan? What keeps you accountable? How do you share your work?
