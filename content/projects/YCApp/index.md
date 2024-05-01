@@ -18,13 +18,12 @@ AI Infrastructure to Automate Data Pipelines
 
 Our product leverages AI to accelerate the custom data engineering work required to clean, unify, model, and transform raw source data from disparate systems like ERPs, CRMs, POSs, into useful datasets for BI, analytics and other downstream purposes. In the long run, our product dynamically monitors and proposes updates to data pipelines based on changes in source data and business context.
 
-## Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
+## Why did you pick this idea to work on? How do you know people need what you're making?
 
 After speaking to over 30 businesses, we heard their biggest challenge was access to data and analytics. We believe the main bottleneck is in the transformation step of data pipelines: a veteran BI/data expert stated: “the number one unsolved data problem not addressed by any software today is data congruency across systems and within systems.”
 
 Companies spend years and millions of dollars on tools and people building custom data pipelines. Much of this work is spent mapping unique business processes and domain expertise on top of fragmented and ambiguous data from disparate systems. This labor intensive approach is unsustainable.
 
-Daniel empathizes with this problem too having worked as a product manager on several data pipelines at Juniper Square, an enterprise CRM and ERP. He also has been consulting for a large enterprise’s IT organization where he saw the bottleneck that data pipelines were creating for various downstream use cases.
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
