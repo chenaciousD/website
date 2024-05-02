@@ -16,7 +16,7 @@ We then took this problem area and applied to well known incubators. We got to t
 
 **What happened and where did we go wrong?**
 
-When we first connected, we thought we covered the basics of co-founder compatability. We aligned on controversial questions related to roles, responsibilities, and equity ownership. We aligned on our mutual passion areas and we aligned on why we wanted to start a company. Basically all the easy, perfunctory topics.
+When we first connected, we thought we covered the basics of co-founder compatability. We aligned on controversial questions related to roles, responsibilities, and equity ownership. We aligned on our mutual interest areas and why we wanted to start a company. Basically all the easy, perfunctory topics.
 
 All seemed great. However, as soon as we got into the weeds of product development, working with customers, and staying accountable to each other - we realized that we were actually quite misaligned. Here are some of the takeaways from my experience:
  
@@ -42,9 +42,9 @@ Here are a few questions that I plan to ask myself every time I evaluate a poten
 
 # Velocity
 A shared perspective and expectation of speed and progress.
-- `Learning` How fast and willing are you to learn new skills?
+- `Learning` How fast and willing are you to learn?
 - `Execution` How quickly can you execute?
-- `Decision-making` How quickly can you make decisions with limited information?
+- `Decision-making` How quickly can you make decisions?
 
 # Foundations 
 Shared ideas around passion, purpose and practice.
