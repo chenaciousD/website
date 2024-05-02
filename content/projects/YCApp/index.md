@@ -1,7 +1,5 @@
 ---
 title: "YC Application Sample"
-date: 2022-1-22T18:54:38-08:00
-description: "How and why I decided to decline a YC interview"
 image: "AI-datapipelines.jpg"
 tldr: "Example of sample YC App"
 ---
@@ -23,7 +21,6 @@ Our product leverages AI to accelerate the custom data engineering work required
 After speaking to over 30 businesses, we heard their biggest challenge was access to data and analytics. We believe the main bottleneck is in the transformation step of data pipelines: a veteran BI/data expert stated: “the number one unsolved data problem not addressed by any software today is data congruency across systems and within systems.”
 
 Companies spend years and millions of dollars on tools and people building custom data pipelines. Much of this work is spent mapping unique business processes and domain expertise on top of fragmented and ambiguous data from disparate systems. This labor intensive approach is unsustainable.
-
 
 ## Who are your competitors? What do you understand about your business that they don't?
 
