@@ -34,14 +34,14 @@ I did not fully appreciate how fragile a team is at this stage. No external forc
 
 ## Moving Forward
 
-I’ve reflected on some of the characteristics I’m going to look for in co-founders if I continue to pursue entrepreneurship. I've created a rubric which is comprised of four layers: Velocity, Foundations, Grit Orientation and Founder-Market fit. 
+I’ve reflected on some of the characteristics I’m going to look for in co-founders if I continue to pursue entrepreneurship. I've created a framework which is comprised of four layers: Velocity, Foundations, Grit Orientation and Founder-Market fit. 
 
 {{< figure src="co-founder-rubric.jpg" title="Founder <> co-founder rubric" width="500px" >}}
 
 Here are a few questions that I plan to ask myself every time I evaluate a potential co-founder. I also hope that a potential co-founder asks me the same questions.
 
 # Velocity
-A shared perspective and expectation of speed and progress.
+Shared perspectives on the pace of progress.
 - `Learning` How fast and willing are you to learn?
 - `Execution` How quickly can you execute?
 - `Decision-making` How quickly can you make decisions?
@@ -58,10 +58,8 @@ Shared characteristics necessary to break through barriers and follow through on
 - `Commitment:` How committed is everyone and how is this commitment reflected in personal sacrifices?
 - `Resilience:` What is the level emotional strength to endure stress and challenges without breaking focus?
 
-Other areas worth looking into for alignment are velocity/speed of learning, curiosity, optimism, initiative, flexibility
-
 # Founder-Market Fit
-Alignment between the team’s assets and the needs of the target market. Complementary and overlapping.
+Alignment between the team’s assets and the needs of the target market. Complementary but also overlapping.
 - `Professional experiences:` Does the team have professional experiences valuable to the target market? Have they seen similar problems in prior roles? Do they know the competition? Is there sufficient overlap in experiences across the team? What is their exposure to the various functions of a business?
 - `Hard & soft skills:` Does the team have the range of hard and soft skills to build a solution for the market? Different technical skills, marketing/sales skills, customer relationship etc?
 - `Network:` Does the team have relevant networks of potential customers, employees, and partners to succeed in the market? 
