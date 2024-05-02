@@ -8,9 +8,9 @@ tldr: "How and why I decided to decline a YC interview"
 
 {{< figure src="startup-AI.jpg">}}
 
-From February to April 2024, I worked with two engineers (whom I connected with on the YC co-founder platform) to find a compelling problem space, product concept and attractive market with the goal of co-founding a company together.
+From February to April 2024, I worked with two engineers (whom I connected with on the YC co-founder platform) to find a compelling problem space, attractive market, and product concept with the goal of co-founding a company together.
 
-The two engineers had impressive academic and professional credentials having worked at all the big tech names but they had limited exposure to real-world business problems. However, they were eager to learn. I led them on a seven week journey of customer discovery and provided them access to my network. We spoke to many customers and honed in on where we wanted to focus our design and development efforts. We found a technically challenging, high value business problem that everyone on the team was excited to work on (AI Infrastructure to Automate Data Pipelines - I'll write about this in another post).
+The two engineers had impressive academic and professional credentials having worked at all the big tech names but they had limited exposure to real-world business problems. However, they were eager to learn. I led them on a seven week journey of customer discovery and provided them access to my network. We spoke to many customers and honed in on where we wanted to focus our design and development efforts. We found a technically challenging, high value business problem that everyone on the team was excited to work on ([AI Infrastructure to Automate Data Pipelines](https://www.chenaciousd.com/projects/ycapp/)).
 
 We then took this problem area and applied to well known incubators. We got to the final rounds of a couple and also received a YC interview for the Summer 2024 batch. However, we decided to part ways minutes before receiving the invitation to interview for YC.
 
