@@ -40,7 +40,13 @@ Going through this process was a great experience. I’ve reflected on some of t
 
 Here are a few questions that I plan to ask myself every time I evaluate a potential co-founder. I also hope that a potential co-founder asks me the same questions.
 
-# Table stakes
+# Velocity
+The way you think about opportunity cost. A shared perspective and expectation of speed and progress.
+- `Learning` How fast and willing are you to learn new skills?
+- `Execution` How quickly can you execute?
+- `Decision-making` How quickly can you make decisions with limited information?
+
+# Collaboration 
 The basis for working together. Table stakes are necessary to start working together. Shared ideas around all three are necessary to build anything.
 - `Shared Passions:` What are you interested in building? What are your domain interests? What problem areas do you want to solve? What industries are you interested in?
 - `Shared Purpose:` Why are you starting a company? What do you think about the responsibilities of taking on venture capital and what this entails?
