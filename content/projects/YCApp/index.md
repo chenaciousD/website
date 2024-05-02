@@ -1,12 +1,12 @@
 ---
-title: "YC Application Sample"
+title: "AI Infrastructure to Automate Data Pipelines"
 image: "AI-datapipelines.jpg"
-tldr: "Example of sample YC App"
+tldr: "A portion of what we submitted in our application"
 ---
 
 {{< figure src="AI-datapipelines.jpg">}}
 
-Here is what we applied to YC with.
+Over seven weeks, we spoke to several end business users. Thank you to my friends, former co-workers, and managers who spoke to us! Our goal was to find horizontal applications of AI in the enterprise. We first explored leveraging AI to create custom business apps. Over the course of several interviews, however, we repeatedly heard the difficulty of answering basic BI/analytics questions. One person we interviewed said: "Everyone has a business question they want to ask. More people want access to Looker than Retool." As we investigated the data/analytics stack, it quickly became apparent that the bottleneck for more accessible and reliable analytics is not at the visualization level, it's in the data pipeline and specifically we had a hypothesis it was the data transformation step where raw, messy and ambiguous data from multiple source systems is wrangled, cleaned, munged, and unified into data that can actually be used by business end users.
  
 ## Describe what your company does in 50 characters or less.
 
