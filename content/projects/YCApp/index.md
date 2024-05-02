@@ -1,7 +1,7 @@
 ---
 title: "AI Infrastructure to Automate Data Pipelines"
 image: "AI-datapipelines.jpg"
-tldr: "A portion of what we submitted in our application"
+tldr: "An excerpt of our application"
 ---
 
 {{< figure src="AI-datapipelines.jpg">}}
