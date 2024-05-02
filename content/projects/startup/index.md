@@ -46,7 +46,7 @@ The way you think about opportunity cost. A shared perspective and expectation o
 - `Execution` How quickly can you execute?
 - `Decision-making` How quickly can you make decisions with limited information?
 
-# Collaboration 
+# Foundations 
 The basis for working together. Table stakes are necessary to start working together. Shared ideas around all three are necessary to build anything.
 - `Shared Passions:` What are you interested in building? What are your domain interests? What problem areas do you want to solve? What industries are you interested in?
 - `Shared Purpose:` Why are you starting a company? What do you think about the responsibilities of taking on venture capital and what this entails?
